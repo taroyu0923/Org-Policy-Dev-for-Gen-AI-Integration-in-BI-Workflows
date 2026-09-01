@@ -1,0 +1,10 @@
+# Privacy: raw interview data never leaves local storage
+interviews/transcripts/*
+!interviews/transcripts/.gitkeep
+# Copyright: source PDFs are not redistributed
+*.pdf
+literature/pdfs/
+# Scratch
+*.tmp
+~$*
+.DS_Store
