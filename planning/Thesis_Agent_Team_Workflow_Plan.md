@@ -2,7 +2,7 @@
 
 **Thesis:** Organizational Policy Development for Generative AI Integration in BI Workflows
 **Author:** Liu Yu-Shu (Albert) — MSc Business Analytics, Aalto University
-**Version:** v1, Sep 1, 2026
+**Version:** v1.1, Sep 1, 2026 — added per-role model assignments (Fable reserved for orchestration)
 **Companion doc:** `Literature_Review_and_Research_Method_Plan.md` (timeline, clusters, method)
 
 ---
@@ -18,18 +18,28 @@
 
 ## 2. Agent Roster
 
-| # | Role | Who / tool | What it does | When |
-|---|------|-----------|--------------|------|
-| 0 | **Orchestrator & planner** | **Fable** (main session) | Chapter-by-chapter planning (`/ars-plan`), task breakdown, dispatching agents, merging outputs, quality gate before anything is committed | Continuous |
-| 1 | **Reading & summarization layer** | **NotebookLM** (via notebook MCP) | Holds all source PDFs; produces per-source structured summaries (WHY/HOW/WHAT), answers cross-source questions ("how do these 7 papers define AI governance?"), pulls exact quotes with source grounding | Per cluster, Sep 1–15 |
-| 2 | **Gap-fill search agent** | general-purpose agent + WebSearch / arXiv lookup | Targeted searches for the known gaps (Sec. 2.5 of the plan): BI-specific governance, EU AI Act compliance, Nordic/Finnish context; returns candidate papers with relevance ratings for your approval | Sep 9–15 window |
-| 3 | **Synthesis agent** | ARS `synthesis_agent` | Integrates NotebookLM cluster notes across sources: convergences, conflicts, and the research-gap map that becomes Chapter 7 (Synthesis) | After each cluster's notes exist |
-| 4 | **Methodology architect** | ARS `research_architect_agent` | Sanity-checks the method chapter and helps derive the interview protocol from lit findings (IPR framework, Sec. 3.3) | Sep 2–8 window |
-| 5 | **Writer / compiler** | ARS `report_compiler_agent` (or `/ars-lit-review` mode) | Turns synthesis notes into APA-7 chapter drafts in Markdown | Per chapter |
-| 6 | **Reviewer panel** | `/ars-reviewer` | Simulated peer review (EIC + 3 reviewers + devil's advocate) on the full lit review draft before it goes to your supervisor | Sep 15 + Nov revision phase |
-| 7 | **Citation QA** | `/ars-citation-check` | Verifies every in-text citation against the reference list and flags unverifiable claims | Before each supervisor handoff |
+| # | Role | Who / tool | **Model** | What it does | When |
+|---|------|-----------|-----------|--------------|------|
+| 0 | **Orchestrator & planner** | **Fable** (main session) | **Fable** — reserved for this role only | Chapter-by-chapter planning (`/ars-plan`), task breakdown, dispatching agents, merging outputs, quality gate before anything is committed | Continuous |
+| 1 | **Reading & summarization layer** | **NotebookLM** (via notebook MCP) | **Gemini** (NotebookLM's own model — source-grounded by design) | Holds all source PDFs; produces per-source structured summaries (WHY/HOW/WHAT), answers cross-source questions, pulls exact quotes with source grounding | Per cluster, Sep 1–15 |
+| 2 | **Note filing & repo chores** | lightweight sub-agent | **Haiku** | Files NotebookLM answers into `literature/notes/` templates, keeps `references.bib` keys consistent, updates README status checklist — mechanical work, no judgment | Continuous |
+| 3 | **Gap-fill search agent** | general-purpose agent + WebSearch / arXiv lookup | **Sonnet** | Targeted searches for the known gaps (Sec. 2.5): BI-specific governance, EU AI Act, Nordic/Finnish context; returns candidates with relevance ratings for your approval | Sep 9–15 window |
+| 4 | **Synthesis agent** | ARS `synthesis_agent` | **Opus** | Integrates cluster notes across sources: convergences, conflicts, and the research-gap map that becomes Chapter 7 (Synthesis) | After each cluster's notes exist |
+| 5 | **Methodology architect** | ARS `research_architect_agent` | **Opus** | Sanity-checks the method chapter and derives the interview protocol from lit findings (IPR framework, Sec. 3.3) | Sep 2–8 window |
+| 6 | **Writer / compiler** | ARS `report_compiler_agent` (or `/ars-lit-review` mode) | **Opus** | Turns synthesis notes into APA-7 chapter drafts in Markdown | Per chapter |
+| 7 | **Reviewer panel** | `/ars-reviewer` | **Opus** | Simulated peer review (EIC + 3 reviewers + devil's advocate) on the full lit review draft before it goes to your supervisor | Sep 15 + Nov revision phase |
+| 8 | **Citation QA** | `/ars-citation-check` | **Sonnet** | Verifies every in-text citation against `references.bib` and flags unverifiable claims — systematic checking, not creative reasoning | Before each supervisor handoff |
 
-Agents 2–7 already exist (ARS plugin + built-in agents) — nothing needs to be built; this doc defines how they're sequenced.
+Agents 3–8 already exist (ARS plugin + built-in agents) — nothing needs to be built; this doc defines how they're sequenced and which model each runs on (set per dispatch via the Agent tool's model override).
+
+**Model assignment principles:**
+
+- **Fable never does bulk work.** It plans, dispatches, and judges. Every token Fable spends summarizing a paper is wasted capacity — that's what the cheaper tiers and NotebookLM are for. Fable's per-chapter QA gate reads agents' *outputs*, not the source PDFs.
+- **Opus for anything that ends up in the thesis.** Synthesis memos, chapter prose, methodology reasoning, and the peer-review panel all shape the final text, so they get the strongest writing/reasoning model below Fable.
+- **Sonnet for search and verification.** Gap-fill searching and citation checking are structured, criteria-driven tasks — Sonnet handles them reliably at a fraction of the cost, and Fable reviews the shortlists anyway.
+- **Haiku for mechanical throughput.** Filing notes, renaming keys, updating checklists: high volume, zero interpretive risk.
+- **Reviewer independence:** the reviewer panel (Opus) deliberately runs on a different model than the orchestrator (Fable), which reduces the echo-chamber risk of a model approving its own writing style.
+- **Escalation rule:** if a Sonnet/Haiku agent's output fails Fable's QA gate twice, re-run the task one tier up rather than iterating a third time at the same tier.
 
 ---
 
