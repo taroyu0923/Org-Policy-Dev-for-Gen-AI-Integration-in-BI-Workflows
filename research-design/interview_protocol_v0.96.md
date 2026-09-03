@@ -1,4 +1,4 @@
-# Interview Protocol v0.95
+# Interview Protocol v0.96
 
 **Study:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows: A Qualitative Analysis of Governance Framework Evolution
 **Researcher:** Liu Yu-Shu (Albert) | **Draft:** Sep 2, 2026 (rev. after participant list confirmed) | **Status:** not yet piloted
@@ -22,6 +22,8 @@
 **One instrument, tier-branched probes.** Everyone gets the same phases and the same incident anchor so cross-tier answers are comparable; probes differ in altitude. Modelled on Lee's own tier-descending pairs, e.g. L2 "Do you design the AI system with interpretability in mind from the start?" -> L3 "Do you research and try to use the simplest and most interpretable model possible?" (`lee2024questionbank` §4.1 p.7-8).
 
 **Critical-incident anchor.** Opening with an abstract policy question yields the corporate line in generic AI-ethics vocabulary. Anchoring on a concrete BI artifact or event keeps the conversation inside the workflow. A bounded menu of three incident *types* preserves comparability when the specific incidents differ.
+
+This now has a citable warrant rather than only a design rationale. Nahar et al. (CHI'26) state their own method as: *"we ask questions about behaviors rather than ask about preferences, focusing on revealed preferences"* (`stickystories2025` §6.1.5, p.18). Ackerman independently names the risk this avoids — that *"[p]articipants may have given responses reflecting organizational policies rather than individual views"* (`agenticaiperceptions2025` §2.3, p.4) — which is precisely what an abstract policy question elicits and a concrete incident does not.
 
 **Timeline uncertainty is data.** Where a participant cannot date a change or name who made it, record the uncertainty rather than pressing. The corpus assumes governance is documented, staged and layered (`agarwal2025fivelayer` §3 p.3-5; `luna2024paradigms` p.4-5). If practitioners experience it as undated and unattributed, that mismatch is a finding.
 
@@ -170,15 +172,19 @@ Write a one-page contact summary within 24h: setting, incident type(s) chosen, t
 
 ## 10. Analysis notes
 
-- **Seed codes (a priori):** three phases; Luna's four constituents — Data, Model, Content Generation, Ethics (`luna2024paradigms` p.4-5); accountability vs. responsibility split (`priyanshu2024claude` §6.1 p.5 — illustrative only, low-tier source).
+- **Analytic spine (a priori, adopted Sep 2):** Papagiannidis, Mikalef & Conboy's **structural / procedural / relational** practice typology and its Antecedents–Practices–Effects framework (`responsibleaigovreview` pp.10–14), descending from Tallon, Ramirez & Short (2013, *JMIS*). Chosen over Luna's H-GenAIGF for three reasons: it is processual, so it fits *evolution*; it sits in an IS-discipline lineage rather than a CS/ethics one; and **relational practices are the ones the working tier can actually observe** — participants cannot see board structures, but they can see coordination, escalation, informal norms and who they ask when unsure.
+- **Seed codes (a priori, secondary):** three phases; Luna's four constituents — Data, Model, Content Generation, Ethics (`luna2024paradigms` p.4-5) — retained as an instrument/coding dimension and for the jurisdictional comparison, not as the spine; accountability vs. responsibility split (`priyanshu2024claude` §6.1 p.5 — illustrative only, low-tier source).
+- **Fourth convergence to test — the engagement gap.** Four independent sources in four venues report that governance exists and does not engage those it governs: policy is *"generally deprioritized or considered an ancillary task"* (`responsibleaigovreview` p.1); RAI processes become *"bureaucratic 'check-the-box' exercises"* (`stickystories2025` §2.1, p.4); 86% of practitioners say frameworks need enhancement (`agenticaiperceptions2025` §3.8, p.13); and the translational gap between principle and practice (`ethicaltheoriesgovmodels2025` §1, p.2). This is a claim *about the working tier* and is directly testable by this design.
+- **Candidate outcome typology — use with care.** Nahar's engagement profiles (Resistors / Indifferents / Followers / Learners / Champions, `stickystories2025` §6.4.5, pp.25–28) could classify participants. ⚠ Adopting another study's typology wholesale risks reducing the contribution to "it also applies in Taiwan and Finland." Use it as a sensitising comparison at the discussion stage, not as the finding.
 - **Inductive space:** everything BI-workflow-specific. No a priori code may be the answer to the RQ; if the findings are simply "we found Data, Model, Content and Ethics governance," the study has confirmed Luna rather than extended him.
 - **Case attributes (not codes):** tier; sector; size; document-anchored y/n; dating confidence.
+- **Reusable follow-up items:** Nahar's two-month follow-up questions transfer directly to Phase 3 — *"Have you reacted to or done anything based on the findings from our session…?"* and *"Have you had any discussions — positive or negative — about responsible AI with your peers since…?"* (`stickystories2025` §6.1.5, p.18). Papagiannidis's Table 5 research questions convert to Phase 1 and 2 prompts (`responsibleaigovreview` pp.11–12).
 - **Reliability procedure:** Luna's three-cycle consideration — first pass extracts, second reviews, third resolves disagreement (`luna2024paradigms` p.4). Adapt to a solo-researcher version (coding, re-coding after an interval, and supervisor spot-check of a sample) and state the adaptation honestly in Chapter 3.
 - **Cross-case display:** a coverage matrix in the spirit of Luna's rubric — Covered / Partially covered / Not covered (`luna2024paradigms` p.6) — applied to organizations x phases rather than regions x processes.
 
 ## 11. Known weaknesses of this draft
 
-1. No methodological citations yet (no qualitative-methods literature in Clusters A+B). Chapter 3 needs 6-8 method sources or a dedicated cluster.
+1. Method warrants now exist (Nahar, Ackerman, Papagiannidis), but the methods *foundation* is still missing — reflexive thematic analysis, critical incident technique, embedded case design, qualitative rigour criteria. Logged as search pass S4 in `../literature/search_log.md`.
 2. Language resolved (Sep 2): English master + interpreted delivery, with core items fixed bilingually. Back-translation of the fixed items still outstanding.
 2b. Tenure floor: participants #7, #12 and #14 (1–2 yr) joined after GenAI adoption and may have no evolution memory. Do not press Section E with them — use them for the sedimented state (what they found on arrival, how they learned it).
 3. Not piloted. Section B is the section most likely to over-run.

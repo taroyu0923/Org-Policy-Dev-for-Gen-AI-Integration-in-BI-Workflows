@@ -5,7 +5,7 @@ Created Sep 2, 2026. All files are **drafts pending Albert's review**.
 
 | File | Purpose | Status |
 |---|---|---|
-| `interview_protocol_v0.95.md` | Semi-structured interview guide: 3 phases x tier branches, critical-incident anchor | v0.95 — draft, not piloted |
+| `interview_protocol_v0.96.md` | Semi-structured interview guide: 3 phases x tier branches, critical-incident anchor | v0.96 — draft, not piloted |
 | `sampling_frame.md` | Confirmed cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules | v1.0 |
 | `wording_card_bilingual.md` | Fixed EN / zh-TW wording for the core items — read as written, not improvised | v1.0 |
 | `participant_information_sheet.md` | Given to participants before consent (Aalto requirement) | draft |
@@ -17,7 +17,7 @@ Created Sep 2, 2026. All files are **drafts pending Albert's review**.
 
 - **Design:** embedded multiple-case. Breadth stratum = 1 informant per organization (cross-case variation); depth stratum = 2-3 informants across tiers in a subset (within-case mechanism).
 - **Evidence tiers:** document-anchored cases (1-2 orgs, policy artifacts consulted, not published) vs. interview-only cases. Anchored cases validate recall in the others.
-- **Coding stance:** hybrid — a priori frame (3 phases; tier as case attribute; Luna's 4 constituents as seed codes), inductive for everything BI-workflow-specific.
+- **Coding stance:** hybrid — a priori spine is Papagiannidis's structural/procedural/relational typology (JSIS 2025, after Tallon et al. 2013); three phases and Luna's four constituents are secondary seed codes; inductive for everything BI-workflow-specific.
 - **BI-forcing:** critical-incident anchor with a bounded menu of 3 incident types, each process-traced with the same 4 questions.
 
 ## Grounding

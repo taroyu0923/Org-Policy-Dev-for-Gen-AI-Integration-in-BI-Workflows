@@ -31,7 +31,7 @@ latex/               Aalto template + converted output
 |---|---|
 | `README.md` | Stage overview, design summary, open items |
 | `sampling_frame.md` | Cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules |
-| `interview_protocol_v0.95.md` | Semi-structured guide: three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
+| `interview_protocol_v0.96.md` | Semi-structured guide: three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
 | `wording_card_bilingual.md` | Fixed EN / 繁中 wording for the core items — read as written, not improvised |
 | `participant_information_sheet.md` | Given to participants before consent |
 | `consent_form.md` | Signed consent; document *access* and *quotation* permissions are separate items |
@@ -48,7 +48,7 @@ latex/               Aalto template + converted output
 - **Breadth stratum** — 7 single informants (Toyota, Delivery Hero, JPMorgan Chase, Twipe, Roku, Amazon, Nordea). Cross-case variation.
 - **Evidence tiers** — 1–2 document-anchored cases whose chronology is process-traced, used to assess recall quality in the interview-only cases.
 - **BI-forcing** — critical-incident anchor with a bounded three-type menu, each process-traced with the same four questions.
-- **Coding** — hybrid: a priori frame (three phases; tier as case attribute; Luna's four constituents as seed codes), inductive for everything BI-workflow-specific.
+- **Coding** — hybrid: a priori spine is Papagiannidis's structural/procedural/relational typology (JSIS 2025, after Tallon et al. 2013); three phases and Luna's constituents secondary; inductive for everything BI-workflow-specific.
 - **Languages** — English and Taiwanese Mandarin; core items fixed in both, remaining probes rendered live.
 
 ## Conventions
@@ -66,11 +66,16 @@ Participant data never enters this repository. Signed consent forms, recordings 
 
 - [x] Repo scaffold + `references.bib` (43 sources, cluster-tagged)
 - [x] Clusters A+B compiled under Lit Review Process v2 — 12 notes, 10-section format (Sep 2)
+- [x] Clusters C–E compiled — 9 notes; corpus now 21 usable sources (Sep 2)
+- [x] Verification pass: Mitchell excluded (fabricated metadata); JISEM and INJOSS papers grey-tagged (Sep 2)
+- [x] `literature/search_log.md` opened — S1–S2 recorded, S3 gap-fill and S4 methods planned
 - [x] Research-design stage: protocol v0.95, sampling frame, ethics and consent pack (Sep 2)
-- [ ] `literature/search_log.md` reconstructed (PRISMA-lite; required before further sources are added)
+- [ ] S1 search reconstruction — databases and query strings from Research Plan §2.4
+- [ ] S3 frequency-ranked snowball gap-fill (15 targets) — rebuilds Clusters C and E
+- [ ] S4 methods literature (3–5 sources)
 - [ ] Cluster memos A+B → lit review sections 1–2 drafted (target Sep 8)
 - [ ] Ethical-review determination obtained in writing — **blocks recruitment**
-- [ ] Clusters C–F + gap-fill (target Sep 15); method sources still absent
+- [ ] Cluster F when PDFs arrive
 - [ ] Protocol piloted in Mandarin → v1.0
 - [ ] Interviews (Sep 15 – Oct 15) — depth cases first
 - [ ] Thematic analysis complete (Oct 31)
