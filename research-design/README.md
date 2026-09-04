@@ -5,7 +5,7 @@ Created Sep 2, 2026. All files are **drafts pending Albert's review**.
 
 | File | Purpose | Status |
 |---|---|---|
-| `interview_protocol_v0.96.md` | Semi-structured interview guide: 3 phases x tier branches, critical-incident anchor | v0.96 — draft, not piloted |
+| `interview_protocol_v0.97.md` | Semi-structured interview guide: 3 phases x tier branches, critical-incident anchor | v0.97 — draft, not piloted |
 | `sampling_frame.md` | Confirmed cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules | v1.0 |
 | `wording_card_bilingual.md` | Fixed EN / zh-TW wording for the core items — read as written, not improvised | v1.0 |
 | `participant_information_sheet.md` | Given to participants before consent (Aalto requirement) | draft |
@@ -19,6 +19,10 @@ Created Sep 2, 2026. All files are **drafts pending Albert's review**.
 - **Evidence tiers:** document-anchored cases (1-2 orgs, policy artifacts consulted, not published) vs. interview-only cases. Anchored cases validate recall in the others.
 - **Coding stance:** hybrid — a priori spine is Papagiannidis's structural/procedural/relational typology (JSIS 2025, after Tallon et al. 2013); three phases and Luna's four constituents are secondary seed codes; inductive for everything BI-workflow-specific.
 - **BI-forcing:** critical-incident anchor with a bounded menu of 3 incident types, each process-traced with the same 4 questions.
+
+## Query template and phase names
+
+Literature queries follow **template v2.4** (`../planning/query_template_v2.4.md`), not the v2.2 template in `claude/LitReview_Process_v2.md`. Interview Phase 1 is **Policy Encounter & Interpretation** (renamed Sep 2 from "Policy Framework Development"); Phases 2 and 3 are unchanged. The 21 existing literature notes tag §7 material with the old Phase 1 name — read those entries as *encounter* material.
 
 ## Grounding
 

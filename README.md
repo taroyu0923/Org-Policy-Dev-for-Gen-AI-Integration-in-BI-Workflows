@@ -10,7 +10,8 @@ Organizations adopting generative AI in business intelligence (BI) workflows fac
 ## Repo layout
 
 ```
-planning/            Research plan, agent team & workflow plan (synced from the Claude project)
+planning/            Research plan, agent team & workflow plan, query templates
+                     and agent task prompts
 literature/
   notes/             One Markdown note per source; cluster-prefixed (A_..., B_..., ...)
                      v2 format: 10 sections, every point tagged section + page
@@ -31,7 +32,7 @@ latex/               Aalto template + converted output
 |---|---|
 | `README.md` | Stage overview, design summary, open items |
 | `sampling_frame.md` | Cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules |
-| `interview_protocol_v0.96.md` | Semi-structured guide: three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
+| `interview_protocol_v0.97.md` | Semi-structured guide: three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
 | `wording_card_bilingual.md` | Fixed EN / 繁中 wording for the core items — read as written, not improvised |
 | `participant_information_sheet.md` | Given to participants before consent |
 | `consent_form.md` | Signed consent; document *access* and *quotation* permissions are separate items |
@@ -49,10 +50,12 @@ latex/               Aalto template + converted output
 - **Evidence tiers** — 1–2 document-anchored cases whose chronology is process-traced, used to assess recall quality in the interview-only cases.
 - **BI-forcing** — critical-incident anchor with a bounded three-type menu, each process-traced with the same four questions.
 - **Coding** — hybrid: a priori spine is Papagiannidis's structural/procedural/relational typology (JSIS 2025, after Tallon et al. 2013); three phases and Luna's constituents secondary; inductive for everything BI-workflow-specific.
+- **Interview phases** — Policy Encounter & Interpretation / Implementation & Change Management / Organizational Adaptation Dynamics.
 - **Languages** — English and Taiwanese Mandarin; core items fixed in both, remaining probes rendered live.
 
 ## Conventions
 
+- **Literature queries:** template **v2.4** (`planning/query_template_v2.4.md`) — 11 sections. Supersedes the v2.2 template. Any new reference, snowball pull or cluster extension uses v2.4.
 - **Citations:** pandoc `[@key]` syntax throughout; `references.bib` is the only place per-reference status is recorded.
 - **Provenance:** every point in a literature note carries its location in the original (section + page). Unlocatable points are marked `(location unverified)` or `⚠ UNRESOLVED`, and excluded from memos and drafts.
 - **Quality tiers:** peer-reviewed journal > peer-reviewed conference > preprint > grey. Preprints and grey literature are supplementary only; chapters lean on peer-reviewed anchors.
@@ -71,6 +74,7 @@ Participant data never enters this repository. Signed consent forms, recordings 
 - [x] `literature/search_log.md` opened — S1–S2 recorded, S3 gap-fill and S4 methods planned
 - [x] Research-design stage: protocol v0.95, sampling frame, ethics and consent pack (Sep 2)
 - [ ] S1 search reconstruction — databases and query strings from Research Plan §2.4
+- [ ] §11 working-tier reception harvest across all 20 usable notes (`planning/section11_harvest_prompt.md`)
 - [ ] S3 frequency-ranked snowball gap-fill (15 targets) — rebuilds Clusters C and E
 - [ ] S4 methods literature (3–5 sources)
 - [ ] Cluster memos A+B → lit review sections 1–2 drafted (target Sep 8)

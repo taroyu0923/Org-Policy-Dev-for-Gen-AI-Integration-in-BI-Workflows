@@ -1,4 +1,4 @@
-# Interview Protocol v0.96
+# Interview Protocol v0.97
 
 **Study:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows: A Qualitative Analysis of Governance Framework Evolution
 **Researcher:** Liu Yu-Shu (Albert) | **Draft:** Sep 2, 2026 (rev. after participant list confirmed) | **Status:** not yet piloted
@@ -14,6 +14,8 @@
 ---
 
 ## 0. Design logic (for the methods chapter, not for participants)
+
+**Phase 1 renamed (Sep 2).** "Policy Framework Development" → **"Policy Encounter & Interpretation"**, to match the working-tier reframing: how policy arrived, through what channel, how it was learned, what it was understood to require, and what it left undefined — not how it was authored. Phases 2 and 3 keep their labels; they already work from the receiving end. The 21 existing literature notes tag their §7 material with the old Phase 1 name — read those entries as *encounter* material and re-file anything genuinely authoring-side into chapter background. See `../planning/query_template_v2.4.md`.
 
 **Three phases** (the protocol's spine) are a compression of the lifecycle convergence in the corpus: Batool's "When" dimension (`batool2024aigov` §4.1 p.8-9; `batool2024rai` §3.1 p.3), Joshi's six-stage GenAI lifecycle (`joshi2025resai` p.6-8), Weinberg's four-phase FAIGMOE model (`weinberg2025faigmoe` §3.3 p.7-8), and Xue & Pang's four-stage anticipatory continuum (via `ismail2025frameworks` §4.2 p.128).
 
@@ -84,11 +86,11 @@ Sources: incident types derived from the risk typologies in `taeihagh2025govgena
 
 ---
 
-## 4. Section C — Phase 1: Policy Framework Development (10 min)
+## 4. Section C — Phase 1: Policy Encounter & Interpretation (10 min)
 
-- C1. How did the current rules on GenAI come about? Where did the first version come from — copied from somewhere, written internally, imposed from a parent company?
-- C2. Who was in the room when it was written? Was anyone who actually builds or uses reports involved?
-- C3. What was it trying to prevent? What worried people most?
+- C1. When did rules about GenAI first reach you, and how did you find out? Where did you understand them to have come from — your team, somewhere higher up, a parent company?
+- C2. As far as you know, who wrote them? Was anyone who actually builds or uses reports involved — and were you or your team asked anything?
+- C3. What did you understand the rules to be trying to prevent? What did people around you worry about most?
 - C4. Is there anything in it that's specific to analytics or reporting work, as opposed to general company-wide AI rules?
 
 **Tier branches**
