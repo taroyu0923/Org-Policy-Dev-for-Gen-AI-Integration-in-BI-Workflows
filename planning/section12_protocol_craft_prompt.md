@@ -135,3 +135,57 @@ still there.
 
 Do not commit; I push to GitHub myself.
 ```
+
+---
+
+## Part C — migrate planning docs into version control
+
+**Problem.** Process and planning docs currently live in two places — the Claude project (`claude/…`) and the repo — with no stated precedence. That ambiguity is how a factual error ("Clusters A and B have 11 usable notes each"; they have six) survived three sessions unchallenged.
+
+**Rule to establish:** the **repo is canonical**; the Claude project holds mirrors so that sessions without folder access can still read state. Every planning doc carries a header saying which it is.
+
+### Migration list
+
+| Source (project) | Destination (repo) | Action |
+|---|---|---|
+| `claude/Pipeline_State.md` | `planning/Pipeline_State.md` | Already refreshed and written by the Opus session — verify it is present, do not overwrite |
+| `claude/LitReview_Process_v2.md` | `planning/LitReview_Process_v2.md` | `project_read` → write to repo verbatim |
+| `claude/Literature_Review_and_Research_Method_Plan.md` (project root: `Literature_Review_and_Research_Method_Plan.md`) | `planning/Literature_Review_and_Research_Method_Plan.md` | `project_read` → write verbatim. **Keep** — its §2.4 is the only surviving record of the original July 1 search, which search-log pass S1 still needs to reconstruct |
+| `claude/Research_Plan_Verification_Sep1.md` | `planning/archive/Research_Plan_Verification_Sep1.md` | `project_read` → write, **prepending the status header below** |
+| `claude/research-design/interview_protocol_v0.9.md` | — | **Delete from the project.** Misnamed: it holds v0.97 content. The repo's `research-design/interview_protocol_v0.97.md` is canonical |
+
+### Status header to prepend to the archived verification doc
+
+```markdown
+> **ARCHIVED — status checked Sep 4, 2026.** A point-in-time verification record, retained for its
+> reasoning and for decisions that originate here. Corrections:
+> - ⛔ **"ethics process approved" is WRONG.** As of Sep 4 the ethical-review determination is still
+>   IN PROGRESS. Do not treat this document as evidence of clearance. See
+>   `research-design/ethics_determination_note.md`.
+> - "5+ interviews confirmed" is superseded: 14 participants across 9 organizations are now confirmed
+>   (`research-design/sampling_frame.md`).
+> - V2's advice to treat region as context rather than a comparison axis was written for n≤10. At
+>   n=14 across 6 jurisdictions the jurisdictional axis is more defensible, though the caution stands.
+>
+> **Still live and recorded nowhere else:** the word budget (18–24k words — intro 10%, lit review 27%,
+> method 15%, findings 25%, discussion 18%, conclusion 5%); V1's construct tension between a
+> longitudinal "evolution" construct and single-snapshot interviews (the origin of the
+> document-anchoring and critical-incident design); and the rolling-coding rule — a familiarization
+> memo within 48h of each interview plus a one-line log per interview in `analysis/`, named as the
+> #1 schedule risk and still unimplemented.
+```
+
+### After migrating
+
+1. Replace each migrated project doc with a **mirror header** at the top of the project copy, keeping the full content beneath it (do **not** reduce them to stubs — sessions without folder access must still be able to read state):
+
+```markdown
+> **Mirror.** Canonical version: `planning/<filename>` in the repo
+> (`D:\Master\Org-Policy-Dev-for-Gen-AI-Integration-in-BI-Workflows`).
+> Edit the repo copy; refresh this mirror at session end. If the two disagree, the repo wins.
+```
+
+2. Confirm `.gitignore` still excludes `interviews/transcripts/` and the participant-data paths before any of this is pushed — the sampling frame names real employers, and fieldwork material must never enter the repo.
+3. Report which docs were migrated, which mirrors were refreshed, and anything that could not be read.
+
+Do not delete anything from the project other than the misnamed `interview_protocol_v0.9.md`.
