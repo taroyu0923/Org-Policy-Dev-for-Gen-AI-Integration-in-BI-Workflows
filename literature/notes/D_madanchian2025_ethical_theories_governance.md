@@ -56,5 +56,21 @@ The authors do not state self-limitations regarding their own review/framework. 
 - "...the Liverpool Football Club example demonstrates how human expertise and data analytics might come together to help bring about a sustained competitive advantage... (Lichtenthaler, 2020)." (Section 4, p.10)
 - Zhang et al. (2022), published in *Decision Support Systems*, cited to justify "Scope clarification" and "Safety & reliability" steps in the industrial risk framework (Table 3, pp.6–7).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `cfdae1e1-4906-49f1-8e19-e8c7c49066b5` ("[D2] Madanchian2025 — Ethical Theories & Governance Models"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Partial.** This is a literature review (not primary empirical research), but it explicitly names a practitioner-level "translational gap" more directly than most Cluster A/B/C sources.
+
+(a) Training/documentation described only as design recommendations: Meta's "responsible AI seminars" (Section 4, cited case) and various toolkits/maturity models developers "can use" (Section 3.1). No informal channels mentioned.
+
+(b) The review states plainly: "practitioners frequently struggle to use these frameworks effectively, revealing a deficit in tools and knowledge" (Section 4); a "crucial translational gap" exists "between the ethical AI concepts developed in academic literature and their actual use in industrial settings" (Section 1); most frameworks focus on reporting/compliance and so "risk overlooking the day-to-day application of ethical principles in practice" (Section 3.5).
+
+(c) No empirical attitude data (skepticism, workarounds, shadow use) — documented absence on this sub-point specifically. The review does cite a typology of "practitioners' experiences with ethics in AI" — awareness, perception, need, difficulty, approach (Section 3.1, citing Pant et al. 2024) — but without primary quotes.
+
+(d) "Encouraging employees to raise ethical and bias issues" is named as a marker of ethical culture (Section 2.3), but the review also notes governance guidelines tend to "codify the agendas of powerful stakeholders rather than the interest of the broader public" (Section 3.5) — i.e. structurally top-down, with no evidence of practitioner-side use of any channel.
+
+(e) Documented absence — not addressed.
+
 ## Albert's Questions
 None beyond the standard Query 1 / Query 2 pair.

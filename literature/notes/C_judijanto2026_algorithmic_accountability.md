@@ -57,5 +57,11 @@ The paper does not state or acknowledge any limitations about itself; no dedicat
 - "...black-box systems offer efficiency, accuracy, and analytical capabilities that surpass human capacity." (p.18)
 "Decision support" appears only inside a cited work's title in the reference list: Nuredin, A. (2024), *Algorithmic Bias in Law: ...AI-Based Decision Support Systems* (p.125). (References, p.25)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `b2aae7e7-e968-416e-bf2d-02927da5e192` ("[C3] Judijanto2026 — AI-Governance & Algorithmic Accountability"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This is a normative legal literature review; it contains no empirical or organizational data on practitioner experience. Its closest developer-related content concerns technical opacity as an inherent property of "black-box" systems — decision logic is "difficult to trace, even for their developers" (Section: The Challenge of Algorithmic Transparency in Black-Box Systems, p. 14/16) — and a legal-liability discussion assigning "proportional" responsibility to developers, users, and policymakers (Section: Legal Liability for Autonomous Decisions, p. 21-22). Neither concerns how governance is actually received or acted on by practitioners.
+
 ## Albert's Questions
 None beyond the standard Query 1 / Query 2 pair.

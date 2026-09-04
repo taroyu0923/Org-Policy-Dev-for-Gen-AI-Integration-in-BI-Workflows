@@ -53,6 +53,12 @@ Aman Priyanshu, Yash Maurya, Zuofei Hong — Privacy Engineering, School of Comp
 3. "These LLMs are crucial as they underpin many AI systems, influencing outcomes and decision-making processes in areas that directly affect individuals and societies." (Section 1, p. 1)
 4. Literature review references "complex medical decision-making scenarios" for Claude evaluation (Section 3, p. 3).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `38493d87-2ef0-4533-9904-abd4d8c07a78` ("[B7] Priyanshu2024 — Claude Governance Analysis"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This policy analysis of Anthropic's Claude against NIST AI RMF and the EU AI Act evaluates corporate-level policy design only; it contains no data on how technical staff experience or respond to governance. It cites the wider literature's own acknowledgment of "limited understanding of AI governance implementation... and insufficient operationalization of processes" (Section 3, Literature Review) and recommends that risk-metric evaluation involve "internal experts who did not serve as front-line developers for the system" (Section 6.4, NIST "MEASURE") — a policy design recommendation, not an observation of practitioner behaviour.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

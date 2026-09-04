@@ -59,5 +59,11 @@ The paper does not state or acknowledge any self-limitations anywhere in the tex
 - "In the digital age, AI has transitioned from being a support tool to becoming a central part of business decision-making." (Section 1, p.1142)
 - "AI systems are now used in predictive modeling for financial forecasts, automated customer service, real-time fraud detection, and human resource optimization." (Section 1, p.1142)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `97f0637f-429f-4a96-a4ee-a43904bf4dcd` ("[C1] Ganesh2025 — Corporate Governance in the Age of AI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This conceptual/prescriptive paper addresses governance from an executive/board perspective. It recommends internal training and quarterly "feedback sessions" for employees (Section 6, Table 4, p. 1145) and a "Shared Accountability Model" mapping developers to algorithm design (Section 3, Diagram 1, p. 1143), but reports no empirical data on whether these mechanisms function, and no practitioner attitudes, workarounds, or gap-handling behaviour — these are prescribed structures, not observations.
+
 ## Albert's Questions
 None asked in this notebook beyond the standard Query 1 / Query 2 pair.

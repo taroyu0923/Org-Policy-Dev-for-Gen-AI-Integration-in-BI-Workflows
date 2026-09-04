@@ -52,6 +52,12 @@ No pre-formulated interview instrument in the source. Constructs usable for a se
 ## 10. BI LINK
 "Business intelligence," "data warehousing" absent from the text. Related mentions: "promote fair and transparent AI decision-making" (Section 4.1, p. 9); a fraud-detection algorithmic-decision paper in the bibliography (Appendix A, p. 23); one reference venue titled "International Journal of Business Analytics and Security" (Appendix A, p. 23).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `15a35a40-81af-49cb-b56f-aaf7553bf0ab` ("[A1] Batool2024 — AI Governance SLR"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This SLR structurally defines "Operational AI practitioners" only as an object of oversight under its "who is being governed" 4W1H category (Section 4.1, p. 9), classified at "Team level" governance with examples such as faculty staff, IT firm managers, and healthcare providers governed by administrators/committees (Section 4.1.1, p. 10–11, Table 2). It contains no data on how these practitioners actually receive, interpret, resist, or work around governance — the review's own scope is limited to who governs whom, not how it is experienced.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

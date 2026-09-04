@@ -53,10 +53,20 @@ Key rule, repeated here because it is easy to lose: **if a source says nothing a
 
 ---
 
+## Variant v2.4-M — interview-methodology sources
+
+Sources whose value is *how to run an interview study* rather than *what governance is* use a variant:
+
+- **§11 WORKING-TIER RECEPTION is NOT run.** It is category-inappropriate for method-craft papers, and running it on empirical practitioner studies corrupts the §11 corpus statistic (14 of 20 governance sources documenting no working-tier account) by contaminating its denominator. The §11 denominator stays at the governance corpus.
+- **§12 PROTOCOL CRAFT is run instead** — recruitment and access, sampling logic and saturation, protocol construction and piloting, conduct (length, mode, language, translation), consent and confidentiality, analysis procedure, trustworthiness, transferable method lessons. Full wording and procedure: `planning/section12_protocol_craft_prompt.md`.
+
+Applies to the existing `Interview_I1–I14` notes (retrofit, append-only) and to any new methodology or instrument-design reference.
+
 ## Query structure under v2.4
 
 **Query 1 — core analysis:** §1–§6 (§5 revised) + zh-TW summary. Unchanged otherwise.
 **Query 2 — evaluation & harvesting:** §7 (Phase 1 renamed), §8 (revised), §9, §10, **§11 (new)**.
+**Query 2, variant v2.4-M (methodology sources):** §7, §8, §9, §10, **§12 instead of §11**.
 
 ## Downstream routing (unchanged except §11)
 

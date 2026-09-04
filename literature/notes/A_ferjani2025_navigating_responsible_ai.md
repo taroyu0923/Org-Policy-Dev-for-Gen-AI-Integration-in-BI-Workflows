@@ -47,6 +47,12 @@ Authors do not state methodological limitations of their own SLR (no database/la
 ## 10. BI LINK
 "Business intelligence"/"data warehousing"/"DSS" absent. Related: AI as "analytical partner" to decision-makers (Section 7.2–7.3, p. 4733); "resource optimization and environmental monitoring" as low-risk deployment domains (Section 7.2, p. 4733); reduced "adverse AI decisions while maintaining efficiency" (Section 5.3, p. 4731).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `05a5b20a-24d0-4fdc-856e-7f6f26b36432` ("[A5] Ferjani2025 — Navigating Responsible AI / Co-Governance"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This macro-level systematic review (75 studies, "Governance Galaxy" framework, projecting scenarios to 2035) discusses an "implementation gap" and "disconnect between ethical frameworks and operational practices" (quote confirmed by re-query 2026-09-04 at journal p. 4732 / manuscript p. 7) only in structural terms — e.g. proposing "governance boards with technical representation" and "ethics-engineering collaboration processes" as design recommendations (same passage, p. 4732/manuscript p. 7). It contains no empirical account of how technical staff actually encounter, interpret, or resist governance, and no practitioner-facing instruments or interview questions.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

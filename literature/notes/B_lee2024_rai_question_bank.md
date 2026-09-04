@@ -54,6 +54,22 @@ Contains **actual reusable assessment questions** (not just constructs):
 - "AI-based decision-making is inherently complex and often operates at scale, making it difficult for stakeholders to access the decision process and raise objections..." (Section 4.8, p. 11)
 - "...questionnaire to identify and mitigate risks associated with automated decision systems..." (Section 2, p. 3)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `8372f623-a93c-4a10-81ad-90dd28af73af` ("[B6] Lee2024 — Responsible AI Question Bank"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Substantive.** This source reports an actual empirical case study (8 scientific research projects, PR1–PR8; two rounds of 1.5-hour structured interviews, 2023) using the RAI Question Bank as both instrument and governance-translation tool — the richest working-tier material found in Clusters A/B.
+
+(a) **Policy reach:** The RAI Question Bank operationalizes regulation/standards (EU AI Act, ISO/IEC 42001:2023) into a tiered instrument. Level 3 questions specifically target "practitioners who require a detailed understanding of the technical and operational aspects of AI risk assessment," e.g. "Do you research and try to use the simplest and most interpretable model possible for the AI system?" (question-levels section). In practice, governance reached practitioners via a risk-register template and structured interviews (Section 3.3, Case Study).
+
+(b) **Policy–practice gap:** Cites an industry finding that only 10% of surveyed companies have publicly announced RAI policies. The case study itself found "Accountability emerges as the principle with the highest combined medium to high risk... mainly to do with missing a proper responsible distribution documentation and lack of traceability within projects," and significant transparency gaps from "insufficient clarity in explaining AI outcomes" (case-study results/discussion section). One project lead "had not considered the risks associated with third-party university agreements on intellectual property ownership... until prompted by the RAI Question Bank questions" (case-study discussion).
+
+(c) **Practitioner attitudes:** The authors explicitly flag a "checkbox mentality" risk from yes/no question formats if not paired with evidence requirements (discussion of question design). Practitioners pushed back on the tool directly: "the number of questions in the RAI Question Bank sometimes seemed excessive relative to the level of completeness needed for the assessment," and argued a full questionnaire suits only mission-critical systems, not lower-risk projects (feedback-and-improvement section). No workaround/shadow-use behaviour is reported.
+
+(d) **Feedback channels — actually used:** Unlike other Cluster A/B sources, this is a channel practitioners visibly used, not just a design proposal. Practitioner feedback from the case study directly reshaped the instrument: questions were remapped to specific lifecycle stages (planning through deployment) so only relevant items are asked (Section on stage mapping); the question bank was restructured to add principle-level questions and rewrite technical terms into more accessible language following a second case study (ESG-AI investor framework). This is project-level co-design of a research instrument, not evidence of a standing corporate channel to change organizational policy.
+
+(e) **Uncovered situations:** Early-stage projects lacked the performance data needed to answer questions about system accuracy/reliability (discussion of practical challenges). The source also flags that practitioners in typical commercial/open-source settings are often siloed to role-specific knowledge, unlike the flat-hierarchy research teams in this case study who could answer across all three question levels — the tool mitigates this by filtering questions by development stage and role (discussion of practical challenges).
+
 ---
 ## Albert's Questions
 Albert asked a follow-up in this notebook's own thread requesting the same content in Traditional Chinese (Taiwan usage) — not a substantive research question, so no additional Q&A content beyond the bilingual sections 7–10 answer already folded into this note above (turn 3 of the chat: "完成英文版本後，請另外提供一份繁體中文（台灣用語）版本..."). No other independent questions were asked in this notebook.

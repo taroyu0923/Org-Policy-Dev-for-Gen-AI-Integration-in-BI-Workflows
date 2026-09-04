@@ -63,5 +63,21 @@ Lee Ackerman. 17 April 2025. MA AI and Societies, Media University of Applied Sc
 - "The delicate balance between automation and human agency was emphasized, with concerns about AI replacing essential human decision-making." (Section 3.5, p.9)
 - "Controlling AI systems, including deactivation, raises questions about responsibility and decision-making, especially when such decisions benefit some users while harming others." (Section 3.5, p.9)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `9b34f0ad-89f8-4950-8362-c1693b9db6c6` ("[D5] Ackerman2025 — Perceptions of Agentic AI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Substantive.** Survey of 44 industry professionals (technical/analytical roles included) on agentic-AI governance perceptions.
+
+(a) **Policy reach:** Training/education is named as an unmet need rather than an active channel: "targeted education, training, and dialogue" needed to prepare the workforce (Section 3.7, p. 13); a respondent: "The most pressing challenge is to ensure that the workforce is ready for the AI agentic era... integrate them in their daily workflows, and do all of this responsibly!" (Section 3.7, p. 13).
+
+(b) **Policy–practice gap:** "Practitioners grapple with interpreting, prioritizing and implementing frameworks... gaps between theory and practice, between potential and practice, between those designing and intended users" (Section 5, p. 16). Survey data: only 48% felt "well prepared for future advancements," 41% had "clear understanding of how agentic AI impacts RAI policies and governance" (Section 3.8, p. 15).
+
+(c) **Attitudes:** No workaround/shadow-use data reported. Respondents describe difficulty holding autonomous systems accountable: "it's sometimes hard to see exactly how it reaches those choices... tough to fix mistakes or stop unfair behavior" (Section 3.5, p. 9).
+
+(d) **Feedback channels:** "Stakeholder Engagement Processes" was the *least* selected framework dimension needing enhancement (9% of respondents) and least-discussed topic in open responses (Section 3.8, p. 14) — i.e. the source finds this channel specifically under-used/under-valued, not merely unstudied.
+
+(e) **Uncovered situations:** Not addressed — the source is silent on what practitioners do when policy does not cover their situation.
+
 ## Albert's Questions
 None beyond the standard Query 1 / Query 2 pair.

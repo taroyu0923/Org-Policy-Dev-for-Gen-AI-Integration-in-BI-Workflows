@@ -60,5 +60,11 @@ The paper does not explicitly state any self-limitations regarding its own revie
 - "Poorly governed data characterized by inconsistencies, missing values, or biases can distort predictive analytics and lead to flawed strategic conclusions." (p.521)
 - "...integrating governance and ethics into AI decision systems transforms technology from a source of uncertainty into a catalyst for trust, responsibility, and long-term success." (p.522)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `cfe76133-a6a0-4db9-83b0-d1bcfea729d4` ("[E1] Khandan2025 — Data Governance, Ethics & AI in Strategic Decisions"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This conceptual/strategic synthesis addresses AI governance from an executive and organizational-culture perspective. It names internal training, workshops, and ethics committees as design features (p. 519-521) and poses accountability questions rhetorically ("who is accountable—the data scientist, the executive, or the algorithm itself?", p. 519), but supplies no empirical data on how analytical/technical staff actually experience, resist, or work around governance, and no interview or survey instruments. The paper's own orientation is explicitly executive-strategic, not operational.
+
 ## Albert's Questions
 Albert asked a **near-duplicate re-ask of the standard Query 2** in this notebook (turn 3), which returned essentially the same Sections 7–10 content as turn 2 with minor rewording (e.g., turn 3 quotes "The main challenge lies in translating abstract ethical principles into actionable policies and measurable performance indicators" — a paraphrase-level variant of turn 2's accountability/ambiguity quote). This has been treated as a duplicate/refinement rather than a substantively new question and is **not** presented as separate Q&A content above — all unique material from turn 3 has been folded into Sections 7–10.

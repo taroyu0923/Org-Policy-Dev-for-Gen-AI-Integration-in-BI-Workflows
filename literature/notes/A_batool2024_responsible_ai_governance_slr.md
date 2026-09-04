@@ -50,6 +50,12 @@ Amna Batool, Didar Zowghi, Muneera Bano — CSIRO's Data61, Melbourne, Australia
 ## 10. BI LINK
 "Business intelligence"/"data warehousing" absent. Related: "Big Data Algorithmic Systems (BDAS)" data-governance model (Table 2, p. 6); "promote fair and transparent AI decision-making" (Section 3.1, p. 3); "Decision-Makers" as key stakeholders (Fig. 7, p. 5); rule-based decision-making frameworks (Table 1, p. 5; Fig. 8, p. 6).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `35b3a3f4-287b-4a8d-b319-6f5f72c3d868` ("[A4] Batool2024 — Responsible AI Governance SLR"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This SLR of 61 papers explicitly identifies the working tier as a gap in the literature itself, rather than reporting on it: "not a single study out of 61 has mentioned the human pillar to be considered to be governed" (Section 3.1.1, p. 3–4 — page confirmed by cross-check against this note's own §1–§10 verification pass; the re-query sent 2026-09-04 to confirm the page found that the raw text NotebookLM holds for this source carries no page markers of its own). It defines "operational AI practitioners" theoretically as those doing "day-to-day technical implementation" (Section 3.1) and concludes the field lacks human-centricity (Section 4, RQ3: Limitations and Challenges), but supplies no practitioner-level findings, instruments, or interview material of its own.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

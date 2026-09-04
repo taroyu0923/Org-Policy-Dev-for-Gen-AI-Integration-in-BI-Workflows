@@ -51,6 +51,12 @@ Jose Luna, Ivan Tan, Xiaofei Xie, Lingxiao Jiang — Singapore Management Univer
 ## 10. BI LINK
 "Business intelligence"/"data warehousing"/"decision-support" absent from body text. Related mentions: "...enabling applications that range from content creation to decision-making processes, deeply influencing industries." (Introduction, p. 2); "Operational Integration refers to the seamless incorporation of AI models into existing technological infrastructures and business processes." (Model, p. 4). "Analytics" appears only in reference titles (Chen et al. 2023; Hutt et al., Learning Analytics and Knowledge Conf.).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `71b7253a-1fa7-4e74-9de1-044e99b0fc6f` ("[B3] Luna2024 — Navigating Governance Paradigms"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This cross-regional comparative study (H-GenAIGF framework) operates strictly at the macro (country-level regulation) and corporate-public (ChatGPT compliance) levels; it contains no internal organizational or practitioner-experience data. The only developer-adjacent mentions are conceptual: standards should "spread a culture of safety and responsibility among AI developers" (Related Work / Academic Research for Governance, p. 2), and "many developers, AI providers and/or end users may find navigating the convoluted nature of governance approaches burdensome" (H-GenAIGF introduction, p. 4). No practitioner attitudes, workaround behaviour, or feedback channels are documented.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

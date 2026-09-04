@@ -60,5 +60,23 @@ Nadia Nahar, Chenyang Yang, Yanxin Chen, Wesley Hanwen Deng, Ken Holstein, Motah
 - "...in-distribution data evaluation, out-of-distribution data evaluation, model red-teaming, and responsible AI auditing (e.g., fairness)." (Section 6.1.1, p.17)
 - Reference [12] to an "analyticsvidhya.com" case-study portal. (Section 7, p.31)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `c1a59eb5-9232-49fe-82b8-d64267e38bf3` ("[D4] Nahar2025 — Sticky Stories for RAI Non-Champions"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Substantive — the richest working-tier evidence in the corpus.** Field study combining shadowing, baseline testing, and a two-month follow-up survey; directly designed around the reception question this pass targets.
+
+(a) **Policy reach:** Formal channels include RAI assessment templates, training modules, and audit gates (Section 3.2, p. 8; Section 2.3, p. 5); governance-team members "providing active coaching, clearly explaining RAI goals and processes... proactively monitored progress, clarified doubts" (Section 3.2, p. 8) — in some orgs enforced via "mandatory harm assessment, governance teams, and formal review processes" (Section 6.4.5, p. 27).
+
+(b) **Policy–practice gap — directly observed, not inferred:** researchers shadowed "a data scientist completing a system design template [who] skipped sections on fairness and validation, focusing only on tracing data sources that supported her immediate task" (Section 3.2, p. 8); in project meetings "RAI topics were virtually absent, mentioned only once in passing, and consistently treated as low-risk compared to client deadlines" (Section 3.2, p. 8); one team "completed the templates retrospectively solely to demonstrate compliance to clients... RAI was seen as extra paperwork rather than a tool for identifying or managing ethical risks" (Section 3.2, p. 8).
+
+(c) **Attitudes:** Explicit check-the-box and dismissal quotes. Developer P17: "I don't really believe in it, to be honest. In my area of research, the societal harms are very low... that has nothing to do with code generation" (Section 6.4.5, p. 26). Practitioners "completed only minimal tasks to 'check-the-box' when directly asked by their managers and resisting prescribed processes" (Section 3.2, p. 8); P3 asked to "just copy and paste" a prior scenario rather than engage (Section 6.4.5, p. 26). No shadow-AI/covert-workaround behaviour documented — resistance is passive omission and retrospective box-ticking, not evasion.
+
+(d) **Feedback channels:** Documented absence — no channel for practitioners to influence policy is described; governance is designed entirely by a separate "governance champions" group (Section 1, p. 3) while data scientists are passive recipients.
+
+(e) **Uncovered situations:** Practitioners default to assuming no ethical concern exists rather than seeking guidance — e.g. "when a project did not directly involve gender or race, practitioners overlooked and dismissed other important risks... entirely without deliberation" (Section 3.2, p. 7–8); one data scientist asked about RAI concerns "immediately responded, 'there are no responsible AI concerns for this project,' without further reflection" (Section 3.2, p. 7).
+
+Instruments: pre-screening survey (Section 6.1.1, p. 17), post-study reflection questions and two-month follow-up survey items including "Have you reacted to or done anything based on the findings from our session...?" (Section 6.1.5, p. 18).
+
 ## Albert's Questions
 None beyond the standard Query 1 / Query 2 pair.

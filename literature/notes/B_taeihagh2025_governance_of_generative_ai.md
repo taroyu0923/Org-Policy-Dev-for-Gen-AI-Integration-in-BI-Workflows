@@ -47,6 +47,12 @@ Paper does **not** state its own limitations — it is an introductory/framing a
 ## 10. BI LINK
 "Business intelligence"/"data warehousing" completely absent. "Analytics" mentioned once re: copyright exceptions for "computational data analysis"/"text and data mining" (p. 11, on Chesterman 2025). "Data analysis" mentioned once in the intro's list of GenAI-transformed fields (p. 1). "Decision-making" discussed only at a high administrative/regulatory level, not BI-specific (p. 2, p. 11).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `6735975a-7113-4e14-939d-9eb849f0035c` ("[B1] Taeihagh2025 — Governance of Generative AI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This special-issue introduction operates at macro-legislative and organizational-theory levels; it contains no practitioner-experience data. The closest adjacent material concerns a different population — call-centre end-users, not analytical/technical staff — where a summarized study found workers' "low levels of sociological and political imagination" limited any collective response to flawed AI/IVR systems (summary of Oder & Béland 2025, p. 15). A summarized CAS-governance paper frames developers only as one abstract "agent" type within a systems model, not as an empirical subject (summary of Janssen 2025, p. 12).
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

@@ -70,6 +70,12 @@ The exact terms "business intelligence," "analytics," and "data warehousing" are
 6. "Most digital systems are found by Ashok et al. to exhibit Western and urban-biased viewpoints... and under-representation in decision-supporting datasets applied to optimize policymaking and industry decision-making." (Section 5.1 Algorithmic bias and discrimination, p. 130)
 7. "Osama Ismail... His interest includes decision science and ethical issues in information technology adoption..." (Section 9 AUTHORS, p. 135)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `bcd97ea1-6d26-4e3d-994a-ba1db179122c` ("[A3] Ismail2025 — Ethical & Governance Frameworks SLR"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This SLR covers macro-level governmental and corporate frameworks — e.g. NTT DATA's three-tier model including "AI literacy training to foster an ethics culture" (Section 3.4, p. 126–127) and the EU AI Act's conformity-assessment mandates for developers (Section 4.1, p. 127) — but only as structural design features, never as something practitioners are shown experiencing. The only ground-level attitudinal material in the source concerns university students, not professional practitioners: Barus et al.'s study on student views of GenAI regulation, where "students demanded models of co-governance" (Section 4.4, p. 129). No professional-practitioner reception, workaround, or feedback-channel evidence is present.
+
 ---
 ## Albert's Questions
 

@@ -57,6 +57,12 @@ Literal "business intelligence"/"data warehousing" absent, but "decision support
 - "...dashboard based tracking for midsize organizations, enterprise analytics platforms for larger organizations." (Section 7.1, p. 25)
 - Future-research section: "8.4 Framework Digitalization and Decision Support Systems... transform FAIGMOE from a conceptual framework into technology-enabled implementation support tools" (Section 8.4, p. 28–29)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `344272f4-2a3e-471a-ae05-0fa9eb1f009a` ("[B5] Weinberg2025 — FAIGMOE"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** FAIGMOE is an explicitly conceptual framework with empirical validation (including a proposed stakeholder interview protocol) named as future work (Section 5.4, p. 17-18), not yet conducted. It prescribes training, communication and feedback-loop mechanisms practitioners *should* receive (Section 4.4, p. 14; Section 4.5, p. 15) and names "user resistance" and "insufficient governance" as implementation risks (Section 7.4, p. 25-26), but reports no observed practitioner attitudes, workarounds, or actual policy-influence behaviour — these are risks to manage, not findings.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

@@ -49,6 +49,12 @@ Avinash Agarwal (Department of Telecommunications, India), Manisha J. Nene (Defe
 ## 10. BI LINK
 "Business intelligence"/"analytics"/"data warehousing" absent. Related: ISO/IEC TR 24027 addresses bias "particularly in AI-aided decision-making" (Section 4.2, p. 7); EU AI Act promotes transparency "to enable scrutiny of AI decision-making processes" (Section 4.1, p. 6); incidents arise from "biased decision-making" (Section 5, p. 9).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `cb98c7ce-000d-4c8f-a30a-87c9709502e3` ("[A6] Agarwal2025 — Five-Layer AI Governance Framework"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This source is a conceptual/policy-design proposal (a five-layer AI governance framework) validated by two case studies; it contains no empirical data, interview material, or findings on how practitioners experience governance. It treats developers only as abstract stakeholders: "developers often perform self-assessments, these lack independent validation" (Section 4.5, p. 8); SME "accessible training initiatives" appear only as a forward-looking policy recommendation, not observed practice (Section 6.2, p. 11). No practitioner attitudes, workarounds, feedback channels, or gap-handling behaviour are described anywhere in the text.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

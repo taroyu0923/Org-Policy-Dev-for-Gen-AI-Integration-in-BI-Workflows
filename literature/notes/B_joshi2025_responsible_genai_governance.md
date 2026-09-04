@@ -52,6 +52,22 @@ Literal terms absent, but explicit "structured data analysis" and "decision-supp
 4. "Developing decision-support tools, such as risk matrices and GenAI lifecycle governance checkpoints, to aid AI risk evaluation..." (Section II-B.2, p. 3)
 5. "GenAI's use in automated decision-making and content generation could lead to misinformation or procedural injustices..." (Section II-B.4, p. 4)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `31d0ce0d-17be-440a-bcb5-4c4dfd652dda` ("[B4] Joshi2025 — Responsible Governance of GenAI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Substantive.** This white paper (literature review + industry roundtable) is prescriptive rather than empirical, but describes working-tier reception in more operational detail than any other Cluster A/B source.
+
+(a) **Policy reach:** Practitioners sit at the "Operational Level" (functional managers, data scientists, developers), executing governance set at Strategic/Tactical levels (Section IV.A, Levels of Execution). Policy reaches them via "GenAI and Data Literacy/Education" training designed to prevent misuse such as "uploading confidential content into GenAI tools like ChatGPT" (Section IV.D.1, Core Foundational Pillars); continuous SOP training (Section IV.D.2); and role-specific "Role-Based Training Modules... tailored to technical staff" covering ethics, compliance and technical risk (Section V.C, Step 3: Training and Up-skilling). Governance is also embedded directly in workflow tooling — risk matrices, decision-support templates, lifecycle checkpoints, and "Sandbox Testing Environments" for controlled experimentation (Section II.B.2; Section IV.C).
+
+(b) **Policy–practice gap:** The paper names "Shadow AI" as its central gap — "the use of unauthorized AI models outside organizational oversight," where "employees or teams may develop and deploy AI tools independently, bypassing any established governance controls" (Section I.C.2, Key Governance Challenges). It notes employees "frequently use external tools for sensitive tasks like writing code or processing proprietary data" (Section IV.D.1) and states plainly that "many organizations struggle with the practical implementation of GenAI governance because existing frameworks lack industry-specific guidance" (Section II.B.2).
+
+(c) **Practitioner attitudes:** The framework acknowledges a risk that compliance is experienced as a "burdensome process" if not smoothly integrated (Section II.B.2), and that teams bypass formal controls "when formal channels are slow, rigid, or absent" (Section I.C.2; Section III.E, Vendor and Third-Party Management). No empirical skepticism/compliance data is presented — these are the paper's own stated risks, not observed findings.
+
+(d) **Feedback channels:** The paper prescribes a "Bidirectional Approach: Top-Down and Bottom-Up Governance" (Section IV.C) with "Continuous Feedback Loops" (regular meetings between technical teams and executive governance committees) and sandbox environments feeding findings back to strategy (Section IV.C), plus a stated aim to "empower individuals to report concerns or initiate changes themselves" (Section IV.D.2). These are recommended structural channels; the source gives no evidence of whether or how often they are actually used.
+
+(e) **Uncovered situations:** The source implies practitioners resort to external, unauthorized GenAI tools when internal tooling does not meet an immediate need (Section IV.D.1) — the "Shadow AI" behaviour again — and prescribes internal sandbox environments as the intended alternative.
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*

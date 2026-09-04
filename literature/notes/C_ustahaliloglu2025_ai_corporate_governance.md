@@ -55,5 +55,11 @@ No dedicated limitations section. Only self-acknowledged limitation: "This study
 - "Predictive analytics powered by AI... can optimize inventory levels, route planning, and demand forecasting in supply chain management..." (Section 3.2, p.124)
 - "AI-enhanced compliance monitoring leverages machine learning algorithms and data analytics to streamline this critical function." (Section 5.4, p.129)
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `59baf06b-c124-410b-a6f8-3c6a2b43d5e0` ("[C2] Ustahaliloglu2025 — AI in Corporate Governance"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This qualitative document-analysis study addresses AI governance from legal, board, and shareholder perspectives. It recommends that "businesses should fund ongoing AI ethics training for staff members who participate in decision-making" (Section 6.2, p. 131) and notes generalized organizational "skepticism over its maturity and actual application" (Section 1, p. 123-124), but neither is practitioner-level empirical evidence — no interviews, attitudes, workarounds, or feedback-channel use are documented anywhere in the source.
+
 ## Albert's Questions
 None beyond the standard Query 1 / Query 2 pair.

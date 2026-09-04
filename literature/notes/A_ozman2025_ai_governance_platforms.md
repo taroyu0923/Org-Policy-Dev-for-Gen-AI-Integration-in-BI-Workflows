@@ -46,6 +46,12 @@ No primary interview instruments (pure SLR). Constructs:
 ## 10. BI LINK
 "Business intelligence," "data warehousing," "decision-support" all absent. "Analytics" appears once: "It also investigates several technical perspectives on systematizing and regulating analytics and intelligence, demonstrating ways that governance is integrated into design." (Section 4.1, p. 81). "Decision-making" appears twice: re: transparency enabling monitoring of "decision-making process of AI systems" (Section 2.2, p. 79) and re: implementation problems "due to the bureaucratic and sector-specific nature of AI decision-making processes" (Section 4.3, p. 82).
 
+
+## 11. WORKING-TIER RECEPTION
+> *Harvested 2026-09-04 via MCP `notebook_query` to notebook `dbb27525-4b97-485b-a7b6-ff1a68d3d4eb` ("[A7] Ozman2025 — AI Governance Platforms SLR"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
+
+**Documented absence.** This SLR of AI governance platform architectures contains no empirical or qualitative material on practitioner reception. The only near-adjacent findings are structural: a cited empirical study calls for "increased training in AI governance for healthcare professionals to foster better AI adoption" (Appendix 1 Summary Table, p. 89), and the review notes "resistance from stakeholders" only as a generalized organizational barrier to platform adoption, not a practitioner-level behaviour (Section 5, Discussion, p. 82).
+
 ---
 ## Albert's Questions
 *(none asked in this notebook beyond the standard two-query sequence)*
