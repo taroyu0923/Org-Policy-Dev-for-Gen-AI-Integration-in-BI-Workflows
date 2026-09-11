@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Sep 4, 2026 — §11 harvest complete; §12 pass specified; template v2.4 standalone; planning docs migrating into version control.
+**Last updated:** Sep 11, 2026 — S3 gap-fill run (15 new sources, 14 kept); 35-note filename retrofit to cluster-numbered IDs (`A1`…, `I1`…) completed; §11 harvest complete; §12 pass specified; template v2.4 standalone; planning docs migrating into version control.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -11,9 +11,9 @@
 
 | Stream | State |
 |---|---|
-| Literature — governance corpus | **21 compiled notes, 20 usable** (Mitchell excluded). Clusters A 6, B 6, C 3, D 5, E 1 |
-| Literature — methodology corpus | **14 compiled notes** (`Interview_I1–I14`), ten-section format, §12 not yet run |
-| `references.bib` | 43 entries; **19 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
+| Literature — governance corpus | **35 compiled notes, 34 usable** (Mitchell excluded). Clusters A 11, B 8, C 7, D 7, E 4 — up from A6/B6/C3/D5/E1 after the Sep 11 S3 gap-fill (15 new sources, 14 kept, 1 excluded). Filenames retrofitted from `<letter>_<author><year>_<slug>.md` to cluster-numbered `<ID>_<author><year>_<slug>.md` (e.g. `A1_batool2024...`) — old-named files still present in `literature/notes/`, pending Albert's manual `git rm` |
+| Literature — methodology corpus | **14 compiled notes**, renamed from `Interview_I<n>_<slug>.md` to `I<n>_<slug>.md` (Sep 11), ten-section format, §12 not yet run |
+| `references.bib` | 58 entries (was 43; +15 from S3); **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
 | Interview design | Protocol **v0.97**; sample confirmed at 14 participants / 9 orgs / 6 jurisdictions |
@@ -81,7 +81,7 @@ This resolves the framing question that was open for three sessions. The engagem
 1. **⏳ Ethics determination** — in progress, blocks recruitment. Draft supervisor email: `research-design/ethics_determination_note.md` §4. Privacy notice (Aalto template) still outstanding.
 2. **§12 protocol-craft pass + bib backfill + doc migration** — one Sonnet session, `planning/section12_protocol_craft_prompt.md` Parts A, B and C.
 3. **Structure and interview-framework discussion** (Opus) — now unblocked by the §11 finding.
-4. **S3 gap-fill**, 15 frequency-ranked targets in `literature/search_log.md`. **Rakova et al. (2021) first** — closest published study to the reframed design; free at arXiv:2006.12358. Cluster loading is deliberate: 4 into C, 3 into E.
+4. **~~S3 gap-fill~~ DONE (Sep 11)** — 15 frequency-ranked targets in `literature/search_log.md`; 14 kept (Rakova et al. 2021 included — closest published study to the reframed design), `algobiasbianalytics2025` excluded. Cluster loading landed as planned: +4 into C, +3 into E.
 5. **S4 methods foundation** — reflexive TA (Braun & Clarke), critical incident technique (Flanagan), embedded case design (Yin/Eisenhardt). Note `castillomontoya2016ipr` (IPR framework) is already held and verified.
 6. **Title-line spot-check** across all 35 notes against PDFs — triggered by the Mitchell metadata failure (amendment A2).
 7. **S1 reconstruction** — databases and query strings from the research plan §2.4.
@@ -94,7 +94,7 @@ This resolves the framing question that was open for three sessions. The engagem
 - Amazon (#13, Business Operations) — confirm against the inclusion criterion and assign a tier.
 - Optional: five Ackerman Likert items pre-interview would give one comparable structured datum across all 14 for a case table. Cheap — but does it prime the incident narrative?
 - Cluster F contents.
-- `algobiasbianalytics2025` (E1) is tagged as the closest topical match to the thesis **and is unverifiable ResearchGate content** — same profile as the excluded A2. Verify or exclude; do not leave in limbo.
+- ~~`algobiasbianalytics2025` (E1) is tagged as the closest topical match to the thesis and is unverifiable ResearchGate content — verify or exclude; do not leave in limbo.~~ **RESOLVED (Sep 11, 2026): excluded**, same grounds as A2/B2/Mitchell. It no longer holds an E-slot — `E1` now = Khandan (2025), `E2`–`E4` = the three new S3 Cluster-E sources (Abraham 2019, Janssen 2020, Zhang 2022).
 
 ## Standing constraints
 

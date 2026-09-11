@@ -44,7 +44,7 @@ Required by amendment A1 (`claude/LitReview_Process_v2.md`). **No reference ente
 | `corpgovageai2025` | C#1, Ganesh et al. (2025), JISEM | SCImago: coverage 2019–2024, "Discontinued in Scopus as of 2024"; this article postdates it; no DOI; no self-stated limitations |
 | `aigovalgoacc2026` | C#3, Judijanto et al. (2026), INJOSS | Garuda/aggregator indexing only, not Scopus or WoS; no DOI; corpus size undisclosed; no self-stated limitations |
 
-## S3 — Frequency-ranked snowball gap-fill **[PLANNED — not yet run]**
+## S3 — Frequency-ranked snowball gap-fill **[RUN — Sep 11, 2026]**
 
 **Rationale.** Across the 21 compiled notes, the §8 SNOWBALL lists converge on a small set of sources that are consistently published in stronger venues than the corpus itself — particularly in Cluster C, where the references outrank the citing papers. Ranking by how many notes independently name a source gives a corpus-internal signal of the field's core, and simultaneously addresses three defects: Cluster C's collapse to one usable source, Cluster E's single low-tier member, and the missing theoretical lineage behind the chosen spine.
 
@@ -74,6 +74,32 @@ Required by amendment A1 (`claude/LitReview_Process_v2.md`). **No reference ente
 | 15 | — | Janssen (2025) — Responsible governance of generative AI: a CAS conceptualization | Policy and Society 44(1) | Previously flagged; possibly closest paper to the original RQ |
 
 **Also carried forward (previously flagged, not yet resolved):** Ulnicane (2025); Khanal, Zhang & Taeihagh (2025); Kongsten & Kathirgamadas (2024, NTNU MSc). And from A3/Ismail: Alan Turing Institute (Leslie et al. 2024, CARE/ACT), Government of Hong Kong SAR (2024, Ethical AI Framework), Barus et al. (2025) — ⚠ bibliographic details not confirmed in the captured transcript; verify against the Ismail2025 PDF reference list before treating as targets.
+
+### S3 outcome (Sep 11, 2026)
+
+All 15 target-list items were resolved via NotebookLM notebook_query (Q1+Q2 protocol) against the source PDF and assigned cluster IDs. **14 kept, notes compiled and committed to `literature/notes/`; raw Q1+Q2 harvest merged into `literature/_raw/<ID>.md`.** `references.bib` updated with all 14 entries (quality tier: all peer-reviewed journal/conference, no grey-tier flags — a marked improvement over S1/S2 corpus quality).
+
+| ID | Bib key | Source | Kept? |
+|---|---|---|---|
+| A8 | `mantymaki2022definingaigov` | Mäntymäki, Minkkinen, Birkstedt & Viljanen (2022) | ✅ |
+| A9 | `papagiannidis2023towardaigov` | Papagiannidis, Enholm, Dremel, Mikalef & Krogstie (2023) | ✅ |
+| A10 | `birkstedt2023themesgaps` | Birkstedt, Minkkinen, Tandon & Mäntymäki (2023) | ✅ |
+| A11 | `ashok2022ethicalframework` | Ashok, Madan, Joha & Sivarajah (2022) | ✅ |
+| A12 | `tallon2013informationartifact` | Tallon, Ramirez & Short (2013) | ✅ |
+| B8 | `janssen2025responsiblegenai` | Janssen (2025) | ✅ |
+| C7 | `mokander2021auditing` | Mökander, Morley, Taddeo & Floridi (2021) | ✅ |
+| C8 | `raji2020closingaccgap` | Raji et al. (2020) | ✅ |
+| C9 | `shrestha2019decisionmaking` | Shrestha, Ben-Menahem & von Krogh (2019) | ✅ |
+| C10 | `asatiani2020blackbox` | Asatiani et al. (2020) | ✅ |
+| D6 | `lu2024raipatterns` | Lu, Zhu, Xu, Whittle, Zowghi & Jacquet (2024) | ✅ |
+| D7 | `rakova2021practitionerperspectives` | Rakova, Yang, Cramer & Chowdhury (2021) | ✅ |
+| E2 | `abraham2019datagovframework` | Abraham, Schneider & vom Brocke (2019) | ✅ |
+| E3 | `janssen2020trustworthyai` | Janssen, Brous, Estevez, Barbosa & Janowski (2020) | ✅ |
+| E4 | `zhang2022riskawareai` | Zhang, Chan, Yan & Bose (2022) | ✅ |
+
+**Note on E-cluster renumbering.** With E2–E4 now filled by the S3 rebuild, the E-cluster ID scheme was reset: `E1` = Khandan (2025) (the pre-existing single member, previously numbered informally as "the only entry"), `E2` = Abraham (2019), `E3` = Janssen (2020), `E4` = Zhang (2022). `algobiasbianalytics2025` — previously flagged as the closest topical match but unverifiable ResearchGate content — is formally **EXCLUDED** (see `references.bib`) and is not assigned an E-cluster slot; it is not renumbered into this scheme.
+
+**Cluster totals after S3:** A 11 (6 retained + 5 new), B 8 (7 retained + 1 new), C 7 (3 retained + 4 new — Cluster C rebuild target achieved), D 7 (5 retained + 2 new), E 4 (1 retained + 3 new, plus 1 excluded).
 
 ## S4 — Methods literature **[PLANNED — not yet run]**
 

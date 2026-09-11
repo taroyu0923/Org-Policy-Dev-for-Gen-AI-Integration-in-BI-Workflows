@@ -1,6 +1,7 @@
 # §12 Protocol Craft — harvest pass (interview-methodology cluster)
 
-**Purpose:** append one new section (§12) to each of the 14 `Interview_I*` notes, harvesting **how these studies were run** — sampling, recruitment, protocol construction, conduct, consent, analysis and trustworthiness — as opposed to what they asked about.
+**Purpose:** append one new section (§12) to each of the 14 `I*_` notes, harvesting **how these studies were run** — sampling, recruitment, protocol construction, conduct, consent, analysis and trustworthiness — as opposed to what they asked about.
+**Filename note (Sep 11, 2026):** these 14 notes were renamed from `Interview_I<n>_<slug>.md` to `I<n>_<slug>.md`. Any glob against `literature/notes/` for this cluster must use `I*_` (or `I[0-9]*`), not `Interview_I*`.
 **Model:** Sonnet. **Created:** Sep 4, 2026. **Status:** not yet run.
 **Also in scope:** the `references.bib` backfill for this cluster (see Part B). Same 14 sources, same session.
 
@@ -10,7 +11,7 @@
 
 ### Why this cluster gets §12 and NOT §11
 
-§11 WORKING-TIER RECEPTION must **not** be run on `Interview_I1–I14`. The §11 harvest produced a corpus-level statistic — *14 of 20 governance sources contain no account of how anyone below management experiences governance* — and that number is only meaningful because those twenty were selected as the **governance literature**: a sample with every opportunity to describe reception that did not.
+§11 WORKING-TIER RECEPTION must **not** be run on `I1–I14`. The §11 harvest produced a corpus-level statistic — *14 of 20 governance sources contain no account of how anyone below management experiences governance* — and that number is only meaningful because those twenty were selected as the **governance literature**: a sample with every opportunity to describe reception that did not.
 
 The interview cluster was selected on the opposite criterion. Running §11 across it corrupts the count in both directions at once:
 
@@ -55,7 +56,7 @@ Quote procedures verbatim with location wherever the wording matters. If the sou
 
 ### Procedure
 
-1. `notebook_list` to map notebooks to the 14 `Interview_I*` notes.
+1. `notebook_list` to map notebooks to the 14 `I*_` notes.
 2. Send the §12 query to each of the **14** notebooks via `notebook_query`.
 3. Append the answer to each note as `## 12. PROTOCOL CRAFT`, placed after §11 if present, otherwise after §10, and before "Albert's Questions".
 4. Open every §12 with the provenance block:
@@ -110,7 +111,7 @@ BOTH parts of the §12 pass.
 Setup: connect to my folder "D:\Master\Org-Policy-Dev-for-Gen-AI-Integration-in-BI-Workflows".
 NotebookLM is available via the notebook MCP; if auth is stale I'll run `nlm login`.
 
-PART A — §12 Protocol Craft harvest across all 14 Interview_I*.md notes in literature/notes/.
+PART A — §12 Protocol Craft harvest across all 14 I*_*.md notes in literature/notes/.
 Send the query via MCP notebook_query. Append each answer as a new section 12, after section 11
 if present else after section 10, before "Albert's Questions", opening with the provenance block
 from the prompt file. Do NOT touch sections 1-11, do NOT recompile, and do NOT run section 11 on

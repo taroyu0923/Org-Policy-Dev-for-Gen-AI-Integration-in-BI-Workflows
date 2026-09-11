@@ -1,7 +1,7 @@
 # Reference List with Verification Status
 
 **Thesis:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows — A Qualitative Analysis of Governance Framework Evolution
-**Compiled:** Sep 2, 2026 | Generated from `references.bib` (43 entries)
+**Compiled:** Sep 2, 2026 | **Updated:** Sep 11, 2026 (S3 gap-fill, 15 new sources) | Generated from `references.bib` (58 entries)
 
 > **This document is a working audit, not the thesis bibliography.** `references.bib` remains the single source of truth for per-reference status (amendment A4). Regenerate this file whenever the bib changes.
 
@@ -22,22 +22,24 @@
 
 | Status | Count |
 |---|---|
-| ✅ Verified (DOI) | 10 |
+| ✅ Verified (DOI) | 23 |
 | ✅ Verified (arXiv preprint) | 6 |
-| ✅ Verified (PDF + venue, no DOI) | 1 |
+| ✅ Verified (PDF + venue, no DOI) | 2 |
 | ⚠ Grey tier | 2 |
-| ⛔ Excluded | 3 |
-| ❓ TODO-verify | 18 |
-| **Total bib entries** | **43** |
+| ⛔ Excluded | 4 |
+| ❓ TODO-verify | 17 |
+| **Total bib entries** | **58** |
 
-**Compiled notes: 21.** Usable after exclusions: **20** (of which 2 are grey-tier, restricted use).
+**Compiled notes: 35** (21 original + 14 from the S3 gap-fill; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **34** (of which 2 are grey-tier, restricted use).
 
-> ⚠ **18 of 43 entries cannot currently be cited.** Thirteen of those eighteen are in the interview-design group, which is the least verified part of the corpus and the part Chapter 3 depends on.
+> ⚠ **17 of 58 entries cannot currently be cited.** Thirteen of those seventeen are in the interview-design group, which is the least verified part of the corpus and the part Chapter 3 depends on.
+>
+> **S3 gap-fill (Sep 11, 2026).** 15 frequency-ranked snowball targets from `literature/search_log.md` were resolved: 14 kept (all DOI- or PDF+venue-verified, no grey-tier flags), 1 excluded. See the per-cluster sections below for the new A8–A12, B8, C7–C10, D6–D7, E2–E4 entries, and the note under Cluster E on the E-slot renumbering.
 
 ---
 
 ## Cluster A — Systematic reviews of AI governance
-*7 entries · 6 usable · 6 notes compiled*
+*12 entries · 11 usable · 11 notes compiled (S3: +5)*
 
 **A1.** Batool, A., Zowghi, D., & Bano, M. (2024). *AI governance: A systematic literature review.* Research Square preprint. https://doi.org/10.21203/rs.3.rs-4784792/v1
 `batool2024aigov` — ✅ **DOI** · Verified Sep 1, 2026. SLR of 28 articles, 2013–2023; anchor definition of AI governance. ⚠ Open: confirm final *AI and Ethics* volume/pages if the journal version has appeared.
@@ -60,8 +62,23 @@
 **A7.** Ozman, F. M. (2025). *A systematic literature review on AI governance platforms.* World Journal of Advanced Engineering Technology and Sciences, 16(2), 78–92. https://doi.org/10.30574/wjaets.2025.16.2.1259
 `ozman2025platforms` — ✅ **DOI** · Verified Sep 1, 2026. ⚠ Caution: low-tier venue, single practitioner author, **no self-stated limitations section at all**. Tooling angle only.
 
+**A8.** Mäntymäki, M., Minkkinen, M., Birkstedt, T., & Viljanen, M. (2022). *Defining organizational AI governance.* AI and Ethics, 2, 603–609. https://doi.org/10.1007/s43681-022-00143-x
+`mantymaki2022definingaigov` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Opinion paper; core definitional anchor — four-element normative definition of AI governance, cited widely within this corpus (e.g., Birkstedt 2023).
+
+**A9.** Papagiannidis, E., Enholm, I. M., Dremel, C., Mikalef, P., & Krogstie, J. (2023). *Toward AI governance.* Information Systems Frontiers, 25, 123–141. https://doi.org/10.1007/s10796-022-10251-y
+`papagiannidis2023towardaigov` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Exploratory multi-case study, 3 Norwegian energy firms, 15 respondents. Distinct from the Papagiannidis, Mikalef & Conboy (2025) JSIS paper already held as the theory spine.
+
+**A10.** Birkstedt, T., Minkkinen, M., Tandon, A., & Mäntymäki, M. (2023). *AI governance: Themes, knowledge gaps and future agendas.* Internet Research, 33(7), 133–167. https://doi.org/10.1108/INTR-01-2022-0042
+`birkstedt2023themesgaps` — ✅ **DOI** · Verified Sep 11, 2026 (S3). SLR, 68 final articles, 2010–2021. AI Oversight Unit proposal analogous to GDPR DPO.
+
+**A11.** Ashok, M., Madan, R., Joha, A., & Sivarajah, U. (2022). *Ethical framework for AI and digital technologies.* International Journal of Information Management, 62, 102433. https://doi.org/10.1016/j.ijinfomgt.2021.102433
+`ashok2022ethicalframework` — ✅ **DOI** · Verified Sep 11, 2026 (S3). SLR + template analysis, 59 papers. Four-domain ontological framework (Physical/Cognitive/Information/Governance).
+
+**A12.** Tallon, P. P., Ramirez, R. V., & Short, J. E. (2013). *The information artifact in IT governance: Theory and empirical evidence.* Journal of Management Information Systems, 30(3), 141–177. https://doi.org/10.2753/MIS0742-1222300306
+`tallon2013informationartifact` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** Qualitative field interview study, 37 executives, 30 orgs. The theoretical lineage behind the thesis's structural/procedural/relational spine (via Papagiannidis 2025).
+
 ## Cluster B — Generative AI governance (organizational)
-*7 entries · 6 usable · 6 notes compiled*
+*8 entries · 7 usable · 7 notes compiled (S3: +1)*
 
 **B1.** Taeihagh, A. (2025). *Governance of generative AI.* Policy and Society, 44(1), 1–22. https://doi.org/10.1093/polsoc/puaf001
 `taeihagh2025govgenai` — ✅ **DOI** · Verified Sep 1, 2026. **Priority read.** Source of the Janssen 2025, Ulnicane 2025 and Khanal et al. 2025 snowball targets.
@@ -84,8 +101,11 @@
 **B7.** Priyanshu, A., Maurya, Y., & Hong, Z. (2024). *AI governance and accountability: An analysis of Anthropic's Claude.* arXiv:2407.01557.
 `priyanshu2024claude` — ✅ **arXiv** · Verified Sep 1, 2026. ⚠ **CMU course paper — not peer-reviewed.** Illustrative vendor-accountability case only.
 
+**B8.** Janssen, M. (2025). *Responsible governance of generative AI: Conceptualizing generative AI as complex adaptive systems.* Policy and Society, 44(1), 38–51. https://doi.org/10.1093/polsoc/puae040
+`janssen2025responsiblegenai` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** Same special issue as Taeihagh (2025); conceptualizes GenAI as complex adaptive systems, "responsibility gap" framing. Previously flagged as possibly closest paper to the original RQ.
+
 ## Cluster C — Corporate governance & algorithmic accountability
-*6 entries · 1 fully usable + 2 grey · 3 notes compiled · **weakest cluster***
+*10 entries · 5 fully usable + 2 grey · 7 notes compiled · S3 rebuild target achieved*
 
 **C1.** Ganesh, N. B., Siddineni, D., Reddy B, V. V., Ganesha K S, Lateef, K., & Sharma, R. (2025). *Corporate governance in the age of AI.* Journal of Information Systems Engineering and Management, 10(35s).
 `corpgovageai2025` — ⚠ **GREY** (Sep 2, 2026) · SCImago records JISEM coverage 2019–2024 and **"Discontinued in Scopus as of 2024"** (publisher IADITI, SJR Q4→Q3, h-index 14); **this 2025 article postdates the discontinuation.** No DOI printed. No self-stated limitations. **Use rule:** background support only, always alongside a stronger source.
@@ -105,8 +125,22 @@
 **C6.** *Algorithmic accountability: Who's responsible when AI leads?* (2025). ResearchGate.
 `algoaccliability2025` — ❓ **TODO-VERIFY** · Missing authors and venue. ⚠ ResearchGate-only, same profile as the excluded A2 — likely exclusion candidate.
 
+**C7.** Mökander, J., Morley, J., Taddeo, M., & Floridi, L. (2021). *Ethics-based auditing of automated decision-making systems: Nature, scope, and limitations.* Science and Engineering Ethics, 27, Art. 44. https://doi.org/10.1007/s11948-021-00319-4
+`mokander2021auditing` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** SLR + conceptual synthesis, 122 articles + 16 EBA frameworks. EBA as formal soft post-compliance mechanism; 8-step audit process. Checked against existing key `ethicsbasedauditing2024` — no collision, different paper.
+
+**C8.** Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., Smith-Loud, J., Theron, D., & Barnes, P. (2020). *Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing.* Proceedings of FAT* '20. https://doi.org/10.1145/3351095.3372873
+`raji2020closingaccgap` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** SMACTR framework (Scoping, Mapping, Artifact Collection, Testing, Reflection); cross-industry tool adaptation from safety-critical auditing.
+
+**C9.** Shrestha, Y. R., Ben-Menahem, S. M., & von Krogh, G. (2019). *Organizational decision-making structures in the age of artificial intelligence.* California Management Review, 61(4), 66–83. https://doi.org/10.1177/0008125619862257
+`shrestha2019decisionmaking` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Conceptual synthesis; three structural categories (Full Human-to-AI Delegation, Hybrid Sequential, Aggregated Human-AI).
+
+**C10.** Asatiani, A., Malo, P., Nagbøl, P. R., Penttinen, E., Rinta-Kahila, T., & Salovaara, A. (2020). *Challenges of explaining the behavior of black-box AI systems.* MIS Quarterly Executive, 19(4).
+`asatiani2020blackbox` — ✅ **PDF+venue** · Verified Sep 11, 2026 (S3). **Priority read.** No DOI printed on the paper. Qualitative single case study (action design research), Danish Business Authority ML Lab, 18 interviews. Six-dimension managerial explainability framework.
+
+> **Cluster C now has 7 usable sources** (5 fully usable + 2 grey), up from 1 fully usable — the S3 rebuild target (search_log.md S3 items #4, #8, #9, #10) is achieved. No longer the weakest cluster.
+
 ## Cluster D — Responsible AI adoption & implementation
-*6 entries · 4 usable · 5 notes compiled · **strongest cluster***
+*8 entries · 6 usable · 7 notes compiled (S3: +2) · **strongest cluster***
 
 **D1.** Papagiannidis, E., Mikalef, P., & Conboy, K. (2025). *Responsible artificial intelligence governance: A review and research framework.* Journal of Strategic Information Systems, 34, 101885. https://doi.org/10.1016/j.jsis.2024.101885
 `responsibleaigovreview` — ✅ **DOI** · Verified Sep 2, 2026. **Strongest venue in the corpus. Adopted Sep 2 as the theoretical spine** — structural/procedural/relational typology + Antecedents–Practices–Effects, after Tallon et al. (2013, JMIS). Venue corrected from an earlier mis-note (was recorded as IJIM). **Priority read.**
@@ -126,14 +160,31 @@
 **D6.** Ackerman, L. (2025). *Perceptions of agentic AI in organizations: Implications for responsible AI and ROI.* arXiv:2504.11564.
 `agenticaiperceptions2025` — ✅ **arXiv** · Verified Sep 2, 2026. Master's-level study, n=44 survey. ⚠ Low evidential weight, **but methodologically valuable**: its self-stated limitations (network recruitment; participants answering with organizational rather than personal views) are a citable precedent for this thesis's own sampling and for the risk the incident anchor mitigates.
 
+**D6 (new).** Lu, Q., Zhu, L., Xu, X., Whittle, J., Zowghi, D., & Jacquet, A. (2024). *Responsible AI pattern catalogue: A collection of best practices for AI governance and engineering.* ACM Computing Surveys, 56(7), Art. 173. https://doi.org/10.1145/3626234
+`lu2024raipatterns` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Systematic Multivocal Literature Review, 274 items. Three-tier pattern catalogue (multi-level governance / trustworthy process / RAI-by-design product patterns) — engineering-level operationalization.
+
+**D7 (new).** Rakova, B., Yang, J., Cramer, H., & Chowdhury, R. (2021). *Where responsible AI meets reality: Practitioner perspectives on enablers for shifting organizational practices.* Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1), Art. 7. https://doi.org/10.1145/3449081
+`rakova2021practitionerperspectives` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **PRIORITY read** — nearest existing published study to the thesis's reframed working-tier design; directly relevant to whether this thesis is scooped or positioned.
+
 ## Cluster E — AI governance in BI / data analytics
-*2 entries · 1 usable · 1 note compiled · **emptiest and most on-topic***
+*5 entries · 4 usable · 4 notes compiled (S3: +3) · was emptiest, now filled*
 
-**E1.** *Algorithmic bias, data ethics, and governance: Ensuring fairness, transparency and compliance in AI-powered business analytics applications* (2025). ResearchGate.
-`algobiasbianalytics2025` — ❓ **TODO-VERIFY** · Missing authors and venue. ⚠ **Flagged as the closest topical match to the thesis — and it is unverifiable.** ResearchGate-only, same profile as the excluded A2. Verify or exclude; do not leave in limbo.
+> **E-slot renumbering (Sep 11, 2026).** Before S3 this document numbered the cluster's two entries E1 (`algobiasbianalytics2025`) and E2 (Khandan). With three new sources added, the cluster ID scheme is reset: **E1 = Khandan (2025)**, **E2 = Abraham (2019)**, **E3 = Janssen (2020)**, **E4 = Zhang (2022)**. `algobiasbianalytics2025` no longer holds an E-slot — see below.
 
-**E2.** Khandan, A., & Jafari Moghaddam, F. (2025). *Data governance, ethics, and AI guidelines in strategic decision-making.* Advanced Journal of Management, Humanity and Social Science, 1(8), 518–524. https://doi.org/10.5281/zenodo.17392044
-`datagovstrategicdecision` — ✅ **DOI** (Zenodo) · Verified Sep 2, 2026. Venue corrected from an earlier mis-note. ⚠ Low-tier venue; no self-stated limitations. **The only compiled note in the cluster closest to the thesis topic.**
+**E1.** Khandan, A., & Jafari Moghaddam, F. (2025). *Data governance, ethics, and AI guidelines in strategic decision-making.* Advanced Journal of Management, Humanity and Social Science, 1(8), 518–524. https://doi.org/10.5281/zenodo.17392044
+`datagovstrategicdecision` — ✅ **DOI** (Zenodo) · Verified Sep 2, 2026. Venue corrected from an earlier mis-note. ⚠ Low-tier venue; no self-stated limitations.
+
+**E2.** Abraham, R., Schneider, J., & vom Brocke, J. (2019). *Data governance: A conceptual framework, structured review, and research agenda.* International Journal of Information Management, 49, 424–438. https://doi.org/10.1016/j.ijinfomgt.2019.07.008
+`abraham2019datagovframework` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Structured review (Webster & Watson method), 145 publications. Six-dimension conceptual framework; structural/procedural/relational governance mechanisms typology.
+
+**E3.** Janssen, M., Brous, P., Estevez, E., Barbosa, L. S., & Janowski, T. (2020). *Data governance: Organizing data for trustworthy artificial intelligence.* Government Information Quarterly, 37(4), 101493. https://doi.org/10.1016/j.giq.2020.101493
+`janssen2020trustworthyai` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Conceptual/structural synthesis. Tripartite data governance typology; 13 Data Governance Design Principles.
+
+**E4.** Zhang, X., Chan, F. T. S., Yan, C., & Bose, I. (2022). *Towards risk-aware artificial intelligence and machine learning systems: An overview.* Decision Support Systems, 159, 113800. https://doi.org/10.1016/j.dss.2022.113800
+`zhang2022riskawareai` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Genuine BI-family venue (Decision Support Systems). Two-tier risk taxonomy (data-level / model-level); Uber and Amazon-hiring case illustrations.
+
+**Excluded, no cluster slot.** *Algorithmic bias, data ethics, and governance: Ensuring fairness, transparency and compliance in AI-powered business analytics applications* (2025). ResearchGate.
+`algobiasbianalytics2025` — ⛔ **EXCLUDED** (Sep 11, 2026) · Albert's decision, same grounds as `aigovslr2024rg` / `govgenai2025amcis` / `employeeexperiences2025` — unverifiable ResearchGate content. Was flagged as the closest topical match to the thesis, but the E1 slot it might have filled now belongs to Khandan (2025). Kept in `references.bib` for the record; never cited anywhere.
 
 ## Cluster F — Standards and primary sources
 *1 entry*
@@ -177,4 +228,4 @@
 4. **Verify or exclude C4–C6.** `algoaccliability2025` is ResearchGate-only and a likely exclusion candidate.
 5. **Add DOIs where open:** Luna (AIES proceedings), Joshi (ISTAS proceedings), Batool A1 (journal version), Castillo-Montoya.
 6. **Title-line spot-check across all 21 compiled notes** against their PDFs — triggered by the Mitchell metadata failure (amendment A2).
-7. **Run search pass S3** (15 frequency-ranked snowball targets) and **S4** (methods foundation) — see `search_log.md`.
+7. **~~Run search pass S3~~ DONE Sep 11, 2026** (14 of 15 frequency-ranked snowball targets kept; `algobiasbianalytics2025` excluded). **Run S4** (methods foundation) — see `search_log.md`.
