@@ -91,7 +91,7 @@ This resolves the framing question that was open for three sessions. The engagem
 
 **Confidentiality:** the risk is *inside* Shopee. Report Depth A by tier without persistent pseudonyms. **Recruitment template A (individual) for all 14** — several participants are under NDA; do not approach employers unprompted.
 
-**Lit chapter structure:** Plan 3 (cluster-mirroring) with claim-sentence headers, Plan 1 (argument funnel) if buffer. ⚠ **Revisit — C has one usable source and E has one, so cluster-mirroring would give the weakest cluster a section and the most on-topic cluster a paragraph.**
+**Lit chapter structure — ADOPTED Sep 29, 2026 (Albert):** loop structure, a Plan 1 funnel ordered by the findings sequence — 2.1 how rules are assumed to arrive · 2.2 practice first / unclear rules · 2.3 asking or acting (bypass explanations) · 2.4 rulings and intermediaries · 2.5 does anything go up · 2.6 lens and gap; ~5,400 words. Plan 3 (cluster-mirroring) rejected: the claims Chapter 5 needs each span 2–4 clusters. BI-work context moved to Chapter 1. Spec: `planning/ch2_outline_draft_2026-09-29.md` (v2); claims: `planning/ch2_claims_map_2026-09-29.md`.
 
 ---
 

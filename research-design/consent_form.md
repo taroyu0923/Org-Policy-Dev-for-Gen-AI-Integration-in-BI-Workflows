@@ -1,9 +1,9 @@
 # Consent Form
 
-**Study:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows
+**Study (participant-facing working title):** How BI practitioners encounter and act on their organisation's rules for generative AI
 **Researcher:** Liu Yu-Shu (Albert), Aalto University — [EMAIL]
 **Supervisor:** [NAME] — [EMAIL]
-**Version:** 0.95 (draft) | **Date:** [DATE]
+**Version:** 0.98 (Sep 29, 2026) | **Date:** [DATE]
 
 > Draft note for Albert — replace with Aalto's official consent template if one is mandated; keep the split document permissions in items 8-9, which are the point of this form.
 
@@ -15,7 +15,7 @@ Please initial each box you agree with. You may take part while declining items 
 
 | # | Statement | Initial |
 |---|---|---|
-| 1 | I have read and understood the Participant Information Sheet (version [X], dated [DATE]), and have had the chance to ask questions. | ☐ |
+| 1 | I have read and understood the Participant Information Sheet (version [X], dated [DATE]) and the Privacy Notice (version [X]), and have had the chance to ask questions. | ☐ |
 | 2 | I understand that my participation is voluntary, that I may decline any question, and that I may withdraw without giving a reason up to [DATE], without any consequence. | ☐ |
 | 3 | I understand that my name will not appear in the thesis or any publication, and that I will be described only by role type and organizational tier. | ☐ |
 | 4 | I understand that my organization will not be named, and will be described only by sector and approximate size. | ☐ |

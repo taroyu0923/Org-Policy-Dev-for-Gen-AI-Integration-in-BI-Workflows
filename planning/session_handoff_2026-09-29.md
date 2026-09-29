@@ -36,3 +36,22 @@
 - Write outputs into the repo; never claim success without evidence (Cowork shell cannot mount folders — use list/stage/commit tools).
 - §6 metadata and NotebookLM output are claims, not verification — check against PDFs before citing.
 - Albert's expectations about participants are hypotheses; the protocol tests them, it does not assume them.
+
+---
+
+## Update — later session, Sep 29 (pre-interview check + Chapter 2 Socratic)
+
+**Done (all in repo, Albert to push):**
+- `research-design/privacy_notice.md` (new, v0.9) — controller = Albert; legal basis = consent; Teams (Aalto account) for recording + transcription, stored in Aalto OneDrive. **AI rule:** no AI tools on interview content; AI only for preparation and the codebook, with anonymised examples only. Copy into Aalto's official template (Aalto login).
+- `participant_information_sheet.md` → v0.98 (no longer invites rule-setters or promises a policy-development account); `consent_form.md` → references the privacy notice.
+- `ethics_determination_note.md` §5 **deferred** to the supervisor meeting; checklist added there.
+- Protocol v0.98 + wording card **v1.2**: three new probes added before the pilot — **C1a** (pre-rule practice), **D2a** (data before it goes in; listen for rule- vs case-shaped answers), **E3a** (why nothing went up). SQ2 codes and "source of working rule" attribute added to §10. ⚠ The three add ~8 min to an already long protocol — the pilot must time C, D, E. `pilot_debrief.md` has a row for each.
+- Chapter 2: `planning/ch2_claims_map_2026-09-29.md` (claims K1–K11, Albert's picks K2/K5/K7, B9 positioning, pre-rule findings P1–P3), `planning/ch2_outline_draft_2026-09-29.md` (Plan 1 funnel on the findings sequence; BI context moved to Ch.1; Ch.2 ≈ 5,100 words).
+- Search **S5**: B9 Silic 2025, E5 Ain 2019, E6 Gu 2024, G1 Haag & Eckhardt 2017, G2 Morrison 2023, G3 Dutton & Ashford 1993 — notes compiled by Sonnet via `planning/s5_addref_prompt.md`. New **Cluster G** (organisation-theory anchors, outside the §11 denominator).
+
+**Open, in order:**
+1. Albert: fill brackets (programme, supervisor, dates), send info sheet + privacy notice + consent to all 14 before Oct 5.
+2. Pilot with #5/#6 → fill `pilot_debrief.md` → protocol v1.0 (test C1a and the three other new zh-TW items).
+3. Confirm B9 §11 verdict (positive → tally 35 → 36). Fix stale S5 header comment in `references.bib`.
+4. Chapter 2: contributions (2) and (5) restated as one loop (unclear case → fork: ask vs act now → ruling or own judgement → working rule → up or not); see claims map. Outline v2 (loop structure) **adopted** Sep 29 — write 2.1 and 2.6 first. Lead hypotheses: **P2** (bypass as continued pre-rule habit) and **rulings, not the document, as the working rule**.
+5. Unchanged from above: title, examiner question (why governance not adoption), D7/A9/C10 fixes.

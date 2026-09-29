@@ -68,6 +68,15 @@ Procedurally: "If ethical review is necessary, the student shall apply for it to
 
 *To be completed when the answer arrives — this becomes a methods-chapter citation and an appendix item.*
 
+> **Deferred (Sep 29):** to be completed after Albert's supervisor meeting. Bring to that meeting:
+> 1. Written confirmation (email) that ethical review is not required — date it; this date also goes into the information sheet's "Ethical review" paragraph.
+> 2. Confirm the earlier approval (~2025) for Teams recording/transcription covers this study.
+> 3. Confirm the AI-use rule: no AI on interview content; AI only for preparation and the codebook, with anonymised examples only.
+> 4. Confirm whether the Aalto DPO contact belongs in the privacy notice for a student-controlled thesis.
+> 5. Agree retention dates (recordings, contact details, transcripts) — keep identical across information sheet, consent form and privacy notice.
+>
+> If the meeting falls after the first interview: the documents can still go out; send the dated ethics sentence as a one-line update before that participant's interview.
+
 - Date requested:
 - Determined by:
 - Outcome:
