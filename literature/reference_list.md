@@ -1,7 +1,7 @@
 # Reference List with Verification Status
 
 **Thesis:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows — A Qualitative Analysis of Governance Framework Evolution
-**Compiled:** Sep 2, 2026 | **Updated:** Sep 11, 2026 (S3 gap-fill, 15 new sources) | Generated from `references.bib` (58 entries)
+**Compiled:** Sep 2, 2026 | **Updated:** Sep 29, 2026 (S5 compile: six PDF-verified) | Generated from `references.bib` (64 entries)
 
 > **This document is a working audit, not the thesis bibliography.** `references.bib` remains the single source of truth for per-reference status (amendment A4). Regenerate this file whenever the bib changes.
 
@@ -22,19 +22,23 @@
 
 | Status | Count |
 |---|---|
-| ✅ Verified (DOI) | 23 |
+| ✅ Verified (DOI) | 28 |
 | ✅ Verified (arXiv preprint) | 6 |
-| ✅ Verified (PDF + venue, no DOI) | 2 |
+| ✅ Verified (PDF + venue, no DOI printed) | 3 |
 | ⚠ Grey tier | 2 |
 | ⛔ Excluded | 4 |
 | ❓ TODO-verify | 17 |
-| **Total bib entries** | **58** |
+| **Total bib entries** | **64** |
 
-**Compiled notes: 35** (21 original + 14 from the S3 gap-fill; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **34** (of which 2 are grey-tier, restricted use).
+**Compiled notes: 41** (21 original + 14 from the S3 gap-fill + 6 from the S5 pass: B9, E5, E6, G1, G2, G3; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **40** (34 before S5, plus the six S5 notes; 2 are grey-tier, restricted use). The six S5 sources are governance-corpus members only for B9; E5, E6 and G1–G3 are context and theory anchors.
+
+> ⚠ Arithmetic note: the status counts above sum to 60 against 64 entries; the Sep 11 table already summed to 54 against 58, so a four-entry gap predates S5 and was not reconciled in this pass.
 
 > ⚠ **17 of 58 entries cannot currently be cited.** Thirteen of those seventeen are in the interview-design group, which is the least verified part of the corpus and the part Chapter 3 depends on.
 >
 > **S3 gap-fill (Sep 11, 2026).** 15 frequency-ranked snowball targets from `literature/search_log.md` were resolved: 14 kept (all DOI- or PDF+venue-verified, no grey-tier flags), 1 excluded. See the per-cluster sections below for the new A8–A12, B8, C7–C10, D6–D7, E2–E4 entries, and the note under Cluster E on the E-slot renumbering.
+
+> **S5 add-reference pass (Sep 29, 2026) — 6 sources PDF-verified and compiled.** B9, E5, E6, G1, G2 and G3 were harvested through NotebookLM (v2.4 for B9; v2.4-T for the other five, no §11), every quote, limitation, typology and page was checked against the PDF, and the six `TODO-verify` flags were removed. One caveat: G3's DOI is not printed in the PDF (from the publisher page). New **Cluster G — Organisation theory anchors (non-AI)**. Bib total **64**; TODO-verify now **17** (all pre-existing). See `search_log.md` §S5.
 
 ---
 
@@ -78,7 +82,7 @@
 `tallon2013informationartifact` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** Qualitative field interview study, 37 executives, 30 orgs. The theoretical lineage behind the thesis's structural/procedural/relational spine (via Papagiannidis 2025).
 
 ## Cluster B — Generative AI governance (organizational)
-*8 entries · 7 usable · 7 notes compiled (S3: +1)*
+*9 entries · 8 usable · 8 notes compiled (S3: +1; S5: +1, B9)*
 
 **B1.** Taeihagh, A. (2025). *Governance of generative AI.* Policy and Society, 44(1), 1–22. https://doi.org/10.1093/polsoc/puaf001
 `taeihagh2025govgenai` — ✅ **DOI** · Verified Sep 1, 2026. **Priority read.** Source of the Janssen 2025, Ulnicane 2025 and Khanal et al. 2025 snowball targets.
@@ -103,6 +107,9 @@
 
 **B8.** Janssen, M. (2025). *Responsible governance of generative AI: Conceptualizing generative AI as complex adaptive systems.* Policy and Society, 44(1), 38–51. https://doi.org/10.1093/polsoc/puae040
 `janssen2025responsiblegenai` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **Priority read.** Same special issue as Taeihagh (2025); conceptualizes GenAI as complex adaptive systems, "responsibility gap" framing. Previously flagged as possibly closest paper to the original RQ.
+
+**B9 (S5).** Silic, M., Silic, D., & Kind-Trüller, K. (2025). *From shadow IT to shadow AI – Threats, risks and opportunities for organizations.* Strategic Change. Advance online publication. https://doi.org/10.1002/jsc.2682
+`silic2025shadowai` — ✅ **DOI** · Verified against the PDF Sep 29, 2026 (OCR); note `B9_silic2025_shadow_it_to_shadow_ai.md`. Advance online publication, pp. 1–16, no volume/issue. Empirical (survey n=140; eight interviews per body and Table 1, ten per abstract). **K5 verdict: position, not scoop.** Counts in the §11 denominator (35 → 36).
 
 ## Cluster C — Corporate governance & algorithmic accountability
 *10 entries · 5 fully usable + 2 grey · 7 notes compiled · S3 rebuild target achieved*
@@ -167,7 +174,7 @@
 `rakova2021practitionerperspectives` — ✅ **DOI** · Verified Sep 11, 2026 (S3). **PRIORITY read** — nearest existing published study to the thesis's reframed working-tier design; directly relevant to whether this thesis is scooped or positioned.
 
 ## Cluster E — AI governance in BI / data analytics
-*5 entries · 4 usable · 4 notes compiled (S3: +3) · was emptiest, now filled*
+*7 entries · 6 usable · 6 notes compiled (S3: +3; S5: +2, E5 and E6, context sources outside the §11 denominator) · was emptiest, now filled*
 
 > **E-slot renumbering (Sep 11, 2026).** Before S3 this document numbered the cluster's two entries E1 (`algobiasbianalytics2025`) and E2 (Khandan). With three new sources added, the cluster ID scheme is reset: **E1 = Khandan (2025)**, **E2 = Abraham (2019)**, **E3 = Janssen (2020)**, **E4 = Zhang (2022)**. `algobiasbianalytics2025` no longer holds an E-slot — see below.
 
@@ -183,6 +190,12 @@
 **E4.** Zhang, X., Chan, F. T. S., Yan, C., & Bose, I. (2022). *Towards risk-aware artificial intelligence and machine learning systems: An overview.* Decision Support Systems, 159, 113800. https://doi.org/10.1016/j.dss.2022.113800
 `zhang2022riskawareai` — ✅ **DOI** · Verified Sep 11, 2026 (S3). Genuine BI-family venue (Decision Support Systems). Two-tier risk taxonomy (data-level / model-level); Uber and Amazon-hiring case illustrations.
 
+**E5 (S5).** Ain, N., Vaia, G., DeLone, W. H., & Waheed, M. (2019). *Two decades of research on business intelligence system adoption, utilization and success – A systematic literature review.* Decision Support Systems, 125, 113113. https://doi.org/10.1016/j.dss.2019.113113
+`ain2019bisuccess` — ✅ **DOI** · Verified against the PDF Sep 29, 2026; note `E5_ain2019_bi_adoption_success_slr.md` (v2.4-T, no §11). Chapter 1 BI context. Snowball lead from A10.
+
+**E6 (S5).** Gu, K., Shang, R., Althoff, T., Wang, C., & Drucker, S. M. (2024). *How do analysts understand and verify AI-assisted data analyses?* In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (pp. 1–22). ACM. https://doi.org/10.1145/3613904.3642497
+`gu2024analystsverify` — ✅ **DOI** · Verified against the PDF Sep 29, 2026; note `E6_gu2024_analysts_verify_ai_analyses.md` (v2.4-T, no §11). Single-company sample (n=22). Title page prints "Althof"; "Althoff" kept.
+
 **Excluded, no cluster slot.** *Algorithmic bias, data ethics, and governance: Ensuring fairness, transparency and compliance in AI-powered business analytics applications* (2025). ResearchGate.
 `algobiasbianalytics2025` — ⛔ **EXCLUDED** (Sep 11, 2026) · Albert's decision, same grounds as `aigovslr2024rg` / `govgenai2025amcis` / `employeeexperiences2025` — unverifiable ResearchGate content. Was flagged as the closest topical match to the thesis, but the E1 slot it might have filled now belongs to Khandan (2025). Kept in `references.bib` for the record; never cited anywhere.
 
@@ -191,6 +204,18 @@
 
 **F1.** National Institute of Standards and Technology. (2023). *Artificial intelligence risk management framework (AI RMF 1.0)* (NIST AI 100-1). https://doi.org/10.6028/NIST.AI.100-1
 `nist2023airmf` — ✅ **DOI** · Institutional primary source. GOVERN / MAP / MEASURE / MANAGE.
+
+## Cluster G — Organisation theory anchors (non-AI) *(new, S5)*
+*3 entries · 3 verified (G3 without a PDF-printed DOI) · 3 notes compiled · created Sep 29, 2026 for Chapter 2 theory anchors; outside the §11 denominator*
+
+**G1 (S5).** Haag, S., & Eckhardt, A. (2017). *Shadow IT.* Business & Information Systems Engineering, 59(6), 469–473. https://doi.org/10.1007/s12599-017-0497-x
+`haag2017shadowit` — ✅ **DOI** · Verified against the PDF Sep 29, 2026 (OCR); note `G1_haag2017_shadow_it.md` (v2.4-T). Catchword overview, no stated limitations.
+
+**G2 (S5).** Morrison, E. W. (2023). *Employee voice and silence: Taking stock a decade later.* Annual Review of Organizational Psychology and Organizational Behavior, 10, 79–107. https://doi.org/10.1146/annurev-orgpsych-120920-054654
+`morrison2023voicesilence` — ✅ **DOI** · Verified against the PDF Sep 29, 2026; note `G2_morrison2023_employee_voice_silence.md` (v2.4-T). No limitations of the review stated.
+
+**G3 (S5).** Dutton, J. E., & Ashford, S. J. (1993). *Selling issues to top management.* Academy of Management Review, 18(3), 397–428. https://doi.org/10.5465/amr.1993.9309035145
+`dutton1993issueselling` — ✅ **PDF+venue** · Verified against the PDF Sep 29, 2026 (OCR: title, authors, venue, volume, issue, pages); **no DOI printed in the PDF**, DOI 10.5465/amr.1993.9309035145 is from the publisher page. Note `G3_dutton1993_selling_issues_top_management.md` (v2.4-T). Seminal; conceptual.
 
 ## Interview-design references
 *14 entries · 1 verified · 13 TODO-verify · **least verified part of the corpus***

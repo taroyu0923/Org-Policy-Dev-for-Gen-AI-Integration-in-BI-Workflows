@@ -114,6 +114,43 @@ Chapter 3 currently has no methodological citations from the corpus. Clusters A�
 
 Not a cluster; a short targeted search, logged here as S4 when run.
 
+## S5 — Targeted search for Chapter 1 BI context and Chapter 2 theory anchors **[RUN Sep 29, 2026]**
+
+**Trigger:** Chapter 2 outline draft (`planning/ch2_outline_draft_2026-09-29.md`) — three gaps the corpus cannot fill: BI work context (moved to Ch.1), a shadow-IT anchor for claim K5, an employee-voice / issue-selling anchor for SQ2.
+**Method:** WebSearch (general web), then metadata check via Crossref API. No database filters. Not systematic — targeted anchor search.
+
+| Query (WebSearch) | Kept |
+|---|---|
+| `shadow IT systematic literature review employees unauthorized IT use Haag Eckhardt` | G1 Haag & Eckhardt 2017 |
+| `"shadow AI" generative AI employees unauthorized use organizations empirical study 2024 2025 journal` | B9 Silic et al. 2025 |
+| `Dutton Ashford 1993 selling issues to top management Academy of Management Review doi` | G3 Dutton & Ashford 1993 |
+| `Morrison employee voice and silence review Annual Review of Organizational Psychology doi` | G2 Morrison 2023 |
+| `generative AI business intelligence analytics work data analysts journal article 2024 2025` | none — results low-tier (IAEME and similar) |
+| `empirical study data analysts using LLMs ChatGPT in data analysis workflows interviews CHI 2024` | E6 Gu et al. 2024 |
+| (snowball from A10 References p.159) | E5 Ain et al. 2019 |
+
+**Rejected:** vendor/practitioner blogs on shadow AI (not academic); IAEME and similar low-tier "GenAI for BI" papers (venue); a DiVA student thesis on shadow AI (grey, student-level); Morrison 2014 (superseded by the 2023 review).
+**Seen, not screened:** *Digital shadow AI risk theory (DART)*, Technological Forecasting & Social Change (2026) — screen if B9 proves thin.
+
+**Finding recorded:** B9 reports empirical data on unauthorised AI use. Claim K5 ("no source observes shadow use") holds only within the 35-note corpus. Read B9 before framing K5 as a gap.
+
+**Next (superseded):** Albert confirmed the IDs; harvest and compile completed Sep 29, 2026 (below).
+
+### S5 outcome (Sep 29, 2026)
+
+Six sources harvested through NotebookLM (one notebook per PDF, query template v2.4; Q1 and Q2 written to `literature/_raw/<ID>.md` as each answer returned), verified against the PDFs, then compiled. B9 ran full v2.4 including §11. E5, E6, G1, G2 and G3 ran v2.4-T (Q2 = §7–§10 then §13 THESIS ANCHOR); **§11 was not run** and none of the five enters the §11 denominator. The `TODO-verify` flag was removed from all six bib entries. Nothing was rejected at this stage. Chat history in all six notebooks was empty at compile, so no questions of Albert's own are recorded in the notes.
+
+| ID | Bib key | Source | Kept | Verification finding worth recording |
+|---|---|---|---|---|
+| B9 | `silic2025shadowai` | Silic, Silic & Kind-Trüller (2025), *Strategic Change*, DOI 10.1002/jsc.2682 | ✅ | Interview count inconsistent inside the paper (10 in abstract, eight in body and Table 1). Survey items do not ask about the respondent's own bypass. One NotebookLM "finding" was the authors reporting Walters (2021). Scoop-or-position for K5: **position, not scoop**. |
+| E5 | `ain2019bisuccess` | Ain, Vaia, DeLone & Waheed (2019), *Decision Support Systems* 125, 113113 | ✅ | Limitations at pp.10–11 (NotebookLM: p.9); NotebookLM's own citation numbers were embedded inside quotes. |
+| E6 | `gu2024analystsverify` | Gu, Shang, Althoff, Wang & Drucker (2024), CHI '24, DOI 10.1145/3613904.3642497 | ✅ | NotebookLM added policy and governance framing the paper does not contain; one Appendix quote not findable. Single-company sample. Limitations pp.15–16. |
+| G1 | `haag2017shadowit` | Haag & Eckhardt (2017), *BISE* 59(6):469–473, DOI 10.1007/s12599-017-0497-x | ✅ | Two altered quotes corrected ("employed users"; "either"). No limitations stated. |
+| G2 | `morrison2023voicesilence` | Morrison (2023), *Annu. Rev. Organ. Psychol. Organ. Behav.* 10:79–107 | ✅ | A spliced quote corrected; page numbers off by one; "information redundancy" not supported by the body text; no limitations of the review stated. |
+| G3 | `dutton1993issueselling` | Dutton & Ashford (1993), *AMR* 18(3):397–428 | ✅ | "Proposition 1" was really Proposition 2 (p.409); propositions number 1–17, not 16; no DOI printed in the PDF. |
+
+**Snowball leads from §8 (not screened, no notebooks created):** from B9: D'Arcy (2011), Leonardi (2011), Silic & Back (2014), Walters (2021), Wirtz, Weyerer & Sturm (2020). From E5: Popovič (2017), Richards et al. (2017), Bischoff et al. (2015), Deng & Chi (2012), Arvidsson et al. (2014). From E6: Kandel et al. (2012), Kandogan et al. (2014), Liu, Althoff & Heer (2019/2020), Parasuraman & Manzey (2010), Zhang, Muller & Wang (2020). From G1: Fürstenau & Rothe (2014), Györy et al. (2012), **Martin et al. (2013)**, Horlach et al. (2017), Zimmermann et al. (2016). From G2: Liang et al. (2012), Detert & Edmondson (2011), Burris et al. (2017), Knoll & Redman (2016), **Dutton et al. (2001)**. From G3: Ancona & Caldwell (1988), Daft & Weick (1984), Dean (1987), Lyles & Mitroff (1980), Wooldridge & Floyd (1990). Bold = the two leads most likely to matter (Martin et al. for the K5/K11 distinction; Dutton et al. 2001 as the empirical follow-up to G3). Also seen, not screened (from the S5 search): *Digital shadow AI risk theory (DART)*, Technological Forecasting & Social Change (2026).
+
 ---
 
 ## Log conventions

@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Sep 11, 2026 — S3 gap-fill run (15 new sources, 14 kept); 35-note filename retrofit to cluster-numbered IDs (`A1`…, `I1`…) completed; §11 harvest complete; §12 pass specified; template v2.4 standalone; planning docs migrating into version control.
+**Last updated:** Sep 29, 2026 — S5 add-reference pass compiled (B9, E5, E6, G1, G2, G3; all PDF-verified). Earlier: Sep 11, 2026 — S3 gap-fill run (15 new sources, 14 kept); 35-note filename retrofit to cluster-numbered IDs (`A1`…, `I1`…) completed; §11 harvest complete; §12 pass specified; template v2.4 standalone; planning docs migrating into version control.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -11,9 +11,9 @@
 
 | Stream | State |
 |---|---|
-| Literature — governance corpus | **35 compiled notes, 34 usable** (Mitchell excluded). Clusters A 11, B 8, C 7, D 7, E 4 — up from A6/B6/C3/D5/E1 after the Sep 11 S3 gap-fill (15 new sources, 14 kept, 1 excluded). Filenames retrofitted from `<letter>_<author><year>_<slug>.md` to cluster-numbered `<ID>_<author><year>_<slug>.md` (e.g. `A1_batool2024...`) — old-named files still present in `literature/notes/`, pending Albert's manual `git rm` |
+| Literature — governance corpus | **36 compiled governance notes, 35 usable** (Mitchell excluded; +B9 from S5). Plus **5 non-governance context/anchor notes** outside the §11 denominator: E5, E6 (Ch.1 BI context) and Cluster G, G1–G3 (Ch.2 theory anchors). Before S5: Clusters A 11, B 8 → **9 with B9**, C 7, D 7, E 4 → **6 with E5/E6**, **new G 3** — up from A6/B6/C3/D5/E1 after the Sep 11 S3 gap-fill (15 new sources, 14 kept, 1 excluded). Filenames retrofitted from `<letter>_<author><year>_<slug>.md` to cluster-numbered `<ID>_<author><year>_<slug>.md` (e.g. `A1_batool2024...`) — old-named files still present in `literature/notes/`, pending Albert's manual `git rm` |
 | Literature — methodology corpus | **14 compiled notes**, renamed from `Interview_I<n>_<slug>.md` to `I<n>_<slug>.md` (Sep 11), ten-section format, §12 not yet run |
-| `references.bib` | 58 entries (was 43; +15 from S3); **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
+| `references.bib` | **64 entries** (58 + 6 from S5); the six S5 entries are now PDF-verified and no longer `TODO-verify` (G3's DOI is from the publisher page, tagged `doi-not-in-pdf`). **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
 | Interview design | Protocol **v0.97**; sample confirmed at 14 participants / 9 orgs / 6 jurisdictions |
@@ -39,6 +39,25 @@ This resolves the framing question that was open for three sessions. The engagem
 ⚠ **Denominator discipline.** That statistic holds only because those 20 were selected as the *governance* literature. **§11 must never be run on the `Interview_I*` cluster** — method-craft papers would return false nulls, empirical practitioner studies guaranteed positives. Methodology sources run §12 instead (template variant v2.4-M).
 
 ⚠ The classification above was read off verdict lines by the Opus session, not taken from the harvest agent's own summary table. Cross-check if that table is still available.
+
+---
+
+## S5 add-reference pass (Sep 29, 2026) — results
+
+**§11 tally, two figures, not merged.**
+- **Before B9:** documented absence in **23 of 35** governance notes. Derived from the Sep 4 harvest (14 of 20) plus the 15 S3 notes' §11 verdict lines (nine documented absence: A8, A10, A11, A12, B8, C9, E2, E3, E4; three substantive or partial with data: A9, C10, D7; C7 partial; D6 substantive-secondary; C8 normative with no field data). Sensitivity: **22–24 of 35** depending on how A12, B8 and C8 are read. ⚠ Read off the verdict lines by this session, not re-verified against the full §11 texts; consistent with the "22–24 of 35" range in `planning/s5_addref_prompt.md`.
+- **After B9:** **23 of 36** (range 22–24 of 36). B9 is counted as a **positive** (working-tier data via the survey and executive testimony), with sub-question (d), practitioner channels to influence policy, a documented absence. That classification is Albert's call; if read as a partial, the tally is unchanged at 23 of 36 because it is still not a documented absence.
+- E5, E6, G1, G2, G3 are **not in either figure** (v2.4-T, no §11).
+
+**B9 scoop-or-position verdict: POSITION, not scoop.** B9 is the first source in the corpus with primary empirical data on unauthorised AI use, so claim K5's "no source observes shadow use directly" now holds only within the other 35 notes. It observes bypass through executive testimony and awareness items at population level. It has no BI unit of analysis (respondent roles "ranging from analysts to senior managers", no role or sector split), no critical incidents, no separation of use *before* a rule existed from use *around* an existing rule (K11 vs K5), and no measure of upward feedback. Its own limitations state that the findings "may underrepresent challenges faced by mid-level managers or employees". Cite B9's interview count as eight and flag the abstract's "10" (internal inconsistency). Do not cite the "official tools as misaligned" sentence as a Silic finding; it is Walters (2021).
+
+**Verification findings that change how the notes may be used** (details in each `_raw/<ID>.md`):
+- NotebookLM errors were found in all six, including a fabricated attribution (B9), wrong proposition number and count (G3), a spliced quote (G2), policy framing not in the paper (E6), and altered quotes (G1). **Never quote a NotebookLM answer without checking the PDF page.**
+- E6 and E5 contain no policy or rules content; G2 states no limitations of its own review; G1 states none; G3 has no printed DOI.
+
+**Corpus counts after S5.** Governance corpus 35 → **36** notes (B9). Cluster B 9 entries / 8 notes; Cluster E 6 notes (E1–E4 governance, E5–E6 context); **Cluster G = 3** (new). Bib 64 entries, TODO-verify 17.
+
+**Claims map.** `planning/ch2_claims_map_2026-09-29.md` not edited. K5's line "No source in the corpus observes shadow use directly" needs a B9 exception before Chapter 2 is drafted.
 
 ---
 
