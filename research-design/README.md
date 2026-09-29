@@ -5,9 +5,9 @@ Created Sep 2, 2026. All files are **drafts pending Albert's review**.
 
 | File | Purpose | Status |
 |---|---|---|
-| `interview_protocol_v0.97.md` | Semi-structured interview guide: 3 phases x tier branches, critical-incident anchor | v0.97 — draft, not piloted |
+| `interview_protocol_v0.98.md` | Semi-structured interview guide aligned to RQ v2.1: 3 phases x tier branches, critical-incident anchor, escalation probe | v0.98 — draft, not piloted (v0.97 kept for history) |
 | `sampling_frame.md` | Confirmed cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules | v1.0 |
-| `wording_card_bilingual.md` | Fixed EN / zh-TW wording for the core items — read as written, not improvised | v1.0 |
+| `wording_card_bilingual.md` | Fixed EN / zh-TW wording for the core items — read as written, not improvised | v1.1 |
 | `participant_information_sheet.md` | Given to participants before consent (Aalto requirement) | draft |
 | `consent_form.md` | Signed consent, with split document-access permissions | draft |
 | `recruitment_email.md` | First-contact + gatekeeper + follow-up templates | draft |

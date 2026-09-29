@@ -103,4 +103,4 @@ These are personal contacts speaking as individuals, several under NDA (JPMorgan
 | Tenure | 1–2 yr (arrived into the policy) vs. >10 yr (remember before) | recall resource; see below |
 | Evidence tier | Document-anchored (Shopee) vs. self-report | recall-validation strategy |
 
-**Tenure note:** participants #7, #12, #14 (1–2 yr) joined after GenAI adoption and may have no memory of policy evolution. Do not press Section E with them; use them instead for the *sedimented state* — what they found already in place on arrival, and how they learned it. That is its own finding about how governance is transmitted to newcomers.
+**Tenure note:** participants #7, #12, #13 (at Amazon since 2025) and #14 (1–2 yr at current organisation) joined after GenAI adoption and may have no memory of policy evolution. Do not press Section E with them; use them instead for the *sedimented state* — what they found already in place on arrival, and how they learned it. That is its own finding about how governance is transmitted to newcomers.
