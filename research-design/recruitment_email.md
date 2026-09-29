@@ -13,7 +13,7 @@ Do not send before the ethical-review determination is in hand (see `ethics_dete
 
 Dear [NAME],
 
-I'm a master's student at Aalto University, researching how organizations develop and change their internal rules for using generative AI in reporting and analytics work.
+I'm a master's student at Aalto University, researching how people who work in reporting and analytics come across and act on their organization's rules for using generative AI.
 
 Most of the published research looks at government regulation and at frameworks companies publish externally. Almost none of it looks at how these rules actually come about inside an organization, how they reach the people producing reports, and how they change once they meet real deadlines. That's the gap I'm trying to fill, and it's why I'd value your perspective.
 

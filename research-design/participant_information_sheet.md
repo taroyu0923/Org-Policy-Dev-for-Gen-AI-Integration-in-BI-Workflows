@@ -9,7 +9,7 @@
 
 ## What is this study about?
 
-I am studying how organizations develop and change their internal rules for using generative AI tools (such as ChatGPT, Copilot, Claude, or built-in AI features of analytics platforms) in reporting, analytics and business intelligence work.
+I am studying how people who work with data and reporting come across their organization's rules for using generative AI tools (such as ChatGPT, Copilot, Claude, or built-in AI features of analytics platforms) in reporting, analytics and business intelligence work, how they make sense of those rules, and what they do when the rules affect their work.
 
 Most existing research looks at published frameworks and government policy. Very little looks at how such rules actually come about inside a company, how they reach the people doing the work, and how they change over time. That is what I would like to ask you about.
 

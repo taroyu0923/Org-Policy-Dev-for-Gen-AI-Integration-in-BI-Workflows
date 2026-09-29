@@ -10,19 +10,23 @@ Organizations adopting generative AI in business intelligence (BI) workflows fac
 ## Repo layout
 
 ```
-planning/            Research plan, agent team & workflow plan, query templates
-                     and agent task prompts
+planning/            Pipeline state (canonical), query template v2.4, agent task
+                     prompts (§11, §12), session post-checks and decision logs
 literature/
-  notes/             One Markdown note per source; cluster-prefixed (A_..., B_..., ...)
-                     v2 format: 10 sections, every point tagged section + page
-  cluster-memos/     Synthesis memos per cluster (A–F)
+  notes/             One Markdown note per source, cluster-numbered ID:
+                     <ID>_<author><year>_<slug>.md  (e.g. A1_batool2024_...)
+                     Governance notes A–E: v2.4, §1–§10 + §11 working-tier reception
+                     Methodology notes I1–I14: v2.4-M, §1–§10 (+ §12 protocol craft, pending)
+  _raw/              Verbatim NotebookLM query outputs (S3 sources onward)
+  cluster-memos/     Synthesis memos (empty — structure being settled)
   references.bib     BibTeX — single source of truth for per-reference status
                      (verification result, note version, read-mark, quality tier)
+  reference_list.md  Generated audit view of references.bib
   search_log.md      PRISMA-lite search protocol — every query, date, hits, kept/rejected
 research-design/     Empirical-stage instruments and governance documents (see below)
 chapters/            Thesis chapters in Markdown; converted to LaTeX in November
 interviews/          Fieldwork outputs only — transcripts and logs (gitignored)
-analysis/            Thematic coding artifacts (rolling coding from Sep 22)
+analysis/            Thematic coding artifacts (rolling coding: memo within 48h per interview)
 latex/               Aalto template + converted output
 ```
 
@@ -32,7 +36,7 @@ latex/               Aalto template + converted output
 |---|---|
 | `README.md` | Stage overview, design summary, open items |
 | `sampling_frame.md` | Cases, tier assignments, inclusion criterion, sequencing, confidentiality and employer-permission rules |
-| `interview_protocol_v0.97.md` | Semi-structured guide: three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
+| `interview_protocol_v0.98.md` | Semi-structured guide (aligned to RQ v2.1; v0.97 kept for history): three phases with tier branches, critical-incident anchor; every question source-tagged to `literature/notes/` |
 | `wording_card_bilingual.md` | Fixed EN / 繁中 wording for the core items — read as written, not improvised |
 | `participant_information_sheet.md` | Given to participants before consent |
 | `consent_form.md` | Signed consent; document *access* and *quotation* permissions are separate items |
@@ -67,23 +71,42 @@ Participant data never enters this repository. Signed consent forms, recordings 
 
 ## Status
 
-- [x] Repo scaffold + `references.bib` (43 sources, cluster-tagged)
-- [x] Clusters A+B compiled under Lit Review Process v2 — 12 notes, 10-section format (Sep 2)
-- [x] Clusters C–E compiled — 9 notes; corpus now 21 usable sources (Sep 2)
-- [x] Verification pass: Mitchell excluded (fabricated metadata); JISEM and INJOSS papers grey-tagged (Sep 2)
-- [x] `literature/search_log.md` opened — S1–S2 recorded, S3 gap-fill and S4 methods planned
-- [x] Research-design stage: protocol v0.95, sampling frame, ethics and consent pack (Sep 2)
+*Updated Sep 28, 2026.*
+
+**Literature**
+- [x] Repo scaffold + `references.bib` — 58 entries; 18 still carry a `TODO-verify` note (formally uncitable)
+- [x] Clusters A–E compiled — **35 usable governance notes** (A11, B7, C7, D7, E4; D3 Mitchell excluded)
+- [x] Interview-methodology cluster compiled — 14 notes (I1–I14)
+- [x] Verification pass: Mitchell excluded; JISEM and INJOSS papers grey-tagged (Sep 2)
+- [x] `literature/search_log.md` — S1–S3 recorded, S4 planned
+- [x] §11 working-tier reception harvest — original 20 (Sep 4) + 15 S3 notes (Sep 11). Tally: **14/20 → 22–24/35** documented absence (`planning/s3_postcheck_2026-09-11.md`)
+- [x] S3 frequency-ranked snowball gap-fill — 15 sources added (Sep 11)
+- [ ] S3 note fixes — D7 Rakova §7/§9/§11 contain content not in the paper; PDF-verify A9 and C10 §11; normalise §11 verdict openers
+- [ ] §12 protocol-craft pass on I1–I14 + bib backfill (`planning/section12_protocol_craft_prompt.md`)
+- [ ] Naming retrofit for interview notes (slugs/years missing on 14 files); `git rm` `literature/notes/_to_delete/`
 - [ ] S1 search reconstruction — databases and query strings from Research Plan §2.4
-- [ ] §11 working-tier reception harvest across all 20 usable notes (`planning/section11_harvest_prompt.md`)
-- [ ] S3 frequency-ranked snowball gap-fill (15 targets) — rebuilds Clusters C and E
-- [ ] S4 methods literature (3–5 sources)
-- [ ] Cluster memos A+B → lit review sections 1–2 drafted (target Sep 8)
-- [ ] Ethical-review determination obtained in writing — **blocks recruitment**
+- [ ] S4 methods literature (reflexive TA, critical incident technique, embedded case design)
+- [ ] Screen three post-corpus novelty candidates for the RQ (`planning/structure_discussion_log_2026-09-11.md`)
 - [ ] Cluster F when PDFs arrive
-- [ ] Protocol piloted in Mandarin → v1.0
-- [ ] Interviews (Sep 15 – Oct 15) — depth cases first
-- [ ] Thematic analysis complete (Oct 31)
-- [ ] Full draft (end Nov) — hard deadline mid-Dec
+
+**Design & structure**
+- [x] Research-design stage: sampling frame, ethics and consent pack (Sep 2); protocol **v0.98** + wording card v1.1 (Sep 29)
+- [x] Ethical-review determination — supervisor confirmed **no review required** (record in `ethics_determination_note.md` §5)
+- [ ] **Privacy notice** (Aalto template) + ethics note §5 — by Oct 1, required before first interview
+- [x] Research question v2 adopted Sep 20 (`planning/structure_discussion_log_2026-09-11.md`)
+- [ ] Title revision to match RQ v2
+- [x] "BI practitioners" defined; Shopee evolution threshold (Q3) set — Sep 29
+- [ ] Chapter 2 structure (Plan 1 argument funnel vs Plan 3 cluster-mirroring)
+- [x] Protocol changes from Sep 11 log (B3a ruling→rule probe, escalation probe, #13 tenure floor) + align to RQ v2.1 — v0.98 (Sep 29)
+- [ ] Pilot in Mandarin (#5 or #6) → protocol v1.0 — by Oct 3
+- [ ] Cluster memos → lit review drafted (original target Sep 8 — missed)
+
+**Fieldwork & writing**
+- [ ] Recruitment — started Sep 11
+- [ ] Interviews — **rescheduled Oct 5 – Oct 19**; Shopee first, then Smartly, breadth as capacity allows
+- [ ] Rolling coding discipline in `analysis/` — not yet implemented
+- [ ] Thematic analysis complete (target ~Nov 7, was Oct 31)
+- [ ] Full draft (end Nov) — hard deadline Dec 15
 
 ## Working notes
 

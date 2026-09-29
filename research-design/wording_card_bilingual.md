@@ -1,9 +1,11 @@
 # Fixed-Wording Card — EN / 繁體中文（台灣）
 
-**Version:** 1.0 | Sep 2, 2026
+**Version:** 1.1 | Sep 29, 2026 (v1.0 Sep 2) — aligned to protocol v0.98 / RQ v2.1
 **Purpose:** the protocol is delivered in English and interpreted live for the six Chinese-speaking participants (#1–6). These sentences are the exception: they are **read as written**, in the language of the interview, and must not be improvised. They carry the core section's comparability.
 
-**Scope:** study purpose statement, the incident menu, the four process-trace questions, the confidence probes. Everything else may be rendered live.
+**Scope:** study purpose statement, the incident menu, the four process-trace questions plus B3a and the escalation probe, the confidence probes.
+
+**Changed in v1.1:** §1 purpose statement rewritten; B3a added to §6; new §6a escalation probe. Chinese for all three is a draft — check naturalness in the pilot. Everything else may be rendered live.
 
 **The Chinese column is a draft — rewrite it.** Albert is a native Taiwanese Mandarin speaker and will deliver these questions himself; natural phrasing matters more than fidelity to the English. If a sentence sounds stiff, or is not how an analyst at these companies would actually talk, change it. Pay particular attention to item (ii): an over-literal rendering turns a neutral description of ordinary work into an accusation.
 
@@ -19,9 +21,11 @@ Log what was actually done, and by whom, for Chapter 3.
 
 ## 1. Purpose statement (opening)
 
-**EN** — "I'm studying how organizations actually develop and change their rules for using generative AI in reporting and analytics work — not what the policy says, but how it got there and how it has changed."
+**EN** — "I'm studying how people who work with data and reporting come across their organisation's rules for generative AI, how they make sense of them, and what they actually do when those rules touch their work."
 
-**ZH** — 「我在研究組織實際上是怎麼制定、以及後來怎麼調整生成式 AI 在報表與數據分析工作上的使用規範。重點不是規範寫了什麼，而是它是怎麼來的、後來又是怎麼變的。」
+**ZH** — 「我在研究做數據和報表工作的人，是怎麼接觸到公司對生成式 AI 的使用規範、怎麼理解這些規範，以及當規範影響到自己的工作時，實際上是怎麼做的。」
+
+*v1.0 wording (retired — promised an account of how policy was developed, which RQ v2.1 no longer claims):* "I'm studying how organizations actually develop and change their rules…"
 
 ## 2. Neutrality framing (opening, before recording)
 
@@ -91,11 +95,27 @@ Asked of whichever incident type the participant chose, in this order.
 
 **ZH** — 「後來有什麼改變嗎？你的工作方式有跟著變嗎？有沒有寫成文件、公告出來，或是直接改在工具裡？還是就這樣慢慢定下來了？」
 
+**B3a — Did a one-off decision become a standing rule?** *(new v1.1)*
+
+**EN** — "If something like this came up again, would you have to ask again, or would you already know what to do?"
+
+**ZH** — 「如果之後又遇到類似的情況，你會需要再問一次，還是已經知道該怎麼做了？」
+
 **B4 — Who decided?**
 
 **EN** — "Who made the call? Who else had to agree? Did it go anywhere above or below your level?"
 
 **ZH** — 「這個決定是誰做的？還有誰需要同意？有沒有往上或往下傳到其他層級？」
+
+---
+
+## 6a. Escalation probe *(new v1.1)*
+
+Asked after B4, and in Section E (E3) if not already covered. Record as `yes/no · explanation · rule · nothing`.
+
+**EN** — "When you passed something like this up, what came back — a yes or no, an explanation, a new rule, or nothing?"
+
+**ZH** — 「像這種情況往上反映之後，回來的是什麼？是一句可以或不行、一個解釋、一條新的規定，還是就沒有下文了？」
 
 ---
 
@@ -127,7 +147,7 @@ Asked lightly after B3 and B4. **The answer is data** — record it as `high / a
 
 ## 9. Chapter 3 sentence this card earns you
 
-> Interviews were conducted in English and in Taiwanese Mandarin. To preserve cross-case comparability, the study's core instrument — the purpose statement, the critical-incident menu, the four process-trace questions and the confidence probes — was fixed in both languages and read as written, while remaining probes were rendered live by the bilingual researcher. The Mandarin wording was produced by the researcher, a native speaker of Taiwanese Mandarin, and verified through a pilot interview conducted in Mandarin, after which items requiring rephrasing were amended. [IF DONE: A second bilingual reader reviewed the fixed items for naturalness.] Transcripts were coded in the language of the interview; only quotations appearing in the thesis were translated into English.
+> Interviews were conducted in English and in Taiwanese Mandarin. To preserve cross-case comparability, the study's core instrument — the purpose statement, the critical-incident menu, the process-trace questions, the escalation probe and the confidence probes — was fixed in both languages and read as written, while remaining probes were rendered live by the bilingual researcher. The Mandarin wording was produced by the researcher, a native speaker of Taiwanese Mandarin, and verified through a pilot interview conducted in Mandarin, after which items requiring rephrasing were amended. [IF DONE: A second bilingual reader reviewed the fixed items for naturalness.] Transcripts were coded in the language of the interview; only quotations appearing in the thesis were translated into English.
 
 *Note: this sentence claims pilot-based verification. If the route changes — for example if the supervisor asks for independent back-translation — amend it to describe what was actually done.*
 
