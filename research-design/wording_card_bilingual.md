@@ -1,11 +1,11 @@
 # Fixed-Wording Card — EN / 繁體中文（台灣）
 
-**Version:** 1.1 | Sep 29, 2026 (v1.0 Sep 2) — aligned to protocol v0.98 / RQ v2.1
+**Version:** 1.2 | Sep 29, 2026 (v1.1 same day; v1.0 Sep 2) — aligned to protocol v0.98 / RQ v2.1; v1.2 adds §6b C1a and §6c D2a
 **Purpose:** the protocol is delivered in English and interpreted live for the six Chinese-speaking participants (#1–6). These sentences are the exception: they are **read as written**, in the language of the interview, and must not be improvised. They carry the core section's comparability.
 
 **Scope:** study purpose statement, the incident menu, the four process-trace questions plus B3a and the escalation probe, the confidence probes.
 
-**Changed in v1.1:** §1 purpose statement rewritten; B3a added to §6; new §6a escalation probe. Chinese for all three is a draft — check naturalness in the pilot. Everything else may be rendered live.
+**Changed in v1.1:** §1 purpose statement rewritten; B3a added to §6; new §6a escalation probe. **Changed in v1.2:** new §6b C1a (pre-rule practice); new §6c D2a (data before it goes in). Chinese for all five is a draft — check naturalness in the pilot. Everything else may be rendered live.
 
 **The Chinese column is a draft — rewrite it.** Albert is a native Taiwanese Mandarin speaker and will deliver these questions himself; natural phrasing matters more than fidelity to the English. If a sentence sounds stiff, or is not how an analyst at these companies would actually talk, change it. Pay particular attention to item (ii): an over-literal rendering turns a neutral description of ordinary work into an accusation.
 
@@ -116,6 +116,26 @@ Asked after B4, and in Section E (E3) if not already covered. Record as `yes/no 
 **EN** — "When you passed something like this up, what came back — a yes or no, an explanation, a new rule, or nothing?"
 
 **ZH** — 「像這種情況往上反映之後，回來的是什麼？是一句可以或不行、一個解釋、一條新的規定，還是就沒有下文了？」
+
+---
+
+## 6b. Before the rules, and when they arrived — C1a *(new v1.2)*
+
+Asked in Section C after C1, only if the participant was using GenAI before the rules reached them. Never ask whether they broke or got around a rule.
+
+**EN** — "Before there were any rules, how were you using it? When the rules arrived, what did you stop, change, or keep doing?"
+
+**ZH** — 「在還沒有任何規定之前，你是怎麼用的？規定出來之後，有哪些做法停了、改了，或是繼續照做？」
+
+*Follow with the confidence probe (§7) for both dates.*
+
+## 6c. Data before it goes in — D2a *(new v1.2)*
+
+Asked in Section D after D2. Never ask whether the participant put restricted or all data in. Listen for whether the answer is rule-shaped (categories, definitions) or case-shaped (examples, "last time…").
+
+**EN** — "Walk me through what you do with data before it goes into an AI tool. How do you decide what's okay to put in? How did you learn that?"
+
+**ZH** — 「可以跟我說一下，資料在放進 AI 工具之前，你通常會怎麼處理嗎？你怎麼判斷哪些可以放、哪些不行？這是怎麼學到的？」
 
 ---
 

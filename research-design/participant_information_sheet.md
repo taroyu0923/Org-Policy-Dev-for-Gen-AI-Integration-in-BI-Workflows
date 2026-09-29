@@ -1,25 +1,25 @@
 # Participant Information Sheet
 
-**Study title:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows
+**Study title (participant-facing working title):** How BI practitioners encounter and act on their organisation's rules for generative AI
 **Researcher:** Liu Yu-Shu (Albert), Master's student, Aalto University
 **Supervisor:** [NAME, TITLE, EMAIL]
-**Contact:** [EMAIL] | **Date:** [DATE] | **Version:** 0.95 (draft)
+**Contact:** [EMAIL] | **Date:** [DATE] | **Version:** 0.98 (Sep 29, 2026 — aligned to RQ v2.1; privacy notice now a separate document)
 
-> Draft note for Albert — before use: complete every [BRACKETED] field, replace this section with Aalto's official privacy-notice template text, and confirm the retention period and legal basis with Aalto's data-protection guidance.
+> Draft note for Albert — before use: complete every [BRACKETED] field. Legal basis resolved as consent (Aalto thesis guidance); full data-protection detail is in `privacy_notice.md`, sent with this sheet. Keep the [DATE] fields identical across this sheet, the consent form and the privacy notice.
 
 ## What is this study about?
 
 I am studying how people who work with data and reporting come across their organization's rules for using generative AI tools (such as ChatGPT, Copilot, Claude, or built-in AI features of analytics platforms) in reporting, analytics and business intelligence work, how they make sense of those rules, and what they do when the rules affect their work.
 
-Most existing research looks at published frameworks and government policy. Very little looks at how such rules actually come about inside a company, how they reach the people doing the work, and how they change over time. That is what I would like to ask you about.
+Most existing research looks at published frameworks and government policy. Very little looks at what happens when such rules reach the people doing analytical work: how they find out about them, what they do when a rule affects a task, and whether their questions or concerns go anywhere. That is what I would like to ask you about.
 
 ## Why have I been invited?
 
-Because you work with, decide about, or set rules for generative AI tools in a reporting or analytics context. I am speaking with people at different levels — from those who set organizational policy to those who use the tools day to day — because their views often differ, and that difference is part of what I am studying.
+Because you produce, maintain or supervise analytical work — reports, dashboards, data pipelines or analyses that other people use to make decisions — in an organisation where generative AI tools are, or could be, part of that work. I am speaking with people in different roles and at different levels of seniority, in several organisations, because their experiences often differ, and that difference is part of what I am studying. I am not interviewing the people who write the rules.
 
 ## What would taking part involve?
 
-One interview, about 60-75 minutes, held remotely at a time that suits you. It is a conversation, not a questionnaire. I will ask about your role, about one or two concrete situations you have experienced, and about how the rules in your organization came about and changed.
+One interview, about 60-75 minutes, held remotely at a time that suits you. It is a conversation, not a questionnaire. I will ask about your role, about one or two concrete situations you have experienced, how you learned what was and was not allowed, and whether anything you or colleagues raised went further. If you have seen the rules change over time, I will ask about that too — but it is fine if you have not.
 
 With your permission the interview will be audio-recorded so that I can transcribe it accurately. If you prefer not to be recorded, I will take written notes instead.
 
@@ -48,7 +48,8 @@ Yes, with the following specifics:
 - **Your organization will not be named.** It will be described by sector and approximate size only.
 - **Where colleagues from the same organization take part**, findings are reported by organizational level without a persistent pseudonym, so that separate statements cannot be assembled into a profile or linked to a specific reporting relationship. This matters most where several people from one team are interviewed.
 - **I will check for indirect identification.** In a small market, a detailed description can identify an organization even without its name. Before anything is quoted, I will generalise details that could identify you or your employer.
-- **Recordings and transcripts are stored** on [ENCRYPTED AALTO STORAGE — SPECIFY], accessible only to me. My supervisor may see anonymised excerpts.
+- **Recordings and transcripts are stored** on [AALTO ONEDRIVE / AALTO HOME DRIVE — CONFIRM], accessible only to me. My supervisor may see anonymised excerpts.
+- **No AI-based service** is used to transcribe, translate, summarise or analyse your recording or identifiable transcript.
 - **Recordings are deleted** after transcription and checking, at the latest by [DATE]. Anonymised transcripts are retained until [DATE] for thesis examination.
 
 I cannot promise absolute anonymity if you tell a story that only one person could have told. If you are about to say something you would not want traceable, say so and I will either not record it or exclude it.
@@ -74,13 +75,13 @@ There is no payment. Participants who wish it will receive a short summary of th
 
 The only personal data collected are your name and contact details (to arrange the interview and handle withdrawal requests), your role and organization, and the recording and transcript. Name and contact details are stored separately from the transcript and destroyed at [DATE].
 
-The legal basis for processing is [SCIENTIFIC RESEARCH IN THE PUBLIC INTEREST / CONSENT — CONFIRM WITH AALTO GUIDANCE]. You have the right to access your data, to have it corrected, and to have it erased within the withdrawal window. Aalto's full privacy notice for research participants is attached / available at [LINK].
+The legal basis for processing is your consent. You have the right to access your data, to have it corrected, and to have it erased within the withdrawal window. The full privacy notice for this study is attached to this sheet.
 
-Data protection questions: [AALTO DATA PROTECTION OFFICER CONTACT].
+Data protection questions: contact me first; Aalto University's Data Protection Officer can be reached at dpo@aalto.fi.
 
 ## Ethical review
 
-This study was assessed against Aalto University's criteria for ethical review. [COMPLETE ONE: "The supervisor / Research Ethics Committee confirmed on [DATE] that ethical review is not required, as the study involves voluntary adult participants, no special categories of personal data, and no intervention." OR "The study received a statement from the Aalto University Research Ethics Committee on [DATE]."]
+This study was assessed against Aalto University's criteria for ethical review. My thesis supervisor confirmed on [DATE — same as ethics note §5] that ethical review is not required, as the study involves voluntary adult participants, no special categories of personal data, and no intervention.
 
 ## Questions or concerns
 

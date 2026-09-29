@@ -104,4 +104,5 @@ Working definition (draft for Albert to edit):
 - ~~"Individual contributor"~~ → "BI practitioners" (Sep 29); definition wording to confirm
 - ~~Interview start date~~ **Rescheduled Oct 5 – Oct 19** (Albert, Sep 28)
 - **Q2 (examiner)** — why governance, not adoption? (partly answered by local screening/escalation)
-- Later: Ackerman Likert items; Plan 3 vs Plan 1 for Chapter 2
+- Later: Ackerman Likert items
+- ~~Plan 3 vs Plan 1 for Chapter 2~~ **Decided Sep 29:** loop-structured Plan 1 — see `ch2_outline_draft_2026-09-29.md` v2
