@@ -16,7 +16,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 ## Dependencies
 
 - **2.3 must raise, as an open question, whether a given use began before any rule existed or continued around one.** 2.6 ¶4 ends: "which is the distinction 2.3 left open". If 2.3 does not raise it, edit 2.6 ¶4.
-- 2.6 ¶2 placeholder `Section [3.X]`: Chapter 3 must describe the §11 screening (question, verdict vocabulary, why a range: C7/C8 contested).
+- ~~2.6 ¶2 placeholder `Section [3.X]`~~ **Resolved Oct 1, 2026 → Section 3.7** (`chapters/ch3/3.7_literature_review_method.md` ¶2 describes the screening question, verdict vocabulary and why the count is a range). If 3.7 is renumbered, update 2.6 ¶2.
 - **B9 confirmed positive by Albert (Sep 29–30)**, so 2.6's tally stands: 22–24 of 36 governance sources (61–67%). A9 recoded partial (Sep 30) does not change it.
 - Bib: `abraham2019datagovframework` renders the surname as "Brocke" (particle "vom" not protected). Check with `apa.csl` at build; fix in the bib if needed (e.g. `{vom Brocke}, Jan`).
 
@@ -45,4 +45,4 @@ Not used: A9, C10 (not PDF-verified), B9 (belongs to 2.2/2.3/2.6).
 
 Carrying (peer-reviewed): `tallon2013informationartifact`, `abraham2019datagovframework`, `papagiannidis2023towardaigov` (PDF-verified Sep 30; §11 recoded partial), `responsibleaigovreview`, `birkstedt2023themesgaps`, `mantymaki2022definingaigov`, `rakova2021practitionerperspectives` (PDF only), `silic2025shadowai`.
 Supplementary (preprint): `stickystories2025` (flagged in text as a preprint accepted at CHI 2026).
-Open: placeholder `Section [3.X]` for the §11 screening method (to be written in Chapter 3).
+Cross-reference: `Section 3.7` for the §11 screening method (resolved Oct 1, 2026).

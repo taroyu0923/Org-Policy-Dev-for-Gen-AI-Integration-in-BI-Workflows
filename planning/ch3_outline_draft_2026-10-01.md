@@ -1,6 +1,6 @@
-# Chapter 3 — Method: outline draft v1
+# Chapter 3 — Method: outline v1 (adopted)
 
-**Date:** Oct 1, 2026 | **Status:** draft for Albert's review, not adopted
+**Date:** Oct 1, 2026 | **Status:** **ADOPTED by Albert, Oct 1, 2026**
 **Budget:** 12% of 25,000 = **3,000 words** (±10%: 2,700–3,300). **This outline: ~3,150.**
 **Decided inputs:** RQ v2.1 · BI practitioner definition · Shopee threshold · protocol v0.98 (+ C1a, D2a, E3a) · codebook v0 · **analysis label = codebook thematic analysis** (M2 decision block) · privacy notice / consent pack.
 

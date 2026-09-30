@@ -102,3 +102,26 @@
 - Albert confirmed **B9 positive** (§11 tally 22–24 of 36, as in 2.6).
 - **Word budget revised to 25,000** (intro 8 · lit 25 · method 12 · findings 32 · discussion 17 · conclusion 6). Chapter 2 = 6,250: 2.2 1,100 · 2.3 1,100 · 2.4 1,000 · 2.5 1,250 (2.1, 2.6 unchanged). Confirm with supervisor whether references/appendices count toward 60–100 pages.
 - Review of 2.1/2.6: `planning/ch2_review_2026-09-30.md`; edit brief: `planning/ch2_edit_prompt_2.1_2.6.md` (E1–E6; E6 also updates README targets).
+
+
+---
+
+## Update — Chapter 3 writing session, Oct 1 (Sections 3.1 and 3.4)
+
+**Done:** `chapters/ch3/3.1_research_approach_design.md` draft v1 (440 words excl. citations/markers; target 400) and `chapters/ch3/3.4_analysis.md` draft v1 (708; target 650). Both paragraph plans approved by Albert before drafting. `chapters/ch3/README.md` created. Quotes checked against the PDFs (M2 pp. 333, 334, 342; M3 p. 85; M11 p. 27 ×2; M6 p. 547; M1 p. 94 phrase located). Silic (B9) paraphrased only, pages from the OCR-verified note.
+
+**Decisions (Albert approved):**
+1. **Case labels:** Depth A = the Taiwan office of a large multinational digital platform company; Depth B = a mid-sized software company, Finland; Breadth 1–7 by sector group + jurisdiction only, numbered independently of participant numbers (1 manufacturing TW · 2 digital platform TW · 3 financial services US · 4 software EU · 5 digital platform US · 6 digital platform JP · 7 financial services FI). No sizes for breadth cases.
+2. **Voice:** "I" for researcher decisions; "this study" otherwise. Apply to all of Chapter 3.
+3. **3.1:** single-informant breadth cases are stated to function as holistic cases ("embedded" applies fully to the depth stratum); cases stated as network-recruited, not theoretically sampled — comparison, not replication logic.
+4. **3.4:** coding software left as `[FILL: coding software]`; memo "against my hypotheses" step (K2/K5/P2) reported as making the deductive side visible; Depth A policy dates omitted from the threshold description (generalise dates, sampling_frame §6).
+
+**To do (Albert):** rename protocol v0.98 §10 heading "Reliability procedure" → consistency checks (e.g. "Consistency checks (solo coder)"), so the protocol matches Chapter 3's wording (re-coding after an interval + supervisor review = consistency checks, not reliability). Not edited in this session.
+
+**Next:** 3.5 → 3.6 → 3.7 → 3.2.
+
+**Continued, Oct 1 — Sections 3.5 and 3.6.** Drafts v1: `3.5_trustworthiness_reflexivity.md` (437; target 400) and `3.6_ethics_data_protection.md` (311; target 300). Plans approved. Decisions: (5) former colleagues stated generically, not linked to a case (Albert's work history could identify Depth A); Albert's shared BI/analytics background stated. (6) 3.6 names Teams' built-in transcription as the only exception to the no-AI-on-interview-content rule (matches privacy notice §7). (7) Ethics determination date left `[FILL]`; Aalto's ethical-review criteria described, not cited (no bib entry). Quotes checked against PDFs: Nowell p. 3; Fereday p. 91; Temple & Young pp. 164, 168 (by eye, degraded text layer); Corbin Dwyer & Buckle pp. 58, 59, 61. Next: 3.7 → 3.2.
+
+**Continued, Oct 1 — Section 3.7.** Draft v1: `3.7_literature_review_method.md` (267; target 250). Plan approved. Decisions: (8) AI disclosure keeps "planning, drafting support and verification" for Claude (Albert's choice), with `[CHECK: Aalto / programme guidance on AI use in theses]`. (9) S1 databases/queries left as `[FILL]` in case Albert reconstructs them. (10) 3.7 gives the screening method only; the 22–24 of 36 figure stays in 2.6. (11) **`literature/search_log.md` §S5 added retrospectively** (from `ch2_targeted_search_2026-09-29.md`, `s5_addref_prompt.md`, Pipeline_State); it was referenced by `reference_list.md` but missing. (12) 2.6 ¶2 `Section [3.X]` → `Section 3.7`; `chapters/ch2/README.md` dependency and sources lines updated. Next: 3.2, then 3.3 after the pilot.
+
+**Continued, Oct 1 — Section 3.2.** Draft v1: `3.2_participants_sampling.md` (444 prose + Table 3.1, 88; target 500, overrun accepted). Plan approved. Decisions: (13) **Jurisdiction count corrected: 5 countries (TW, FI, US, BE, JP), not 6.** `research-design/sampling_frame.md` §1, `planning/Pipeline_State.md` and the adopted outline still say 6 — Albert to correct (not edited here). 3.2 says "five countries, three of them outside the EU" and does not enumerate. (14) Breadth 6 (#13) eligibility confirmed by Albert; tier value left as `[FILL: tier]` in Table 3.1 (sampling_frame §2 still shows "⚠ confirm"). (15) Table 3.1 included: case × sector × jurisdiction × n × tiers × language; no titles, no experience bands. Chapter 3 drafting now complete except 3.3 (after the pilot).

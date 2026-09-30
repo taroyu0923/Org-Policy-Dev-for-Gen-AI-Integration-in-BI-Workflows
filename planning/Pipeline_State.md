@@ -16,7 +16,7 @@
 | `references.bib` | **64 entries** (58 + 6 from S5); the six S5 entries are now PDF-verified and no longer `TODO-verify` (G3's DOI is from the publisher page, tagged `doi-not-in-pdf`). **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
-| Interview design | Protocol **v0.97**; sample confirmed at 14 participants / 9 orgs / 6 jurisdictions |
+| Interview design | Protocol **v0.98** (+C1a, D2a, E3a); sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
 | Ethics | ⏳ **IN PROGRESS** — determination not yet received. **Blocks recruitment** |
 | Chapter drafting | Not started |
 
