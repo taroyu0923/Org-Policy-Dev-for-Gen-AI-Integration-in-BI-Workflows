@@ -9,7 +9,7 @@ Embedded multiple-case. Two strata, analysed separately and never pooled.
 - **Depth stratum** — multiple informants across tiers within one organization → within-case triangulation, mechanism.
 - **Breadth stratum** — one informant per organization → cross-case variation.
 
-**n = 14 participants across 9 organizations in 6 jurisdictions.**
+**n = 14 participants across 9 organizations in 5 countries** *(corrected Oct 1, 2026: was "6 jurisdictions"; TW, FI, US, BE, JP — three outside the EU)*.
 
 ## 2. Cases
 
