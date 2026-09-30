@@ -9,7 +9,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 | 2.2 | — | When practice comes first, and when rules are unclear | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.3 | — | Asking or acting: explanations of bypass | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.4 | — | Rulings and the people in between | Not started (after Shopee interviews) | — (1,000) | — |
-| 2.5 | — | Does anything go up? | Not started (next) | — (1,250) | — |
+| 2.5 | — | Does anything go up? | **Brief ready** (`planning/ch2_2.5_writing_prompt.md`) — awaiting Albert's approval | — (1,250) | Oct 1, 2026 (brief) |
 | 2.6 | `2.6_lens_and_gap.md` | What lens does the literature offer, and what does it leave unstudied? | **Draft v1.1** (edit pass E1–E2) — awaiting Albert's review | 669 excl. citations / 687 incl. (700) | Sep 30, 2026 |
 | | | | **Total** | **1,754 / 6,250** (budget revised Sep 30: 25,000-word thesis) | |
 
@@ -18,6 +18,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 - **2.3 must raise, as an open question, whether a given use began before any rule existed or continued around one.** 2.6 ¶4 ends: "which is the distinction 2.3 left open". If 2.3 does not raise it, edit 2.6 ¶4.
 - ~~2.6 ¶2 placeholder `Section [3.X]`~~ **Resolved Oct 1, 2026 → Section 3.7** (`chapters/ch3/3.7_literature_review_method.md` ¶2 describes the screening question, verdict vocabulary and why the count is a range). If 3.7 is renumbered, update 2.6 ¶2.
 - **B9 confirmed positive by Albert (Sep 29–30)**, so 2.6's tally stands: 22–24 of 36 governance sources (61–67%). A9 recoded partial (Sep 30) does not change it.
+- **2.5 brief (Oct 1, 2026):** D6 `lu2024raipatterns` is **not** to be cited for champions or upward feedback (no "champion" in the PDF); 2.5 does not restate the §11 tally or the carrier/recipient sampling argument (both in 2.6).
 - Bib: `abraham2019datagovframework` renders the surname as "Brocke" (particle "vom" not protected). Check with `apa.csl` at build; fix in the bib if needed (e.g. `{vom Brocke}, Jan`).
 
 ## Conventions
