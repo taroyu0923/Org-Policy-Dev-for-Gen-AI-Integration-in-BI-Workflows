@@ -55,3 +55,50 @@
 3. Confirm B9 §11 verdict (positive → tally 35 → 36). Fix stale S5 header comment in `references.bib`.
 4. Chapter 2: contributions (2) and (5) restated as one loop (unclear case → fork: ask vs act now → ruling or own judgement → working rule → up or not); see claims map. Outline v2 (loop structure) **adopted** Sep 29 — write 2.1 and 2.6 first. Lead hypotheses: **P2** (bypass as continued pre-rule habit) and **rulings, not the document, as the working rule**.
 5. Unchanged from above: title, examiner question (why governance not adoption), D7/A9/C10 fixes.
+
+---
+
+## Update — Chapter 2 writing session, Sep 29 (Section 2.1)
+
+**Done:** `chapters/ch2/2.1_how_rules_arrive.md` draft v1 (1,094 words excl. citations; target 1,100) and `chapters/ch2/README.md`. Paragraph plan approved by Albert before drafting. All 23 direct quotes string-matched against the PDF text and pages confirmed on the printed page.
+
+**Decisions made while drafting (Albert approved the plan that contained 1–3):**
+1. Added D6 Lu 2024 and D1 Papagiannidis 2025 to 2.1 (not in the outline's 2.1 list) so that K3 and K11 are carried by peer-reviewed sources, not preprints alone. One forward sentence on D7 Rakova (PDF p. 7:15).
+2. `batool2024aigov` (A1) treated as a preprint (Research Square), supplementary only, despite ✅ DOI.
+3. B4 Joshi cited by section (`sec. IV.A`, `IV.D`, `IV.E`): its PDF has no printed page numbers.
+4. 2.1 heading written as a question ("How does the literature assume rules arrive?") per the brief's heading rule; outline working heading unchanged.
+5. Defined *rule* once in 2.1: any statement by the organisation of what BI practitioners may or may not do with GenAI, however conveyed. *Working rule*, *ruling*, *intermediary* are left for 2.4.
+6. K11 argued as an observation about the literature's object (an AI system the organisation develops/procures and deploys, versus a browser-available assistant) — not as a finding.
+
+**Note page errors found against the PDFs (notes not edited this session):** A8 definition p. 604 (note 605), interview call p. 607 (608), "corporate governance sets the principles" p. 605 (606); A10 p. 147 (144/145), p. 153 (152), p. 156 (155), p. 158 (157); E2 training/communication p. 430 (431); B5 "Governance First" p. 10 (9). Fix in the notes' §5/§11 in a later pass.
+
+**Flag:** A6 Agarwal PDF footer names a published version in *Transforming Government: People, Process and Policy* (DOI 10.1108/TG-03-2025-0065). If verified, A6 could move from preprint to peer-reviewed. B4's PDF states "peer-reviewed and accepted" at IEEE ISTAS 2025 (proceedings DOI still open).
+
+**Next:** 2.6 (lens and gap) — confirm B9 §11 verdict first (tally 35 → 36).
+
+**B9 §11 verdict confirmed (Sep 29, Albert): positive** (substantive on reception and gap; documented absence on feedback channels). §11 tally for 2.6: **22–24 absences / 36 governance sources = 61–67%** (was 22–24 / 35 = 63–69%). Recorded in the B9 note §11. Open-item "Confirm B9 §11 verdict" is closed.
+
+---
+
+## Update — Chapter 2 writing session, Sep 30 (Section 2.6)
+
+**Done:** `chapters/ch2/2.6_lens_and_gap.md` draft v1 (661 words excl. citations; target 700). Plan approved by Albert. 19 direct quotes checked against the PDFs (A9 and B9 via OCR of the scanned PDFs); the B9 drift-zone quote spans pp. 11–12 and was checked by eye across the page break.
+
+**Decisions (Albert approved):**
+1. **A9 §11 recoded substantive → partial** after PDF check (respondents = managers and leading developers; end-user data second hand, p.127, p.131). Recorded in the A9 note. §11 tally unchanged: 22–24 / 36.
+2. The tally is presented as "this review's screening of 36 governance sources"; the method (§11 question, verdict vocabulary, why a range: C7/C8 contested) must be written in **Chapter 3** — placeholder `Section [3.X]` in 2.6.
+3. D4 Nahar cited in text as "a preprint accepted at CHI 2026"; the carrier/recipient argument rests on D7.
+4. B9 eight vs ten interviews: footnote in 2.6 (abstract/intro say ten, pp.1–2; body says eight, pp.6, 9, 11).
+
+**Note errors found (notes not edited except A9):** E2 note §7/§11 quote about "the actual behavior of individuals" is not in the PDF — do not use. D1 "role of the individual … largely overlooked" is p.14 (note says p.13). A9 PDF page mapping: printed page = PDF page + 122.
+
+**Next:** 2.5 (Does anything go up?). C10 still not PDF-verified — needed before 2.5 relies on it.
+
+
+---
+
+## Update — Sep 30
+
+- Albert confirmed **B9 positive** (§11 tally 22–24 of 36, as in 2.6).
+- **Word budget revised to 25,000** (intro 8 · lit 25 · method 12 · findings 32 · discussion 17 · conclusion 6). Chapter 2 = 6,250: 2.2 1,100 · 2.3 1,100 · 2.4 1,000 · 2.5 1,250 (2.1, 2.6 unchanged). Confirm with supervisor whether references/appendices count toward 60–100 pages.
+- Review of 2.1/2.6: `planning/ch2_review_2026-09-30.md`; edit brief: `planning/ch2_edit_prompt_2.1_2.6.md` (E1–E6; E6 also updates README targets).

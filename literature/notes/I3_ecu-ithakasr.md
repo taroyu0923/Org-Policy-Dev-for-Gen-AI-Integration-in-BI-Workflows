@@ -1,7 +1,7 @@
 # [I3] ECU / Ithaka S+R — Semi-Structured Interview Guide: GenAI in Teaching and Research
 
-**Bib key:** `ecu-ithakasr_interviewguide`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `ecuithaka_genai_guide` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ⚠ GREY (undated instrument; year from PDF creation date). ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -28,7 +28,9 @@ No organizational governance construct defined. Core technology definition:
 > "What has the university done (that you are aware of) in response to the rise of generative AI technologies?" (Conclusion, p. 2)
 
 ## 6. AUTHORS/YEAR/VENUE
-East Carolina University (participating institution) in collaboration with Ithaka S+R. No individual authors printed. No explicit year printed, but references a NYT article dated March 27, 2023, suggesting 2023 or later (Pre-Interview Introduction & Footnote 1, p. 1).
+**Verified reference (Sep 30, 2026):** East Carolina University. (2023). *Semi-structured interview guide: Generative AI in teaching and research* [Interview guide]. https://ai-research.ecu.edu/wp-content/pv-uploads/sites/440/Interview-Guide.pdf
+
+*Original §6 as compiled:* East Carolina University (participating institution) in collaboration with Ithaka S+R. No individual authors printed. No explicit year printed, but references a NYT article dated March 27, 2023, suggesting 2023 or later (Pre-Interview Introduction & Footnote 1, p. 1).
 
 ## 7. INTERVIEW VALUE
 This is the **richest source in the cluster for directly reusable, verbatim interview questions** — it is itself an actual instrument, not a report about one.

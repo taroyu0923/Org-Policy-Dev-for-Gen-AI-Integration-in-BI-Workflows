@@ -1,7 +1,7 @@
 # [I14] Sami et al. — Identifying and Prioritizing Generative AI Use Cases in an Organization: An Industrial Case Study (Energy Company)
 
-**Bib key:** `sami_energycompany`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `energycompanygenai2026` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ arXiv (preprint, supplementary only) — title changed in v2 (Jul 2026). ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -34,7 +34,9 @@ No standalone quantitative governance variable; governance is conceptualized thr
 > "They expected support for checking and detection, but they did not argue for removing humans from the decision loop. This helps explain why gradual adoption and assistive use were preferred over full automation." (Section 5.1, p. 18)
 
 ## 6. AUTHORS/YEAR/VENUE
-Malik Abdul Sami, Zeeshan Rasheed, Meri Olenius, Muhammad Waseem, Kai-Kristian Kemell, Jussi Rasku, Pekka Abrahamsson. Faculty of Information Technology and Communication Science, Tampere University, Finland. No printed publication year (data collected March–April 2025, references extend to 2026, indicating a 2026 manuscript/preprint). Supported by Research Council of Finland, project SYNTHETICA. No DOI printed.
+**Verified reference (Sep 30, 2026):** Sami, M. A., Rasheed, Z., Olenius, M., Waseem, M., Kemell, K.-K., Rasku, J., & Abrahamsson, P. (2026). *Identifying and prioritizing generative AI use cases in an organization: An industrial case study* (arXiv:2602.09846v2). arXiv.
+
+*Original §6 as compiled:* Malik Abdul Sami, Zeeshan Rasheed, Meri Olenius, Muhammad Waseem, Kai-Kristian Kemell, Jussi Rasku, Pekka Abrahamsson. Faculty of Information Technology and Communication Science, Tampere University, Finland. No printed publication year (data collected March–April 2025, references extend to 2026, indicating a 2026 manuscript/preprint). Supported by Research Council of Finland, project SYNTHETICA. No DOI printed.
 
 ## 7. INTERVIEW VALUE
 Contains an explicit **Table 2 interview-question set (Section 3.2, p. 8)**.

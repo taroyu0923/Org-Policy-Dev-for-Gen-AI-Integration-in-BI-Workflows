@@ -1,7 +1,7 @@
 # [I5] Freeman et al. (2025) — AI Governance Framework for Health Care: Multimethod Study Protocol
 
-**Bib key:** `freeman2025`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `healthcareaigovprotocol2025` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -31,7 +31,9 @@ Exploratory **multimethod research design** (qualitative, grounded-theory-inform
 > "The rapid progress of AI technologies such as generative AI presents challenges in ensuring the framework remains adaptable and relevant over time." (Discussion/Limitations, p. 5)
 
 ## 6. AUTHORS/YEAR/VENUE
-Sam Freeman, Amy Wang, Sudeep Saraf, Erica Potts, Amy McKimm, Enrico Coiera, Farah Magrabi. 2025. *JMIR Research Protocols*, 14:e75702. DOI: 10.2196/75702
+**Verified reference (Sep 30, 2026):** Freeman, S., Wang, A., Saraf, S., Potts, E., McKimm, A., Coiera, E., & Magrabi, F. (2025). Developing an AI governance framework for safe and responsible AI in health care organizations: Protocol for a multimethod study. *JMIR Research Protocols, 14*, e75702. https://doi.org/10.2196/75702
+
+*Original §6 as compiled:* Sam Freeman, Amy Wang, Sudeep Saraf, Erica Potts, Amy McKimm, Enrico Coiera, Farah Magrabi. 2025. *JMIR Research Protocols*, 14:e75702. DOI: 10.2196/75702
 
 ## 7. INTERVIEW VALUE
 Especially strong for **organizational-phase mapping and evaluation criteria design**:

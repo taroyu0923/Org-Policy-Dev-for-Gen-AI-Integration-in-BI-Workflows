@@ -1,7 +1,7 @@
 # [I12] Högemann et al. (2025) — Technostress and Generative AI in the Workplace: A Qualitative Analysis of Young Professionals
 
-**Bib key:** `hogemann2025`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `technostressgenai` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -32,7 +32,9 @@ Uses Brod's (1984) classic technostress definition ("a modern disease of adaptat
 > "...while managers often expect employees to work faster with AI (Monahan and Burlacu, 2024), they may underestimate the amount of review and verification work required to obtain reliable results. Therefore, organizations should explicitly plan their verification efforts and allocate time for employees to review AI-generated outputs." (Section 5.2, p. 12)
 
 ## 6. AUTHORS/YEAR/VENUE
-Malte Högemann, Laura Hein, Jan-Oliver Britsche, Oliver Thomas (Dept. of Information Management and Business Informatics, University of Osnabrueck). 2025. *Frontiers in Artificial Intelligence*, Vol. 8, Article 1728881. DOI: 10.3389/frai.2025.1728881
+**Verified reference (Sep 30, 2026):** Högemann, M., Hein, L., Britsche, J.-O., & Thomas, O. (2025). Technostress and generative AI in the workplace: A qualitative analysis of young professionals. *Frontiers in Artificial Intelligence, 8*, 1728881. https://doi.org/10.3389/frai.2025.1728881
+
+*Original §6 as compiled:* Malte Högemann, Laura Hein, Jan-Oliver Britsche, Oliver Thomas (Dept. of Information Management and Business Informatics, University of Osnabrueck). 2025. *Frontiers in Artificial Intelligence*, Vol. 8, Article 1728881. DOI: 10.3389/frai.2025.1728881
 
 ## 7. INTERVIEW VALUE
 Full interview protocol lives in online Supplementary Material (not fully reproduced in-text), but 5 illustrative questions are quoted directly.

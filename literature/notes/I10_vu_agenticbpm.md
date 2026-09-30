@@ -1,7 +1,7 @@
 # [I10] Vu et al. — Agentic Business Process Management: Practitioner Perspectives on Agent Governance
 
-**Bib key:** `vu_agenticbpm`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `agenticbpm2025` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI — ⚠ this note was compiled from the arXiv v2 PDF (2504.03693); **page numbers below are arXiv pages**, not LNBIP pp. 29–43. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -34,7 +34,9 @@ Qualitative research design, qualitative content analysis (pp. 6–7). **22 semi
 > "'[The agent] would basically replace an FTE; let's just put it that way; you also have to provide it with the same framework that the employee would be confronted with because what would the employee do if they encounter difficulties?'" (Section 4 Results, p. 9)
 
 ## 6. AUTHORS/YEAR/VENUE
-Hoang Vu (SAP, Germany), Nataliia Klievtsova (Technical University of Munich), Henrik Leopold (Kühne Logistics University), Stefanie Rinderle-Ma (TU Munich), Timotheus Kampik (SAP / Umeå University). No year printed (references extend to 2025); Springer LNCS-style layout, no DOI printed.
+**Verified reference (Sep 30, 2026):** Vu, H., Klievtsova, N., Leopold, H., Rinderle-Ma, S., & Kampik, T. (2026). Agentic business process management: Practitioner perspectives on agent governance in business processes. In *Business Process Management: Responsible BPM Forum, Process Technology Forum, Educators Forum* (LNBIP Vol. 565, pp. 29–43). Springer. https://doi.org/10.1007/978-3-032-02936-2_3
+
+*Original §6 as compiled:* Hoang Vu (SAP, Germany), Nataliia Klievtsova (Technical University of Munich), Henrik Leopold (Kühne Logistics University), Stefanie Rinderle-Ma (TU Munich), Timotheus Kampik (SAP / Umeå University). No year printed (references extend to 2025); Springer LNCS-style layout, no DOI printed.
 
 ## 7. INTERVIEW VALUE
 Paper's constructs/frameworks are directly mappable, but the **complete verbatim interview guide is not appended** (explicitly stated in transcript).

@@ -1,7 +1,7 @@
 # [I1] Castillo-Montoya (2016) — Preparing for Interview Research: The Interview Protocol Refinement Framework
 
-**Bib key:** `castillo-montoya2016`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `castillomontoya2016ipr` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -36,7 +36,9 @@ No GenAI/BI content. Citable as methodological grounding for the thesis's own in
 > "The purpose of obtaining feedback on the interview protocol is to enhance its reliability—its trustworthiness—as a research instrument." (Phase 3, p. 824)
 
 ## 6. AUTHORS/YEAR/VENUE
-Milagros Castillo-Montoya (2016). "Preparing for Interview Research: The Interview Protocol Refinement Framework." *The Qualitative Report*, 21(5), How To Article 2, pp. 811–831. DOI: https://doi.org/10.46743/2160-3715/2016.2337
+**Verified reference (Sep 30, 2026):** Castillo-Montoya, M. (2016). Preparing for interview research: The Interview Protocol Refinement framework. *The Qualitative Report, 21*(5), 811–831. https://doi.org/10.46743/2160-3715/2016.2337
+
+*Original §6 as compiled:* Milagros Castillo-Montoya (2016). "Preparing for Interview Research: The Interview Protocol Refinement Framework." *The Qualitative Report*, 21(5), How To Article 2, pp. 811–831. DOI: https://doi.org/10.46743/2160-3715/2016.2337
 
 ## 7. INTERVIEW VALUE
 This is the **foundational instrument-design source** for the thesis methodology. Direct reusable instruments/questions, mapped to the thesis's three phases:

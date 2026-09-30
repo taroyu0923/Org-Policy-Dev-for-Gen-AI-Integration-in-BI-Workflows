@@ -101,55 +101,48 @@ All 15 target-list items were resolved via NotebookLM notebook_query (Q1+Q2 prot
 
 **Cluster totals after S3:** A 11 (6 retained + 5 new), B 8 (7 retained + 1 new), C 7 (3 retained + 4 new — Cluster C rebuild target achieved), D 7 (5 retained + 2 new), E 4 (1 retained + 3 new, plus 1 excluded).
 
-## S4 — Methods literature **[PLANNED — not yet run]**
+## S4 — Methods foundation for Chapter 3 **[RUN Sep 30, 2026; COMPILED Sep 30, 2026]**
 
-Chapter 3 currently has no methodological citations from the corpus. Clusters A–E supply method *warrants* (Nahar's revealed-preference principle; Ackerman's network-sampling limitations; Papagiannidis's research agenda) but no methods foundation. Targeted additions required, 3–5 sources:
+**Trigger:** Chapter 3 had one citable methods source (Castillo-Montoya, I1). The 14 Cluster I sources are interview-design *precedents*, not a methods foundation.
+**Method:** targeted search for canonical sources on each method choice the thesis already makes (protocol v0.98, codebook v0, sampling frame); metadata checked on Crossref Sep 30 (books: publisher record). Not systematic — canonical anchors are known in advance; the search confirms bibliographic details.
+**New cluster M — Methods foundation.** Outside the §11 denominator.
 
-| Need | Likely source |
-|---|---|
-| Reflexive thematic analysis | Braun & Clarke |
-| Critical incident technique | Flanagan (1954), and a modern methodological treatment |
-| Embedded / multiple-case design | Yin, or Eisenhardt |
-| Qualitative rigour and trustworthiness criteria | Lincoln & Guba, or a contemporary equivalent |
-
-Not a cluster; a short targeted search, logged here as S4 when run.
-
-## S5 — Targeted search for Chapter 1 BI context and Chapter 2 theory anchors **[RUN Sep 29, 2026]**
-
-**Trigger:** Chapter 2 outline draft (`planning/ch2_outline_draft_2026-09-29.md`) — three gaps the corpus cannot fill: BI work context (moved to Ch.1), a shadow-IT anchor for claim K5, an employee-voice / issue-selling anchor for SQ2.
-**Method:** WebSearch (general web), then metadata check via Crossref API. No database filters. Not systematic — targeted anchor search.
-
-| Query (WebSearch) | Kept |
-|---|---|
-| `shadow IT systematic literature review employees unauthorized IT use Haag Eckhardt` | G1 Haag & Eckhardt 2017 |
-| `"shadow AI" generative AI employees unauthorized use organizations empirical study 2024 2025 journal` | B9 Silic et al. 2025 |
-| `Dutton Ashford 1993 selling issues to top management Academy of Management Review doi` | G3 Dutton & Ashford 1993 |
-| `Morrison employee voice and silence review Annual Review of Organizational Psychology doi` | G2 Morrison 2023 |
-| `generative AI business intelligence analytics work data analysts journal article 2024 2025` | none — results low-tier (IAEME and similar) |
-| `empirical study data analysts using LLMs ChatGPT in data analysis workflows interviews CHI 2024` | E6 Gu et al. 2024 |
-| (snowball from A10 References p.159) | E5 Ain et al. 2019 |
-
-**Rejected:** vendor/practitioner blogs on shadow AI (not academic); IAEME and similar low-tier "GenAI for BI" papers (venue); a DiVA student thesis on shadow AI (grey, student-level); Morrison 2014 (superseded by the 2023 review).
-**Seen, not screened:** *Digital shadow AI risk theory (DART)*, Technological Forecasting & Social Change (2026) — screen if B9 proves thin.
-
-**Finding recorded:** B9 reports empirical data on unauthorised AI use. Claim K5 ("no source observes shadow use") holds only within the 35-note corpus. Read B9 before framing K5 as a gap.
-
-**Next (superseded):** Albert confirmed the IDs; harvest and compile completed Sep 29, 2026 (below).
-
-### S5 outcome (Sep 29, 2026)
-
-Six sources harvested through NotebookLM (one notebook per PDF, query template v2.4; Q1 and Q2 written to `literature/_raw/<ID>.md` as each answer returned), verified against the PDFs, then compiled. B9 ran full v2.4 including §11. E5, E6, G1, G2 and G3 ran v2.4-T (Q2 = §7–§10 then §13 THESIS ANCHOR); **§11 was not run** and none of the five enters the §11 denominator. The `TODO-verify` flag was removed from all six bib entries. Nothing was rejected at this stage. Chat history in all six notebooks was empty at compile, so no questions of Albert's own are recorded in the notes.
-
-| ID | Bib key | Source | Kept | Verification finding worth recording |
+| Proposed ID | Source | Crossref | Ch.3 job | Priority |
 |---|---|---|---|---|
-| B9 | `silic2025shadowai` | Silic, Silic & Kind-Trüller (2025), *Strategic Change*, DOI 10.1002/jsc.2682 | ✅ | Interview count inconsistent inside the paper (10 in abstract, eight in body and Table 1). Survey items do not ask about the respondent's own bypass. One NotebookLM "finding" was the authors reporting Walters (2021). Scoop-or-position for K5: **position, not scoop**. |
-| E5 | `ain2019bisuccess` | Ain, Vaia, DeLone & Waheed (2019), *Decision Support Systems* 125, 113113 | ✅ | Limitations at pp.10–11 (NotebookLM: p.9); NotebookLM's own citation numbers were embedded inside quotes. |
-| E6 | `gu2024analystsverify` | Gu, Shang, Althoff, Wang & Drucker (2024), CHI '24, DOI 10.1145/3613904.3642497 | ✅ | NotebookLM added policy and governance framing the paper does not contain; one Appendix quote not findable. Single-company sample. Limitations pp.15–16. |
-| G1 | `haag2017shadowit` | Haag & Eckhardt (2017), *BISE* 59(6):469–473, DOI 10.1007/s12599-017-0497-x | ✅ | Two altered quotes corrected ("employed users"; "either"). No limitations stated. |
-| G2 | `morrison2023voicesilence` | Morrison (2023), *Annu. Rev. Organ. Psychol. Organ. Behav.* 10:79–107 | ✅ | A spliced quote corrected; page numbers off by one; "information redundancy" not supported by the body text; no limitations of the review stated. |
-| G3 | `dutton1993issueselling` | Dutton & Ashford (1993), *AMR* 18(3):397–428 | ✅ | "Proposition 1" was really Proposition 2 (p.409); propositions number 1–17, not 16; no DOI printed in the PDF. |
+| M1 | Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology, 3*(2), 77–101. https://doi.org/10.1191/1478088706qp063oa | ✓ | Thematic analysis — phases | Must |
+| M2 | Braun, V., & Clarke, V. (2021). One size fits all? What counts as quality practice in (reflexive) thematic analysis? *Qualitative Research in Psychology, 18*(3), 328–352. https://doi.org/10.1080/14780887.2020.1769238 | ✓ (online 2020) | **Decides the TA label**: coding-reliability vs codebook vs reflexive. The thesis uses an a priori spine + inductive codes — check which family that is | **Must — read first** |
+| M3 | Fereday, J., & Muir-Cochrane, E. (2006). Demonstrating rigor using thematic analysis: A hybrid approach of inductive and deductive coding and theme development. *International Journal of Qualitative Methods, 5*(1), 80–92. https://doi.org/10.1177/160940690600500107 | ✓ | Hybrid deductive + inductive coding = codebook v0 design | Must |
+| M4 | Flanagan, J. C. (1954). The critical incident technique. *Psychological Bulletin, 51*(4), 327–358. https://doi.org/10.1037/h0061470 | ✓ | Origin of the incident anchor (Section B) | Must |
+| M5 | Butterfield, L. D., Borgen, W. A., Amundson, N. E., & Maglio, A.-S. T. (2005). Fifty years of the critical incident technique: 1954–2004 and beyond. *Qualitative Research, 5*(4), 475–497. https://doi.org/10.1177/1468794105056924 | ✓ | CIT as used in qualitative interviewing today | Must |
+| M6 | Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE. ISBN 978-1-5063-3616-9 | book (publisher record) | Embedded multiple-case design; depth vs breadth strata | Must — **book: need library e-book chapters** |
+| M7 | Nowell, L. S., Norris, J. M., White, D. E., & Moules, N. J. (2017). Thematic analysis: Striving to meet the trustworthiness criteria. *International Journal of Qualitative Methods, 16*(1). https://doi.org/10.1177/1609406917733847 | ✓ | Trustworthiness (Lincoln & Guba criteria applied to TA) | Must |
+| M8 | Malterud, K., Siersma, V. D., & Guassora, A. D. (2016). Sample size in qualitative interview studies: Guided by information power. *Qualitative Health Research, 26*(13), 1753–1760. https://doi.org/10.1177/1049732315617444 | ✓ | Justifies n = 14 without "saturation" | Must |
+| M9 | Temple, B., & Young, A. (2004). Qualitative research and translation dilemmas. *Qualitative Research, 4*(2), 161–178. https://doi.org/10.1177/1468794104044430 | ✓ | Bilingual researcher-as-translator; fixed-wording card | Should |
+| M10 | Dwyer, S. C., & Buckle, J. L. (2009). The space between: On being an insider-outsider in qualitative research. *International Journal of Qualitative Methods, 8*(1), 54–63. https://doi.org/10.1177/160940690900800105 | ✓ | Reflexivity: participants are personal contacts / former colleagues | Should |
 
-**Snowball leads from §8 (not screened, no notebooks created):** from B9: D'Arcy (2011), Leonardi (2011), Silic & Back (2014), Walters (2021), Wirtz, Weyerer & Sturm (2020). From E5: Popovič (2017), Richards et al. (2017), Bischoff et al. (2015), Deng & Chi (2012), Arvidsson et al. (2014). From E6: Kandel et al. (2012), Kandogan et al. (2014), Liu, Althoff & Heer (2019/2020), Parasuraman & Manzey (2010), Zhang, Muller & Wang (2020). From G1: Fürstenau & Rothe (2014), Györy et al. (2012), **Martin et al. (2013)**, Horlach et al. (2017), Zimmermann et al. (2016). From G2: Liang et al. (2012), Detert & Edmondson (2011), Burris et al. (2017), Knoll & Redman (2016), **Dutton et al. (2001)**. From G3: Ancona & Caldwell (1988), Daft & Weick (1984), Dean (1987), Lyles & Mitroff (1980), Wooldridge & Floyd (1990). Bold = the two leads most likely to matter (Martin et al. for the K5/K11 distinction; Dutton et al. 2001 as the empirical follow-up to G3). Also seen, not screened (from the S5 search): *Digital shadow AI risk theory (DART)*, Technological Forecasting & Social Change (2026).
+**Considered, not taken:** Eisenhardt (1989) — theory-building from cases, not needed alongside Yin (Crossref rate-limited, not rechecked); Lincoln & Guba (1985) *Naturalistic Inquiry* — book, reached through M7; Braun & Clarke (2022) *Thematic Analysis: A Practical Guide* — book; take only if M2 leaves the label unresolved.
+
+**Substitutions (Sep 30, 2026, Albert):** PDFs for M4 and M6 not accessible.
+- **M4 Flanagan (1954) → Gremler, D. D. (2004).** The critical incident technique in service research. *Journal of Service Research, 7*(1), 65–89. https://doi.org/10.1177/1094670504266138 (Crossref ✓). Flanagan cited only as "Flanagan (1954, as cited in Gremler, 2004)" and not listed in the references.
+- **M6 Yin (2018) → Baxter, P., & Jack, S. (2008).** Qualitative case study methodology: Study design and implementation for novice researchers. *The Qualitative Report, 13*(4), 544–559. https://doi.org/10.46743/2160-3715/2008.1573 (Crossref ✓; Crossref year 2015 = DOI registration), **plus M11 Eisenhardt, K. M., & Graebner, M. E. (2007).** Theory building from cases: Opportunities and challenges. *Academy of Management Journal, 50*(1), 25–32. https://doi.org/10.5465/amj.2007.24160888 (Crossref ✓). Known weakness: "embedded multiple-case design" is Yin's term; the thesis reaches it through Baxter & Jack.
+
+**PDF verification, compile (Sep 30, 2026).** All 11 PDFs read from `Thesis Content/Group M/`, one NotebookLM notebook each, variant v2.4-T (Query 1; Query 2 = §7–§10 + §13 with (f); no §11, no §12). Quotes string-matched to the PDF text; printed pages used, not NotebookLM's. Notes in `literature/notes/`, raw answers and verification logs in `literature/_raw/`.
+
+| ID | Result of the PDF check |
+|---|---|
+| M1 Braun & Clarke 2006 | ✅ DOI. Metadata confirmed. Fixed NotebookLM misquotes (Ryan & Bernard "after analysis", p.86; "a simple thematic analysis", p.97; "disjuncture" passage pp.85–86; Table 2 typo "all each theme" kept as [sic]). |
+| M2 Braun & Clarke 2021 | ✅ DOI. Metadata confirmed. **Label decision: codebook TA, not reflexive TA** (a priori spine, codebook, solo coding with re-coding after an interval, supervisor sample check). NotebookLM's claim about a priori codes plus re-coding was dropped as not in the paper; the paper has no limitations section, only self-caveats. |
+| M3 Fereday & Muir-Cochrane 2006 | ✅ PDF+venue. **No DOI printed** (`doi-not-in-pdf`). "Article 7" is not in the PDF. Pages = PDF page + 79. |
+| M4 Gremler 2004 | ✅ DOI. Scan with no text layer; all 25 pages OCR'd, quotes located by word-sequence similarity. Two Bitner definitions kept separate (pp.66, 75); "27 publications" was wrong (27 conference papers); Flanagan "described", not "defined" (p.76). |
+| M5 Butterfield et al. 2005 | ✅ DOI. **DOI is …056924** (NotebookLM gave …056922). Text layer degraded; matched on letters only. Inclusion-criteria quote uses the PDF wording (p.488); McLeod quote prints "qualification" [sic]. |
+| M6 Baxter & Jack 2008 | ✅ DOI. Yin is cited there as Yin (2003) with one reference entry (3rd ed., p.558); Yin's typology may only be cited "as cited in Baxter & Jack". |
+| M7 Nowell et al. 2017 | ✅ DOI. Printed page = PDF page. **Bib gained `pages = {1--13}`**; the PDF prints "Volume 16: 1–13" and no issue number (issue 1 is from Crossref). |
+| M8 Malterud et al. 2016 | ✅ DOI. Implications passage p.1759 (not p.1760); the paper gives no minimum N. |
+| M9 Temple & Young 2004 | ✅ DOI. Text layer degraded; matched on letters only. Researcher/translator passage p.168. |
+| M10 Corbin Dwyer & Buckle 2009 | ✅ PDF+venue. **No DOI printed.** Albert replaced the first M10 PDF (a different paper) and the note was re-run on the correct one. Author form normalised to "Corbin Dwyer, Sonya" in the bib. No corpus or time span stated (NotebookLM's 1984–2007 was dropped). |
+| M11 Eisenhardt & Graebner 2007 | ✅ PDF+venue. **No DOI printed.** NotebookLM's pages were one page early throughout; the (f) sampling quote is reordered in NotebookLM's version (PDF: "so too are cases sampled…"). The "MUST DO / MUST AVOID" framing is NotebookLM's. |
+
+**Result:** 11 of 11 verified and compiled; `TODO-verify` removed from all eleven bib entries. `flanagan1954cit` and `yin2018casestudy` stay NOT OBTAINED. Eisenhardt & Graebner (M11) was added Sep 30 as the multiple-case source alongside M6 (it was "considered, not taken" above, before Yin was lost). No notebooks were created for Flanagan or Yin.
 
 ---
 
