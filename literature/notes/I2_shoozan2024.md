@@ -1,7 +1,7 @@
 # [I2] Shoozan & Mohamad (2024) — IPR Framework Worked Example: English Needs Analysis for Front Office Operators
 
-**Bib key:** `shoozan-mohamad2024`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `iprworkedexample` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI (conference proceedings). ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -36,7 +36,9 @@ No GenAI/BI content in this paper (grounding notice explicit in transcript). Cit
 > "...applying a well-defined and guided framework helps in scrutinizing the process. The IPR framework is an effective framework to assist the process of developing and refining interview protocols to create a reliable and credible research instrument." (Section 4 Discussion, p. 9)
 
 ## 6. AUTHORS/YEAR/VENUE
-Aishath Shoozan and Maslawati Mohamad (Faculty of Education, National University of Malaysia). 2024. *SHS Web of Conferences* 182, 04006 (ACCESS 2023). DOI: https://doi.org/10.1051/shsconf/202418204006
+**Verified reference (Sep 30, 2026):** Shoozan, A., & Mohamad, M. (2024). Application of Interview Protocol Refinement framework in systematically developing and refining a semi-structured interview protocol. *SHS Web of Conferences, 182*, 04006. https://doi.org/10.1051/shsconf/202418204006
+
+*Original §6 as compiled:* Aishath Shoozan and Maslawati Mohamad (Faculty of Education, National University of Malaysia). 2024. *SHS Web of Conferences* 182, 04006 (ACCESS 2023). DOI: https://doi.org/10.1051/shsconf/202418204006
 
 ## 7. INTERVIEW VALUE
 A **worked, second-hand application of the IPR framework** — useful as a template for how the thesis's own protocol matrix/pilot process should look.

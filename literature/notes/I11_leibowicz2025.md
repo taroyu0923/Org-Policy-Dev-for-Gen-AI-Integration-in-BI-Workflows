@@ -1,7 +1,7 @@
 # [I11] Leibowicz (2025) — Regulating Reality: Exploring Synthetic Media Through Multistakeholder AI Governance
 
-**Bib key:** `leibowicz2025`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `regulatingreality2025` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ arXiv (preprint, supplementary only). ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -34,7 +34,9 @@ Qualitative, empirical study: semi-structured in-depth interviews + autoethnogra
 > "...trust happens over time [and when it builds to] sufficient capacity, then you can focus on solving problems, not taking corporate positions." (quoting Media Stakeholder PAI9; Section 4.4.2, p. 12)
 
 ## 6. AUTHORS/YEAR/VENUE
-Claire R. Leibowicz (Oxford Internet Institute, University of Oxford). 2025. Preprint, 21 pages. No DOI printed.
+**Verified reference (Sep 30, 2026):** Leibowicz, C. R. (2025). *Regulating reality: Exploring synthetic media through multistakeholder AI governance* (arXiv:2502.04526). arXiv.
+
+*Original §6 as compiled:* Claire R. Leibowicz (Oxford Internet Institute, University of Oxford). 2025. Preprint, 21 pages. No DOI printed.
 
 ## 7. INTERVIEW VALUE
 Paper's Appendix A.1 explicitly lists example interview questions, quoted below.

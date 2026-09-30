@@ -12,7 +12,7 @@
 >
 > **BI practitioners** are people who produce, maintain or directly supervise analytical outputs that others use to make decisions, and who neither set their organisation's rules for generative AI use nor hold a formal responsible-AI or AI-governance role. All 14 participants meet this; tier (operational / tactical) remains a case attribute.
 
-> **What changed in v0.98.** (1) Purpose statement rewritten to match RQ v2.1 — the study no longer promises to explain how policy was developed. (2) New probe B3a: does a one-off decision become a standing rule? (3) New escalation probe in B4 and E3: what went up, what came back. (4) #13 added to the tenure floor. (5) RQ-to-section map added to §0. (6) Shopee independence safeguards added to §9. (7) *Added Sep 29, before the pilot:* probe **C1a** (practice before the rules, and what stopped, changed or carried on when they arrived) — fixed wording, card §6b. (8) *Added Sep 29, before the pilot:* probe **D2a** (what happens to data before it goes into an AI tool, and how that was learned) — fixed wording, card §6c. Fixed EN/zh-TW wording for (1)–(3) is in `wording_card_bilingual.md` v1.1.
+> **What changed in v0.98.** (1) Purpose statement rewritten to match RQ v2.1 — the study no longer promises to explain how policy was developed. (2) New probe B3a: does a one-off decision become a standing rule? (3) New escalation probe in B4 and E3: what went up, what came back. (4) #13 added to the tenure floor. (5) RQ-to-section map added to §0. (6) Shopee independence safeguards added to §9. (7) *Added Sep 29, before the pilot:* probe **C1a** (practice before the rules, and what stopped, changed or carried on when they arrived) — fixed wording, card §6b. (8) *Added Sep 29, before the pilot:* probe **D2a** (what happens to data before it goes into an AI tool, and how that was learned) — fixed wording, card §6c. (9) *Added Sep 29, before the pilot:* probe **E3a** (why nothing went up, when it didn't) — fixed wording, card §6d; SQ2 coding extended (§10). Fixed EN/zh-TW wording for (1)–(3) is in `wording_card_bilingual.md` v1.1.
 
 > **Reframing note (Sep 2, retained for history).** The confirmed sample contains no strategic-tier informant — no participant authored a GenAI policy. The study is therefore positioned as an account of how organizational GenAI policy is **encountered, interpreted and adapted at the analytical working tier**, and whether that adaptation feeds back upward. Sections C–E are unchanged in content, but their weight shifts: Phase 1 (C) now reconstructs how policy *arrived* rather than how it was authored, and Phase 3's upward-feedback items (E2, E3) become the central test. See `sampling_frame.md` §3.
 
@@ -30,7 +30,7 @@
 |---|---|---|
 | Main — encounter and interpret | C (Policy Encounter & Interpretation), A4; C1a (pre-rule practice) | B2 |
 | SQ1 — what happens downward, how rules shape action | B (incident, B1–B3a), D incl. D2a | F where documents exist |
-| SQ2 — what travels upward, what comes back | E3 + escalation probe, B4 + escalation probe | G2 (who sees it differently) |
+| SQ2 — what travels upward, what comes back | E3 + escalation probe + E3a, B4 + escalation probe | G2 (who sees it differently); other informants in the same organisation (route existence) |
 
 Evolution is **not** promised by the RQ. It is reported as a findings strand only if the pre-set Shopee threshold is met (≥3 of 4 independently describe the same change between the 2023 policy and the Q4 2024 rollout, with rough date and named trigger); otherwise as what practitioners could and could not see of change. Threshold fixed Sep 29, before any Shopee interview.
 
@@ -159,6 +159,8 @@ Sources: D2 from the technical-safeguard constructs in `ismail2025frameworks` §
 - E2. What triggers a change — an incident, a new tool, a new regulation, someone new arriving?
 - E3. Is there a route for someone doing the work to say "this rule doesn't make sense"? Has it ever been used?
   - **Escalation probe** (same fixed wording as B4, if not already covered in Section B). "No route" and "never used" are valid answers — do not lead.
+  - **E3a. Why nothing went up** *(added Sep 29, pre-pilot; fixed wording, `wording_card_bilingual.md` §6d)*, asked only when the participant describes a case that did not go above them: "If it didn't go to anyone above you, what made that the better choice at the time?"
+    > Purpose: separates *no route* from *route not used* — the two explanations of an SQ2 null. Do not suggest reasons; record the participant's own. Code the reason as: no route known / thought it wouldn't change anything (efficacy) / felt risky (safety) / no time / not needed (G2 Morrison 2023). Peer-only discussion is **lateral voice**, not "nothing" — code it separately.
 - E4. Has the work itself changed — what analysts do day to day, what skills matter now?
 - E5. Where do you expect the rules to go next? What's still unresolved?
 
@@ -205,6 +207,8 @@ Sources: E2-E3 target adaptive/bidirectional governance — `joshi2025resai` p.6
 
 Write a one-page contact summary within 24h: setting, incident type(s) chosen, tier, dating confidence, anything the recording won't capture, and any new code candidate that didn't fit the a priori frame.
 
+Templates (Sep 29): `../analysis/templates/contact_summary_template.md` (≤24h), `familiarisation_memo_template.md` (≤48h; fill §0 *before* the interview), `interview_log_template.md`, `codebook_v0.md`. **Filled copies go to Aalto OneDrive, never into the repo** (`../analysis/README.md`).
+
 ## 10. Analysis notes
 
 - **Analytic spine (a priori, adopted Sep 2):** Papagiannidis, Mikalef & Conboy's **structural / procedural / relational** practice typology and its Antecedents–Practices–Effects framework (`responsibleaigovreview` pp.10–14), descending from Tallon, Ramirez & Short (2013, *JMIS*). Chosen over Luna's H-GenAIGF for three reasons: it is processual, so it fits *evolution*; it sits in an IS-discipline lineage rather than a CS/ethics one; and **relational practices are the ones the working tier can actually observe** — participants cannot see board structures, but they can see coordination, escalation, informal norms and who they ask when unsure.
@@ -213,14 +217,15 @@ Write a one-page contact summary within 24h: setting, incident type(s) chosen, t
 - **Candidate outcome typology — use with care.** Nahar's engagement profiles (Resistors / Indifferents / Followers / Learners / Champions, `stickystories2025` §6.4.5, pp.25–28) could classify participants. ⚠ Adopting another study's typology wholesale risks reducing the contribution to "it also applies in Taiwan and Finland." Use it as a sensitising comparison at the discussion stage, not as the finding.
 - **Inductive space:** everything BI-workflow-specific. No a priori code may be the answer to the RQ; if the findings are simply "we found Data, Model, Content and Ethics governance," the study has confirmed Luna rather than extended him.
 - **Case attributes (not codes):** tier; sector; size; document-anchored y/n; dating confidence; **source of working rule** per incident (document / ruling / colleague / tool block / own judgement — from B2, D2a; answer shape rule-shaped vs case-shaped).
+- **SQ2 codes (added Sep 29):** route known (yes / no / unsure; corroborated by other informants in the same organisation?) · branch taken (ask / act now / lateral) · distance travelled (peer → manager → local BI → Regional BI → rule owner) · what came back (yes/no · explanation · rule · nothing) · reason for not going up (from E3a). Reading the rule document is consulting, not going up. See `../planning/ch2_claims_map_2026-09-29.md`.
 - **Reusable follow-up items:** Nahar's two-month follow-up questions transfer directly to Phase 3 — *"Have you reacted to or done anything based on the findings from our session…?"* and *"Have you had any discussions — positive or negative — about responsible AI with your peers since…?"* (`stickystories2025` §6.1.5, p.18). Papagiannidis's Table 5 research questions convert to Phase 1 and 2 prompts (`responsibleaigovreview` pp.11–12).
 - **Reliability procedure:** Luna's three-cycle consideration — first pass extracts, second reviews, third resolves disagreement (`luna2024paradigms` p.4). Adapt to a solo-researcher version (coding, re-coding after an interval, and supervisor spot-check of a sample) and state the adaptation honestly in Chapter 3.
 - **Cross-case display:** a coverage matrix in the spirit of Luna's rubric — Covered / Partially covered / Not covered (`luna2024paradigms` p.6) — applied to organizations x phases rather than regions x processes.
 
 ## 11. Known weaknesses of this draft
 
-1. Method warrants now exist (Nahar, Ackerman, Papagiannidis), but the methods *foundation* is still missing — reflexive thematic analysis, critical incident technique, embedded case design, qualitative rigour criteria. Logged as search pass S4 in `../literature/search_log.md`.
+1. ~~Methods foundation missing~~ **Resolved Sep 30 (S4, Cluster M):** codebook thematic analysis (M1–M3), critical incident technique (M4 Gremler, M5), case design (M6 Baxter & Jack, M11), trustworthiness (M7), information power (M8), translation (M9), insider-outsider (M10).
 2. Language resolved (Sep 2): English master + interpreted delivery, with core items fixed bilingually. Back-translation of the fixed items still outstanding.
 2b. Tenure floor: participants #7, #12, #13 (at Amazon since 2025) and #14 (1–2 yr at current organisation) joined after GenAI adoption and may have no evolution memory. Do not press Section E with them — use them for the sedimented state (what they found on arrival, how they learned it).
-3. Not piloted. Section B is the section most likely to over-run. C1a adds ~3 min to Section C — if time is short, keep C1a and cut C3 or C4. D2a adds ~3 min to Section D — if short, keep D2a and cut D4.
+3. Not piloted. Section B is the section most likely to over-run. C1a adds ~3 min to Section C — if time is short, keep C1a and cut C3 or C4. D2a adds ~3 min to Section D — if short, keep D2a and cut D4. E3a adds ~1–2 min to Section E.
 4. Sections C-E may be too many questions for 30 minutes combined; expect to cut on the basis of the pilot, preserving B.

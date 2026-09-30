@@ -1,7 +1,7 @@
 # [I4] Murtuza & Oliullah — Generative Artificial Intelligence Adoption Among Bangladeshi Journalists
 
-**Bib key:** `murtuza-oliullah_bangladeshjournalists`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `bangladeshijournalists2025` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ arXiv (preprint, supplementary only). ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -32,7 +32,9 @@ Semi-structured qualitative interview study ("Method"/"Data Collection," p. 6), 
 > "To move forward as ethic and rule-bound media organizations, Bangladesh and similar non-Western developing countries, should consider developing institutional policy and framework on GenAI..." (p. 14)
 
 ## 6. AUTHORS/YEAR/VENUE
-H M Murtuza (corresponding author) and Md Oliullah, Gaylord College of Journalism and Mass Communication, University of Oklahoma. No printed year (data collected May–Sept 2025, so late 2025/2026 manuscript). No journal/DOI printed — supported by the Owen Kulemeka Memorial Award for Research (p. 14).
+**Verified reference (Sep 30, 2026):** Murtuza, H. M., & Oliullah, M. (2025). *Generative artificial intelligence adoption among Bangladeshi journalists: Exploring journalists' awareness, acceptance, usage, and organizational stance for GenAI* (arXiv:2511.10862). arXiv.
+
+*Original §6 as compiled:* H M Murtuza (corresponding author) and Md Oliullah, Gaylord College of Journalism and Mass Communication, University of Oklahoma. No printed year (data collected May–Sept 2025, so late 2025/2026 manuscript). No journal/DOI printed — supported by the Owen Kulemeka Memorial Award for Research (p. 14).
 
 ## 7. INTERVIEW VALUE
 Contains an actual Appendix A interview protocol — highly transferable.

@@ -1,7 +1,7 @@
 # Reference List with Verification Status
 
 **Thesis:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows — A Qualitative Analysis of Governance Framework Evolution
-**Compiled:** Sep 2, 2026 | **Updated:** Sep 29, 2026 (S5 compile: six PDF-verified) | Generated from `references.bib` (64 entries)
+**Compiled:** Sep 2, 2026 | **Updated:** Sep 30, 2026 (S4 methods foundation compiled: Cluster M 11 of 11; interview-design group verified: 14 of 14) | Generated from `references.bib` (64 entries)
 
 > **This document is a working audit, not the thesis bibliography.** `references.bib` remains the single source of truth for per-reference status (amendment A4). Regenerate this file whenever the bib changes.
 
@@ -22,19 +22,19 @@
 
 | Status | Count |
 |---|---|
-| ✅ Verified (DOI) | 28 |
-| ✅ Verified (arXiv preprint) | 6 |
-| ✅ Verified (PDF + venue, no DOI printed) | 3 |
-| ⚠ Grey tier | 2 |
+| ✅ Verified (DOI) | 44 |
+| ✅ Verified (arXiv preprint) | 11 |
+| ✅ Verified (PDF + venue, no DOI printed) | 5 |
+| ⚠ Grey tier | 3 |
 | ⛔ Excluded | 4 |
-| ❓ TODO-verify | 17 |
-| **Total bib entries** | **64** |
+| ❓ TODO-verify | 4 (all governance-side) · 2 not obtained (Flanagan, Yin) |
+| **Total bib entries** | **77** |
 
-**Compiled notes: 41** (21 original + 14 from the S3 gap-fill + 6 from the S5 pass: B9, E5, E6, G1, G2, G3; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **40** (34 before S5, plus the six S5 notes; 2 are grey-tier, restricted use). The six S5 sources are governance-corpus members only for B9; E5, E6 and G1–G3 are context and theory anchors.
+**Compiled notes: 52** (21 original + 14 from the S3 gap-fill + 6 from the S5 pass: B9, E5, E6, G1, G2, G3 + 11 from the S4 pass: M1–M11; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **51** (34 before S5, plus the six S5 notes and the eleven S4 notes; 2 are grey-tier, restricted use). The six S5 sources are governance-corpus members only for B9; E5, E6 and G1–G3 are context and theory anchors.
 
 > ⚠ Arithmetic note: the status counts above sum to 60 against 64 entries; the Sep 11 table already summed to 54 against 58, so a four-entry gap predates S5 and was not reconciled in this pass.
 
-> ⚠ **17 of 58 entries cannot currently be cited.** Thirteen of those seventeen are in the interview-design group, which is the least verified part of the corpus and the part Chapter 3 depends on.
+> ✅ **Interview-design group verified (Sep 30, 2026): 14 of 14.** 8 peer-reviewed with DOI, 5 arXiv preprints, 1 grey instrument. Two metadata corrections (I9 was a published 2023 article, not a 2024 preprint; I14 changed title in arXiv v2) and two published versions found for sources held only as arXiv PDFs (I7, I10 — page numbers differ). **4 entries remain TODO-verify**, all governance-side (`algoopacity`, `algoacccrosscultural2026`, `algoaccliability2025`, `responsibleaistartups`); none is used in Chapters 2–3.
 >
 > **S3 gap-fill (Sep 11, 2026).** 15 frequency-ranked snowball targets from `literature/search_log.md` were resolved: 14 kept (all DOI- or PDF+venue-verified, no grey-tier flags), 1 excluded. See the per-cluster sections below for the new A8–A12, B8, C7–C10, D6–D7, E2–E4 entries, and the note under Cluster E on the E-slot renumbering.
 
@@ -217,40 +217,57 @@
 **G3 (S5).** Dutton, J. E., & Ashford, S. J. (1993). *Selling issues to top management.* Academy of Management Review, 18(3), 397–428. https://doi.org/10.5465/amr.1993.9309035145
 `dutton1993issueselling` — ✅ **PDF+venue** · Verified against the PDF Sep 29, 2026 (OCR: title, authors, venue, volume, issue, pages); **no DOI printed in the PDF**, DOI 10.5465/amr.1993.9309035145 is from the publisher page. Note `G3_dutton1993_selling_issues_top_management.md` (v2.4-T). Seminal; conceptual.
 
-## Interview-design references
-*14 entries · 1 verified · 13 TODO-verify · **least verified part of the corpus***
+## Interview-design references (Cluster I)
+*14 entries · 14 verified Sep 30, 2026 against the PDFs in `Thesis Content/Group Interview` and the publisher or arXiv record · 8 DOI · 5 arXiv · 1 grey*
 
-**M1.** Castillo-Montoya, M. (2016). *Preparing for interview research: The Interview Protocol Refinement framework.* The Qualitative Report, 21(5), 811–831.
-`castillomontoya2016ipr` — ✅ **PDF+venue** · **The only verified methodology citation in the corpus.** Four-phase IPR framework. **Priority read.** ⚠ Open: add DOI if available.
+> These are **interview-design precedents**, not the methods foundation. Chapter 3 still needs the S4 search (thematic analysis, critical incident technique, case design, trustworthiness criteria) — see `search_log.md` §S4.
 
-**M2–M14.** ❓ **TODO-VERIFY — all thirteen cannot currently be cited:**
+| ID | Key | Reference | Status | Note |
+|---|---|---|---|---|
+| I1 | `castillomontoya2016ipr` | Castillo-Montoya, M. (2016). Preparing for interview research: The Interview Protocol Refinement framework. *The Qualitative Report, 21*(5), 811–831. https://doi.org/10.46743/2160-3715/2016.2337 | ✅ **DOI** | DOI added (was PDF+venue). **Priority read** |
+| I2 | `iprworkedexample` | Shoozan, A., & Mohamad, M. (2024). Application of Interview Protocol Refinement framework in systematically developing and refining a semi-structured interview protocol. *SHS Web of Conferences, 182*, 04006. https://doi.org/10.1051/shsconf/202418204006 | ✅ **DOI** | Conference proceedings (ACcESS 2023); support only |
+| I3 | `ecuithaka_genai_guide` | East Carolina University. (2023). *Semi-structured interview guide: Generative AI in teaching and research* [Interview guide, Ithaka S+R multi-institutional study]. https://ai-research.ecu.edu/wp-content/pv-uploads/sites/440/Interview-Guide.pdf | ⚠ **GREY** | Undated instrument; year from PDF creation date. Instrument precedent only |
+| I4 | `bangladeshijournalists2025` | Murtuza, H. M., & Oliullah, M. (2025). *Generative artificial intelligence adoption among Bangladeshi journalists* (arXiv:2511.10862) | ✅ **arXiv** | No published version found |
+| I5 | `healthcareaigovprotocol2025` | Freeman, S., Wang, A., Saraf, S., Potts, E., McKimm, A., Coiera, E., & Magrabi, F. (2025). Developing an AI governance framework for safe and responsible AI in health care organizations: Protocol for a multimethod study. *JMIR Research Protocols, 14*, e75702. https://doi.org/10.2196/75702 | ✅ **DOI** | Journal corrected (was "PMC") |
+| I6 | `chinesepainters2025` | Meng, Y., Chen, R., Lu, Z., Ma, S., & Zang, C. (2025). *Tracing generative AI in digital art* (arXiv:2511.03117v2) | ✅ **arXiv** | v2, Mar 2026 |
+| I7 | `chinesestudentsgenai2025` | Xie, Q., Li, M., & Cheng, F. (2025). Between regulation and accessibility: How Chinese university students navigate global and domestic generative AI. *Globalisation, Societies and Education*, 1–19. https://doi.org/10.1080/14767724.2025.2598275 | ✅ **DOI** | ⚠ **Published version found**; PDF on file is arXiv 2506.14377v1 — **page numbers differ**; get the published PDF before citing pages |
+| I8 | `controllingcontext2025` | Moss, E., Watkins, E., Persaud, C., Karunaratne, P., & Nafus, D. (2025). *Controlling context: Generative AI at work in integrated circuit design and other high-precision domains* (arXiv:2506.14567) | ✅ **arXiv** | No published version found |
+| I9 | `ethicsbasedauditing2024` | Mökander, J., & Floridi, L. (2023). Operationalising AI governance through ethics-based auditing: An industry case study. *AI and Ethics, 3*(2), 451–468. https://doi.org/10.1007/s43681-022-00171-7 | ✅ **DOI** | ⚠ **Metadata corrected** — was recorded as a 2024 arXiv preprint (2407.06232 is a later repost). Key kept |
+| I10 | `agenticbpm2025` | Vu, H., Klievtsova, N., Leopold, H., Rinderle-Ma, S., & Kampik, T. (2026). Agentic business process management: Practitioner perspectives on agent governance in business processes. In *Business Process Management: Responsible BPM Forum* (LNBIP 565, pp. 29–43). Springer. https://doi.org/10.1007/978-3-032-02936-2_3 | ✅ **DOI** | ⚠ **Published version found**; PDF on file is arXiv v2 — page numbers differ |
+| I11 | `regulatingreality2025` | Leibowicz, C. R. (2025). *Regulating reality: Exploring synthetic media through multistakeholder AI governance* (arXiv:2502.04526) | ✅ **arXiv** | Single author; no published version found |
+| I12 | `technostressgenai` | Högemann, M., Hein, L., Britsche, J.-O., & Thomas, O. (2025). Technostress and generative AI in the workplace: A qualitative analysis of young professionals. *Frontiers in Artificial Intelligence, 8*, 1728881. https://doi.org/10.3389/frai.2025.1728881 | ✅ **DOI** | Journal corrected (was "PMC") |
+| I13 | `hospitalleaders_longitudinal` | Zhi, Z., Zhao, J., Li, Q., Li, Q., Xu, M., Zuo, Y., Wang, M., Liu, J., Guan, J., & Wang, J. (2025). Evolving perceptions and attitudes to adopting generative AI in professional settings. *Journal of Medical Internet Research, 27*, e75531. https://doi.org/10.2196/75531 | ✅ **DOI** | Journal corrected (was "PMC") |
+| I14 | `energycompanygenai2026` | Sami, M. A., Rasheed, Z., Olenius, M., Waseem, M., Kemell, K.-K., Rasku, J., & Abrahamsson, P. (2026). *Identifying and prioritizing generative AI use cases in an organization: An industrial case study* (arXiv:2602.09846v2) | ✅ **arXiv** | ⚠ **Title changed** in v2 (was "Generative AI adoption in an energy company…") |
 
-| Key | Short title | Missing |
-|---|---|---|
-| `iprworkedexample` | Application of the IPR framework | authors, year, venue |
-| `ecuithaka_genai_guide` | Semi-structured interview guide: GenAI in teaching and research | year, URL |
-| `bangladeshijournalists2025` | GenAI adoption among Bangladeshi journalists (arXiv:2511.10862) | authors |
-| `healthcareaigovprotocol2025` | AI governance framework for health care organizations | authors, actual journal (likely JMIR Res Protoc), volume |
-| `chinesepainters2025` | Tracing generative AI in digital art (arXiv:2511.03117) | authors |
-| `chinesestudentsgenai2025` | Between regulation and accessibility (arXiv:2506.14377) | authors |
-| `controllingcontext2025` | Controlling context: GenAI at work in IC design (arXiv:2506.14567) | authors |
-| `ethicsbasedauditing2024` | Operationalising AI governance through ethics-based auditing (arXiv:2407.06232) | authors |
-| `agenticbpm2025` | Agentic business process management (arXiv:2504.03693) | authors |
-| `regulatingreality2025` | Regulating reality (arXiv:2502.04526) | authors |
-| `technostressgenai` | Technostress and generative AI in the workplace | authors, year, journal |
-| `hospitalleaders_longitudinal` | Evolving perceptions among senior Chinese hospital leaders | authors, year, journal |
-| `energycompanygenai2026` | GenAI adoption in an energy company (arXiv:2602.09846) | authors |
+---
 
-> ⚠ **Most of these are missing only the author list**, and nine carry arXiv IDs — so verification is largely mechanical (arXiv API lookup) rather than a search problem. This is the cheapest large quality gain available in the corpus.
+## Cluster M — Methods foundation *(new, S4, Sep 30, 2026)*
+*11 active entries (Flanagan and Yin not obtained — replaced Sep 30) · all 11 PDF-checked and compiled Sep 30, 2026 (`planning/s4_methods_prompt.md`); notes in `literature/notes/`. Outside the §11 denominator. M3, M10 and M11 print no DOI (✅ PDF+venue); the DOI in the bib is from Crossref only.*
+
+| ID | Key | Reference | Ch.3 job | Status | Notes |
+|---|---|---|---|---|---|
+| M1 | `braun2006thematic` | Braun & Clarke (2006), *Qualitative Research in Psychology* 3(2), 77–101 | Thematic analysis phases | ✅ **DOI** | Pages are printed pages (PDF p.n = printed p.n+75) |
+| M2 | `braun2021onesize` | Braun & Clarke (2021), *Qualitative Research in Psychology* 18(3), 328–352 | **Codebook vs reflexive TA — decides the label** | ✅ **DOI** | Label decision: codebook TA (see Pipeline_State) |
+| M3 | `fereday2006hybrid` | Fereday & Muir-Cochrane (2006), *IJQM* 5(1), 80–92 | Hybrid deductive + inductive coding | ✅ **PDF+venue** | No DOI printed; "Article 7" is not in the PDF |
+| M4 | `gremler2004cit` | Gremler (2004), *Journal of Service Research* 7(1), 65–89 | CIT procedure and reporting (replaces Flanagan) | ✅ **DOI** | Scan; OCR-checked. Replaces Flanagan |
+| M5 | `butterfield2005cit` | Butterfield et al. (2005), *Qualitative Research* 5(4), 475–497 | CIT today | ✅ **DOI** | DOI …056924 confirmed (NotebookLM gave …056922) |
+| M6 | `baxter2008casestudy` | Baxter & Jack (2008), *The Qualitative Report* 13(4), 544–559 (open access) | Single/multiple, holistic/embedded case designs (replaces Yin) | ✅ **DOI** | Cites Yin (2003) 3rd ed.; Yin only "as cited in Baxter & Jack" |
+| M7 | `nowell2017trustworthiness` | Nowell et al. (2017), *IJQM* 16(1) | Trustworthiness in TA | ✅ **DOI** | Pages 1–13 added to bib; issue no. from Crossref |
+| M8 | `malterud2016informationpower` | Malterud et al. (2016), *Qualitative Health Research* 26(13), 1753–1760 | Sample size: information power | ✅ **DOI** | No minimum N given |
+| M9 | `temple2004translation` | Temple & Young (2004), *Qualitative Research* 4(2), 161–178 | Translation, bilingual researcher | ✅ **DOI** | Text layer degraded; matched on letters only |
+| M10 | `dwyer2009insider` | Dwyer & Buckle (2009), *IJQM* 8(1), 54–63 | Insider-outsider reflexivity | ✅ **PDF+venue** | Cite as Corbin Dwyer & Buckle; no DOI printed |
+| M11 | `eisenhardt2007theorybuilding` | Eisenhardt & Graebner (2007), *Academy of Management Journal* 50(1), 25–32 | Multiple-case logic (supports M6) | ✅ **PDF+venue** | No DOI printed; replaces Yin in Ch.3 |
+
+**Not obtained (Sep 30, 2026) — do not cite directly:** `flanagan1954cit` — cite only as "Flanagan (1954, as cited in Gremler, 2004)" and leave out of the reference list; `yin2018casestudy` — not cited unless the book is later read.
 
 ---
 
 ## Actions arising
 
-1. **Verify the 13 interview-design entries.** Nine have arXiv IDs; resolve via the arXiv API. Chapter 3 depends on this group and only one member is currently citable.
+1. ~~**Verify the 13 interview-design entries.**~~ **DONE Sep 30, 2026** — 14 of 14 verified (see table). Follow-ups: published PDFs for I7 and I10; §6 of notes I1–I14 still carry old metadata.
 2. **Resolve or exclude `algobiasbianalytics2025` (E1).** It is flagged as the closest topical match to the thesis and is unverifiable ResearchGate content — the same profile as the excluded A2.
 3. **Verify `responsibleaistartups` (D5).** *Technological Forecasting and Social Change* is a strong venue; worth the lookup.
 4. **Verify or exclude C4–C6.** `algoaccliability2025` is ResearchGate-only and a likely exclusion candidate.
 5. **Add DOIs where open:** Luna (AIES proceedings), Joshi (ISTAS proceedings), Batool A1 (journal version), Castillo-Montoya.
 6. **Title-line spot-check across all 21 compiled notes** against their PDFs — triggered by the Mitchell metadata failure (amendment A2).
-7. **~~Run search pass S3~~ DONE Sep 11, 2026** (14 of 15 frequency-ranked snowball targets kept; `algobiasbianalytics2025` excluded). **Run S4** (methods foundation) — see `search_log.md`.
+7. **~~Run search pass S3~~ DONE Sep 11, 2026** (14 of 15 frequency-ranked snowball targets kept; `algobiasbianalytics2025` excluded). **S4 (methods foundation) DONE Sep 30, 2026** — 11 of 11 compiled (see Cluster M and `search_log.md`).

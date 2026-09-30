@@ -1,7 +1,7 @@
 # [I7] Xie, Li & Cheng — Between Regulation and Accessibility: How Chinese University Students Navigate Global and Domestic Generative AI
 
-**Bib key:** `xie-li-cheng_chinesestudents`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `chinesestudentsgenai2025` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI — ⚠ this note was compiled from the arXiv v1 PDF (2506.14377); **page numbers below are arXiv pages, not the published pages**. Get the published PDF before citing a page. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -36,7 +36,9 @@ Qualitative study, semi-structured interviews (Methodology, pp. 10–11). Sample
 > "They underscore the urgency of developing human-centered, context-sensitive AI ecosystems that balance functionality with inclusivity." (Conclusion, p. 28)
 
 ## 6. AUTHORS/YEAR/VENUE
-Qin Xie (University of Minnesota, USA), Ming Li (The University of Osaka, Japan), Fei Cheng (Kyoto University, Japan). No year/venue/DOI printed on the paper itself; references extend to 2025.
+**Verified reference (Sep 30, 2026):** Xie, Q., Li, M., & Cheng, F. (2025). Between regulation and accessibility: How Chinese university students navigate global and domestic generative AI. *Globalisation, Societies and Education*, 1–19. https://doi.org/10.1080/14767724.2025.2598275
+
+*Original §6 as compiled:* Qin Xie (University of Minnesota, USA), Ming Li (The University of Osaka, Japan), Fei Cheng (Kyoto University, Japan). No year/venue/DOI printed on the paper itself; references extend to 2025.
 
 ## 7. INTERVIEW VALUE
 No verbatim interview appendix, but the paper documents its protocol structure and explicit key questions.

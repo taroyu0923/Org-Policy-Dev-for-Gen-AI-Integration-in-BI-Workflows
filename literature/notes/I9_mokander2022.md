@@ -1,7 +1,7 @@
 # [I9] Mökander & Floridi (2022) — Ethics-Based Auditing: The AstraZeneca Industry Case Study
 
-**Bib key:** `mokander-floridi2022`
-**Verification status:** Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).
+**Bib key:** `ethicsbasedauditing2024` *(corrected Sep 30, 2026 to match `references.bib`)*
+**Verification status:** **Metadata verified Sep 30, 2026** against the PDF and the publisher/arXiv record — ✅ DOI — online May 31, 2022; issue 2023. Bib key year ("2024") is a legacy of an earlier mis-record; metadata corrected. ⚠ **Content (quotes, pages, §7–§12) not yet PDF-checked:** compiled from NotebookLM on Sep 3; in S5 NotebookLM errors were found in all six sources checked. Check every quote against the PDF before citing. *(Original: Compiled from NotebookLM analysis of user-provided PDF (Sep 3, 2026) — Cluster Interview set (interview-design/methodology references).)*
 **Cluster:** Interview — Interview Protocol Design & Methodology References
 **Note version:** v2.2 (compiled Sep 3, 2026)
 
@@ -32,7 +32,9 @@ Longitudinal **qualitative industry case study**, 12 months (Section 5, p. 11), 
 > "...without harmonised requirements, there is a risk that potentially sensitive development projects will only be outsourced to external partners. This is akin to what Floridi (2019) has labelled 'ethics dumping'..." (Section 8 Conclusions, p. 26)
 
 ## 6. AUTHORS/YEAR/VENUE
-Jakob Mökander (Oxford Internet Institute, University of Oxford) and Luciano Floridi (Oxford Internet Institute; Dept. of Legal Studies, University of Bologna). 2022. *AI Ethics*. DOI: https://doi.org/10.1007/s43681-022-00171-7
+**Verified reference (Sep 30, 2026):** Mökander, J., & Floridi, L. (2023). Operationalising AI governance through ethics-based auditing: An industry case study. *AI and Ethics, 3*(2), 451–468. https://doi.org/10.1007/s43681-022-00171-7
+
+*Original §6 as compiled:* Jakob Mökander (Oxford Internet Institute, University of Oxford) and Luciano Floridi (Oxford Internet Institute; Dept. of Legal Studies, University of Bologna). 2022. *AI Ethics*. DOI: https://doi.org/10.1007/s43681-022-00171-7
 
 ## 7. INTERVIEW VALUE
 Paper includes a full **Appendix 1 semi-structured interview protocol (pp. 43–45)**.
