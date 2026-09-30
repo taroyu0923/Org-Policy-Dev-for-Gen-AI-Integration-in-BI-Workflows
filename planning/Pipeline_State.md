@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Sep 29, 2026 — S5 add-reference pass compiled (B9, E5, E6, G1, G2, G3; all PDF-verified). Earlier: Sep 11, 2026 — S3 gap-fill run (15 new sources, 14 kept); 35-note filename retrofit to cluster-numbered IDs (`A1`…, `I1`…) completed; §11 harvest complete; §12 pass specified; template v2.4 standalone; planning docs migrating into version control.
+**Last updated:** Oct 1, 2026 — §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -17,8 +17,8 @@
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
 | Interview design | Protocol **v0.98** (+C1a, D2a, E3a); sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
-| Ethics | ⏳ **IN PROGRESS** — determination not yet received. **Blocks recruitment** |
-| Chapter drafting | Not started |
+| Ethics | Supervisor confirmed no ethical review required (Sep 11 log D7); **`ethics_determination_note.md` §5 (date, evidence) deferred to the supervisor meeting**. Consent pack (privacy notice v0.9, info sheet + consent form v0.98) to be sent by Albert before Oct 5 |
+| Chapter drafting | **Ch2:** 2.1 v1.1 (1,085), 2.6 v1.1 (669) drafted; **2.5 brief ready, awaiting Albert's approval** (`planning/ch2_2.5_writing_prompt.md`, 1,250 words); 2.2–2.4 after the Shopee interviews. **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 + Table 3.1); 3.3 after the pilot. See `chapters/ch2/README.md`, `chapters/ch3/README.md` |
 
 ---
 
@@ -58,6 +58,17 @@ This resolves the framing question that was open for three sessions. The engagem
 **Corpus counts after S5.** Governance corpus 35 → **36** notes (B9). Cluster B 9 entries / 8 notes; Cluster E 6 notes (E1–E4 governance, E5–E6 context); **Cluster G = 3** (new). Bib 64 entries, TODO-verify 17.
 
 **Claims map.** `planning/ch2_claims_map_2026-09-29.md` not edited. K5's line "No source in the corpus observes shadow use directly" needs a B9 exception before Chapter 2 is drafted.
+
+---
+
+## §2.5 source pre-check (Oct 1, 2026) — results
+
+Orchestration session, pdftotext on the staged PDFs, while writing the §2.5 brief. Pages are printed pages. Leads for the writing session, not a sign-off per quote.
+
+- **C10 Asatiani — PDF-checked for its 2.5 use.** The feedback loop is observed but at **system level**: user and data-scientist feedback adjusts the AI application at set review intervals (p. 275); caseworkers tune thresholds (p. 273); dialogue with caseworkers "the difficult part" (p. 274). Printed page = PDF page + 258 (the note's pages are article-relative). Not a channel to change usage rules. The note's "no workarounds" is not a located quote. The open item "C10 not PDF-verified" is closed for 2.5; the §11 verdict text itself was not re-read.
+- **⚠ D6 Lu 2024 — "AI Ethics Champion" / champion-as-conduit is not in the PDF.** "Champion" occurs zero times in the full text. The note's §3, §7 and §11(d–e) are NotebookLM content (compare D7). Removed from 2.5. **Open for Albert:** (1) K8/K9 in the claims map and the 2.4 source list cite D6 for champions/intermediaries; (2) D6 was counted "substantive-secondary" (not absence) in the §11 tally; if that verdict rested on the champion pattern, the count could move from 22–24 to 23–25 of 36. The tally is settled and was **not** changed here; decide whether to re-read D6 §11 against the PDF. D6's 2.1 use (pp. 173:10, 173:18) is unaffected.
+- **G2 Morrison:** "lateral voice" does not occur in the PDF; Morrison restricts voice to upward (p. 80). The protocol (§E3a) and codebook attribute "lateral voice" to G2; keep the code, but do not cite Morrison for the term.
+- **Note page errors:** B1 Taeihagh "iteratively responding" p. 7 and "red teaming…" p. 8 (note: p. 6); B5 Weinberg feedback loops pp. 9, 12 (note: p. 8); B8 Janssen "governance should also evolve" p. 44 (note: p. 43). D5 Ackerman's 9% is only in Fig. 7 (text: "least selected", p. 14). B4 "slow, rigid, or absent" not found in the PDF.
 
 ---
 
@@ -117,7 +128,7 @@ This resolves the framing question that was open for three sessions. The engagem
 
 ## Standing constraints
 
-Full draft end-Nov; **hard deadline Dec 15**. Word budget 18–24k: intro 10%, lit review 27%, method 15%, findings 25%, discussion 18%, conclusion 5% — the review is the section most likely to over-run and starve findings. Markdown + pandoc `[@key]` now, LaTeX in Nov. Interviews Sep–Oct.
+Full draft end-Nov; **hard deadline Dec 15**. **Word budget revised Sep 30, 2026 (Albert): target 25,000 words** (≈62 body pages at ~400 words/page, TNR 12, 1.5 spacing, + ~7 pages references ≈ 70; Aalto general guideline 60–100 pages — confirm with supervisor whether references/appendices count). Split: intro 8% (2,000) · lit review 25% (6,250) · method 12% (3,000) · findings 32% (8,000) · discussion 17% (4,250) · conclusion 6% (1,500). **Oct 1:** Chapter 3 allowed to run to ~3,350 (Albert); the ~350 over is taken from findings and discussion. *(Restored Oct 1: this revision had been lost when the file was overwritten from an older copy during the S4 pass. **Lost again and restored a second time Oct 1 (orchestration session, §2.5 brief):** the repo copy on disk still had the 18–24k line although the Claude-project mirror had the restore. Before editing this file, check this paragraph is present.)* Markdown + pandoc `[@key]` now, LaTeX in Nov. Interviews Oct 5–19.
 
 **Model assignment:** Fable = orchestration/QA; Opus = synthesis, drafting, method, review; Sonnet = search, citation-check, mechanical loops; Haiku = filing; NotebookLM = reading. Escalate one tier after two failed QA passes.
 
