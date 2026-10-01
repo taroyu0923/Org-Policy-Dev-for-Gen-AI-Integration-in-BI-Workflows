@@ -81,6 +81,7 @@ Orchestration session, pdftotext on the staged PDFs, while writing the §2.5 bri
 - Recodes: B4, D1, D2, C7, C8, D6 → absence; C10 → partial.
 - Applied to 2.6 ¶2 (v1.3), 3.7 ¶2, READMEs and notes.
 - **This supersedes every earlier figure in this file (14/20, 22–24, 23–25).**
+- C7 re-checked on the publisher PDF (Oct 1): verdict unchanged.
 
 ## S3 §11 spot-check (Oct 1, 2026) — results (decision taken: R1, see above)
 

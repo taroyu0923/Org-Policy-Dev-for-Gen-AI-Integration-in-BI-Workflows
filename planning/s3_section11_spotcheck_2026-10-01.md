@@ -117,3 +117,7 @@ R1 needs a **phase 2**: PDF-check the 6 Sep 4 not-absences (B4, B6, D4, D5, D1, 
 - READMEs updated.
 - Notes: an R1 verdict line under §11 in B4, D1, D2, C7, C8, C10, A12, B6, D4, D5.
 - Claims map: K6 drops C8.
+
+## 8. C7 publisher PDF (Oct 1, 2026)
+
+Albert replaced the image-only print-out with the Springer PDF (text layer). Re-checked: the Vakkuri-cited developer finding is on p. 3; "Driving re-design" is on p. 16; "interview" occurs only in the cited sentence. **Verdict unchanged: documented absence.** The C7 note block has been updated.

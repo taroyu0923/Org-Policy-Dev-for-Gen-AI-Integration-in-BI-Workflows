@@ -40,7 +40,7 @@ Albert chose **coding rule R1**: a source counts only if it reports **data**, fi
   - E2's "research agenda" quote is not in the paper.
   - B4's "slow, rigid, or absent" is not in the paper.
   - G2 has no "lateral voice".
-  - The C7 PDF is an image-only print-out.
+  - C7: publisher PDF now in `Thesis Content` (Albert, Oct 1); verdict re-checked on it (pp. 3, 16), unchanged.
 - **Bib-key headers** fixed in 8 notes (A8, A9, A10, A12, C9, D7, E3, E4).
 - **Claims map:** K6 drops C8.
 - **`literature/search_log.md`:**
@@ -58,7 +58,6 @@ Albert chose **coding rule R1**: a source counts only if it reports **data**, fi
 ## Still open
 
 - Confirm S1.
-- Get the publisher PDF for C7.
 - §12 pass after the pilot.
 - Cluster memos.
 - Review 2.5 v1.

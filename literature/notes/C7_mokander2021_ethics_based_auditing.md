@@ -8,7 +8,7 @@
 
 > **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
 >
-> ⚠ The PDF on file is an **image-only browser print-out** ("PDF.js viewer", 31 pp.; article pages printed as "Page N of 30"); OCR-checked. Replace with the publisher PDF (open access, DOI 10.1007/s11948-021-00319-4) before quoting pages. The "impractical construct" developer finding (PDF p. 3) is **cited from Vakkuri et al. (2019)**, not C7's own data. "Driving re-design" is criterion (7) of seven (PDF p. 16). §11: proposed **documented absence** (no data of its own).
+> ✅ **Publisher PDF in place (Oct 1, 2026):** `Group C\Ethics-Based Auditing of Automated Decision-Making Systems - Nature, Scope, and Limitations.pdf` (Springer, text layer, 31 pp.). It replaces the image-only browser print-out. Cite as *Science and Engineering Ethics* 27, Article 44; pages are the article's "Page N of 30" (= PDF page). Re-checked on the publisher PDF: the developer finding, "an impractical construct that is distant from the issues they face in daily work", is on **p. 3** and is **cited from Vakkuri et al. (2019)**, not C7's own data. "Driving re-design" ("provide feedback and inform the continuous re-design of ADMS") is criterion (7) of seven on **p. 16**. "Interview" occurs only in the Vakkuri sentence. §11 under R1: **documented absence** (confirmed).
 
 ---
 
