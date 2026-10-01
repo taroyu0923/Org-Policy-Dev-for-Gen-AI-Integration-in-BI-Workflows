@@ -65,6 +65,8 @@ Four self-acknowledged limitations (Conclusions, p.15):
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **documented absence** (was partial). Review that names the gap (pp. 11, 14) without data on staff.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `3cfa0d1a-28bb-48dc-82d5-3e5339c1b4d1` ("[D1] Papagiannidis2025 — Responsible AI Governance Review"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Partial.** Scoping review (48 papers), not primary fieldwork, but its "relational practices" construct (the note's coding spine) directly theorizes practitioner-level reception, and it names the engagement gap explicitly.

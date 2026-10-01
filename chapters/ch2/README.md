@@ -17,7 +17,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 
 - **2.3 must raise, as an open question, whether a given use began before any rule existed or continued around one.** 2.6 ¶4 ends: "which is the distinction 2.3 left open". If 2.3 does not raise it, edit 2.6 ¶4.
 - ~~2.6 ¶2 placeholder `Section [3.X]`~~ **Resolved Oct 1, 2026 → Section 3.7** (`chapters/ch3/3.7_literature_review_method.md` ¶2 describes the screening question, verdict vocabulary and why the count is a range). If 3.7 is renumbered, update 2.6 ¶2.
-- **Tally (2.6 ¶2): 23–25 of 36 governance sources (64–69%)** since Oct 1, 2026 — D6 Lu recoded substantive-secondary → documented absence after a PDF check (`planning/d6_pdf_check_2026-10-01.md`; Albert approved). Was 22–24 (61–67%). B9 positive (Sep 29–30) and A9 partial (Sep 30) unchanged. The range = two conceptual audit papers, C7 and C8 (as 3.7 states). **If any further §11 verdict changes (S3 spot-check, `planning/s3_section11_spotcheck_prompt.md`), update 2.6 ¶2 again.**
+- **Tally (2.6 ¶2): 28–29 of 36 governance sources (78–81%)** since Oct 1, 2026, under coding rule R1 after the S3 spot-check and phase 2 (`planning/s3_section11_spotcheck_2026-10-01.md`); range = A12. Before that: 23–25 of 36 — D6 Lu recoded substantive-secondary → documented absence after a PDF check (`planning/d6_pdf_check_2026-10-01.md`; Albert approved). Was 22–24 (61–67%). B9 positive (Sep 29–30) and A9 partial (Sep 30) unchanged. The range = two conceptual audit papers, C7 and C8 (as 3.7 states). **If any further §11 verdict changes (S3 spot-check, `planning/s3_section11_spotcheck_prompt.md`), update 2.6 ¶2 again.**
 - **2.5 brief (Oct 1, 2026):** D6 `lu2024raipatterns` is **not** to be cited for champions or upward feedback (no "champion" in the PDF); 2.5 does not restate the §11 tally or the carrier/recipient sampling argument (both in 2.6).
 - Bib: `abraham2019datagovframework` renders the surname as "Brocke" (particle "vom" not protected). Check with `apa.csl` at build; fix in the bib if needed (e.g. `{vom Brocke}, Jan`).
 - **2.5 (Oct 1, 2026):** ¶3 describes the non-champion study (D4) without restating 2.6's carrier/recipient argument; ¶4 ends with one sentence noting that D7's evidence concerns initiatives participants had taken on. If 2.6 ¶3 changes, re-read 2.5 ¶4 for overlap.
@@ -36,6 +36,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 
 ## Change log
 
+- **v1.3 (Oct 1, 2026)** — 2.6 ¶2 tally → 28–29 (78–81%), "receive AI governance", range sentence now names the information-governance study (A12); 3.7 ¶2 states the R1 rule and the new range reason. No other text changed.
 - **v1.2 (Oct 1, 2026)** — 2.6 ¶2 tally 22–24 (61–67%) → 23–25 (64–69%) after the D6 recode. No other text changed.
 - **v1.1 (Sep 30, 2026)** — edit pass from `planning/ch2_edit_prompt_2.1_2.6.md` (review `planning/ch2_review_2026-09-30.md`): E1 narrative citations (both); E2 Papagiannidis 2023/2025 disambiguated (2.6); E3 *rule* widened to written or unwritten (2.1 ¶1); E4 2.1 ¶2 regrouped; E5 Orr & Davis marked as secondary citation in APA form (2.1 ¶2); E6 this README. No quote, page, tally, source or heading changed.
 

@@ -58,6 +58,8 @@ The authors do not state self-limitations regarding their own review/framework. 
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **documented absence** (was partial). Review; its one practitioner reference is cited from another study.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `cfdae1e1-4906-49f1-8e19-e8c7c49066b5` ("[D2] Madanchian2025 — Ethical Theories & Governance Models"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Partial.** This is a literature review (not primary empirical research), but it explicitly names a practitioner-level "translational gap" more directly than most Cluster A/B/C sources.

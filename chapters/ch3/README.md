@@ -22,7 +22,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 | 3.4 | `3.4_analysis.md` | 650 | 708 | Draft v1 (Oct 1) | 11 PENDING, 1 FILL |
 | 3.5 | `3.5_trustworthiness_reflexivity.md` | 400 | 437 | Draft v1 (Oct 1) | 6 PENDING, 7 FILL |
 | 3.6 | `3.6_ethics_data_protection.md` | 300 | 311 | Draft v1 (Oct 1) | 3 PENDING, 2 FILL, 1 CHECK |
-| 3.7 | `3.7_literature_review_method.md` | 250 | 267 | Draft v1 (Oct 1); resolves 2.6 `Section [3.X]` | 1 FILL, 1 CHECK |
+| 3.7 | `3.7_literature_review_method.md` | 250 | 298 | Draft v1.1 (Oct 1: R1 coding rule + range reason added, +31 words); resolves 2.6 `Section [3.X]` | 1 FILL, 1 CHECK |
 
 \*Prose words, excluding headings, HTML comments, citation brackets and `[PENDING]`/`[FILL]` markers.
 

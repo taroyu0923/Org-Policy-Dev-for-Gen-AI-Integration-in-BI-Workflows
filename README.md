@@ -96,9 +96,9 @@ Claude outputs/      PR descriptions and session outputs
 
 **Literature**
 - [x] **Corpus:** 36 governance notes (Clusters A–E plus B9) · theory anchors G1–G3 · methods M1–M11 (PDF-checked) · interview design I1–I14 (verified)
-- [x] **Working-tier screening (§11):** **23–25 of 36 governance sources (64–69%)** contain no account of how staff below the rule-setting level receive governance.
-  - Updated Oct 1 after D6 was recoded against the PDF (`planning/d6_pdf_check_2026-10-01.md`).
-- [ ] **S3 §11 spot-check against the PDFs:** briefed in `planning/s3_section11_spotcheck_prompt.md`; may move the tally
+- [x] **Working-tier screening (§11):** **28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive governance.
+  - Updated Oct 1: every verdict PDF-checked under coding rule R1 (data on staff reception of AI governance only); `planning/s3_section11_spotcheck_2026-10-01.md`.
+- [x] **§11 verdicts PDF-checked (S3 + phase 2), rule R1** — Oct 1
 - [ ] **Note page fixes:** B1, B5, B8 and others logged in the handoffs
 - [ ] §12 protocol-craft pass on I1–I14 · S1 search reconstruction · cluster memos
 

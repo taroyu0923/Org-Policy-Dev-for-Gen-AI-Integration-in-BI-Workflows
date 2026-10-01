@@ -59,6 +59,8 @@ Literal terms absent, but explicit "structured data analysis" and "decision-supp
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **documented absence** (was substantive). Framework paper; no data on staff. Bypass and attitudes are the paper's assertions.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `31d0ce0d-17be-440a-bcb5-4c4dfd652dda` ("[B4] Joshi2025 — Responsible Governance of GenAI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Substantive.** This white paper (literature review + industry roundtable) is prescriptive rather than empirical, but describes working-tier reception in more operational detail than any other Cluster A/B source.

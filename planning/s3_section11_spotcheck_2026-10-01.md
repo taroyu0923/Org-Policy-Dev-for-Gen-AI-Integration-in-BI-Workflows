@@ -7,7 +7,7 @@
 - For each note: every specific §11 claim (and the §3/§5/§7 claims §11 depends on) was searched as an exact phrase and as key terms, then the method sections were re-read for data about staff below the rule-setting level.
 - Pages are printed pages; the offset per PDF is given.
 
-**Status:** ⏳ **Report only.** No note, chapter, Pipeline_State or claims-map change from this log has been applied. **Recodes and the tally wait for Albert's decision on the coding rule (§3 below).**
+**Status:** ✅ **Decided and applied (Oct 1).** Albert chose **rule R1**. Phase 2 was run on the Sep 4 batch (§6), and the recodes were applied to the notes, 2.6 ¶2, 3.7 ¶2, the READMEs, the claims map (K6) and Pipeline_State.
 
 ---
 
@@ -80,3 +80,40 @@ R1 needs a **phase 2**: PDF-check the 6 Sep 4 not-absences (B4, B6, D4, D5, D1, 
 - **C8:** worked example is a "hypothetical datasheet" and "template model card" (PDF p. 8); ethnographic interviews are an audit step (PDF pp. 8–9).
 - **A12:** quotes at pp. 165, 167, 168 verified in full (see the D6/§2.5 session logs for p. 168).
 - **E2:** searches for "individual" (3 hits, none in a research-agenda sense) and "behavio" (2 hits: "promote desirable behavior in the use of data"; "collaborative behavior" between units). No working-tier claim.
+
+
+---
+
+## 6. Phase 2 — Sep 4 batch under R1 (Oct 1, 2026)
+
+**Rule R1 (Albert, Oct 1):** a governance source counts as giving an account only if it reports **data**, first- or second-hand, on how staff below the rule-setting level receive **AI** governance. Naming the gap, prescribing channels or citing another study's finding counts as documented absence.
+
+**Method:**
+- The 20 Sep 4 PDFs were text-extracted on Albert's computer and scanned for empirical-method signals (interview, survey, respondent, participant, case study, focus group, fieldwork).
+- Hits were read in context, and the six not-absences were read in their method sections.
+
+| ID | Before | After (R1) | Evidence |
+|---|---|---|---|
+| B4 Joshi | substantive | **documented absence** | Framework; no method signals. "Employees … bypassing" is the paper's assertion |
+| D1 Papagiannidis 2025 | partial | **documented absence** | Review. "Interview" appears only in a reference; it names the gap (pp. 11, 14) |
+| D2 Madanchian | partial | **documented absence** | Review; practitioner viewpoints come only through cited studies (e.g. Pant et al. 2024) |
+| B6 Lee | substantive | **not-absence (partial)** | Case study with eight AI projects; interviews with team members; teams' feedback reshaped the instrument (PDF p. 4; pp. 14, 33) |
+| D4 Nahar | substantive | **substantive** ✓ | Field study (observation, interviews) plus user study with 29 practitioners |
+| D5 Ackerman | substantive | **not-absence (partial)** ✓ | Survey of 44 professionals on their organisations' RAI frameworks (pp. 6, 14) |
+| 14 Sep 4 absences | absence | **absence** ✓ (signal scan) | No empirical method in any of them. B1's interview mention summarises another paper in its special issue; A6's "case studies" are global initiatives; B3's is an application to ChatGPT; A1's "focus group" is a WHO/ITU body |
+
+⚠ The 14 Sep 4 absences were confirmed by method-signal scan plus context reading, not by a line-by-line claim table. They cannot hide a positive (no data-collection language at all), but their §1–§10 content was not re-verified.
+
+## 7. Final tally under R1
+
+**Not-absence (7):** A9 (partial), B6 (partial), B9 (positive), C10 (partial), D4 (substantive), D5 (partial), D7 (substantive).
+**Documented absence (29):** A1, A3, A4, A5, A6, A7, A8, A10, A11, **A12 (borderline)**, B1, B3, B4, B5, B7, B8, C1, C2, C3, C7, C8, C9, D1, D2, D6, E1, E2, E3, E4.
+
+**Tally: 28–29 of 36 (78–81%).** The range is A12: executive-reported user behaviour, on information governance rather than AI governance.
+
+**Applied:**
+- 2.6 ¶2 (v1.3): "28 or 29 (78–81%) … receive AI governance; the range reflects one study of information governance whose interviews with executives report users' behaviour at second hand".
+- 3.7 ¶2: R1 stated; new reason for the range.
+- READMEs updated.
+- Notes: an R1 verdict line under §11 in B4, D1, D2, C7, C8, C10, A12, B6, D4, D5.
+- Claims map: K6 drops C8.
