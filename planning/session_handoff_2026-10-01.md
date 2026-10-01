@@ -160,3 +160,16 @@ and the next-step options in section 6. Then wait for my choice.
 - Edited: 2.6 ¶2 v1.3, 3.7 ¶2, READMEs, 10 notes (R1 verdict lines), claims map K6, Pipeline_State.
 - Log: `planning/s3_section11_spotcheck_2026-10-01.md` §6–7.
 - **Next:** review 2.5 v1 · pilot and consent pack (by Oct 5) · confirm the S1 reconstruction · §12 after the pilot · cluster memos.
+
+**Update (Oct 1, later): 2.5 rechecked → v1.1.**
+- Albert reviewed 2.5 (fine). Orchestration recheck:
+  - 32/32 direct quotes found on the cited printed pages (G3 and B9 by OCR);
+  - 14 keys, all in the bib;
+  - 1,211 words excluding citations (target 1,250);
+  - 0 em dashes and no style-list hits;
+  - consistent with the R1 tally.
+- Three paraphrases tightened to the source:
+  - C10 p. 273: a *team leader* called the threshold control "a major cultural factor" (the draft said "much of the business's acceptance");
+  - D7 p. 7:11: "in a few cases", not "organisations";
+  - D4 p. 3: "many data scientists".
+- Ch2 drafted: 2.1, 2.5, 2.6 (≈2,965 / 6,250). Next: 2.2–2.4 after the depth-case interviews.

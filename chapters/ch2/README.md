@@ -9,7 +9,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 | 2.2 | — | When practice comes first, and when rules are unclear | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.3 | — | Asking or acting: explanations of bypass | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.4 | — | Rulings and the people in between | Not started (after Shopee interviews) | — (1,000) | — |
-| 2.5 | `2.5_does_anything_go_up.md` | Does anything go up? | **Draft v1** — awaiting Albert's review | 1,204 excl. citations / 1,256 incl. (1,250) | Oct 1, 2026 |
+| 2.5 | `2.5_does_anything_go_up.md` | Does anything go up? | **Draft v1.1** — reviewed by Albert (Oct 1); orchestration recheck: 32/32 quotes verified, 3 paraphrases tightened | 1,204 excl. citations / 1,256 incl. (1,250) | Oct 1, 2026 |
 | 2.6 | `2.6_lens_and_gap.md` | What lens does the literature offer, and what does it leave unstudied? | **Draft v1.1** (edit pass E1–E2) — awaiting Albert's review | 669 excl. citations / 687 incl. (700) | Sep 30, 2026 |
 | | | | **Total** | **2,958 / 6,250** (budget revised Sep 30: 25,000-word thesis) | |
 
@@ -36,6 +36,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 
 ## Change log
 
+- **2.5 v1.1 (Oct 1, 2026)** — recheck: 32/32 direct quotes found on the cited printed pages (G3 and B9 by OCR); 14 keys all in the bib; 1,211 words excl. citations; 0 em dashes; no style-list hits. Three paraphrases tightened (C10 p. 273, D7 p. 7:11, D4 p. 3). Consistent with the R1 tally (D1 used only as naming the gap; B4 flagged as a preprint and as prescription).
 - **v1.3 (Oct 1, 2026)** — 2.6 ¶2 tally → 28–29 (78–81%), "receive AI governance", range sentence now names the information-governance study (A12); 3.7 ¶2 states the R1 rule and the new range reason. No other text changed.
 - **v1.2 (Oct 1, 2026)** — 2.6 ¶2 tally 22–24 (61–67%) → 23–25 (64–69%) after the D6 recode. No other text changed.
 - **v1.1 (Sep 30, 2026)** — edit pass from `planning/ch2_edit_prompt_2.1_2.6.md` (review `planning/ch2_review_2026-09-30.md`): E1 narrative citations (both); E2 Papagiannidis 2023/2025 disambiguated (2.6); E3 *rule* widened to written or unwritten (2.1 ¶1); E4 2.1 ¶2 regrouped; E5 Orr & Davis marked as secondary citation in APA form (2.1 ¶2); E6 this README. No quote, page, tally, source or heading changed.
