@@ -98,3 +98,39 @@ and the next-step options in section 6. Then wait for my choice.
 2. D6 Lu: re-read its §11 against the PDF? Its "substantive-secondary" verdict may rest on the missing champion pattern (tally would read 23–25 of 36 if it flips; the settled tally was **not** changed). K8/K9 and the 2.4 source list also cite D6.
 
 **Not changed:** outline v2, claims map, notes (page errors recorded, not fixed), 2.1, 2.6, tally.
+
+---
+
+## Log — Chapter 2 writing session — Section 2.5 (Oct 1)
+
+**Done:** `chapters/ch2/2.5_does_anything_go_up.md` draft v1, **1,204 words excl. citations** (1,256 incl.; target 1,250 ±10%). Brief approved by Albert; paragraph plan approved before drafting. Order as in the brief (theory ¶5, open questions ¶6). All 31 direct quotes string-matched against the PDF text (G3 via OCR of the image-only PDF); pages are printed pages. 14 keys, all ✅ in `reference_list.md`, all in `references.bib`; pandoc test render clean. No quote shared with 2.1 or 2.6.
+
+**Decisions made while drafting (plan approved by Albert):**
+1. **B8 Janssen's "feedback loops" are system-level** (the model learns from use; p. 44), not practitioners → rule-setters. ¶1 now separates three meanings of feedback (system, regulation (B1), people → rule-setters (E2, D1; B4/B5 supplementary)) and states that the peer-reviewed support for the third rests on E2 and D1 only.
+2. B4 "report concerns or initiate changes themselves" cited as **sec. IV.D** (it sits just before IV.E in the PDF).
+3. D7 p. 7:14 added: concerns "heard on account of their seniority" and the authors' "fragility" reading; links ¶4 to Morrison's point about status without claiming AI evidence for G2.
+4. C10: no workaround claim (the word is not in the PDF). The loop is described as between builders and users of one application; ¶2 adds that a bought GenAI tool has no such pair (analytic sentence, not cited).
+5. D5 described with its own sampling statement ("professional networks and LinkedIn", p. 4) and "least selected" (p. 14); the 9% figure not used.
+6. G3's middle-manager scope raised in ¶6 as an open question (does issue selling apply to analysts without managerial standing?).
+
+**Claims resting on this study's reading, not a citation:** ¶2 last two sentences (bought vs built tool); ¶3 last sentence (absence of research vs absence in organisations cannot be separated); ¶6 "the literature prescribes the route but has almost never looked for it".
+
+**Not changed:** outline v2, claims map, notes, 2.1, 2.6, tally. D6 decision still open (Albert).
+
+---
+
+## Log — orchestration session, Oct 1 (D6 Lu fact-check and recode)
+
+**Done (Albert approved: recode + update 2.6; rewrite note; claims map; spot-check brief):**
+- `planning/d6_pdf_check_2026-10-01.md` — full PDF check of D6: text layer on all 35 pp. plus OCR of every figure. **No champion, conduit, escalation, "Continuous AI Ethics/Governance Checks" or "Product Management Patterns"** anywhere; 4 of 5 snowball items are not in the reference list. Query 1 (§1–6) was accurate; Query 2 (§7–11) invented the paper's structure, the same failure as D7.
+- **D6 §11 recoded → documented absence.** **Tally 22–24 → 23–25 of 36 (64–69%).** `chapters/ch2/2.6_lens_and_gap.md` ¶2 → v1.2 (only the numbers changed); `chapters/ch2/README.md` dependency and change log updated. Range wording aligned to C7/C8 (as 2.6 and 3.7 have it); Pipeline_State's older "A12, B8, C8" wording marked superseded.
+- `literature/notes/D6_lu2024_responsible_ai_pattern_catalogue.md` rewritten from the PDF (history block; bib key fixed to `lu2024raipatterns`).
+- `planning/ch2_claims_map_2026-09-29.md`: D6 struck from K8 and K9; correction block added. K8 now rests on D7 alone; K9 on A10 + D7. D6 is kept for 2.4 only as a case-by-case approval body (p. 173:10).
+- `planning/ch2_outline_draft_2026-09-29.md`: correction note under the table (table not edited).
+- `planning/s3_section11_spotcheck_prompt.md` — brief to PDF-check the §11 verdicts of the 12 remaining S3 notes (C10, C7, C8, A12, B8 first). Report only; recodes wait for Albert.
+- `planning/ch2_2.5_writing_prompt.md`: status line set to approved (the on-disk copy still said "awaiting").
+- Pipeline_State updated; project mirrors synced.
+
+**Note for the 2.5 review:** 2.5 v1 does not cite D6 and does not state the tally, so it is unaffected.
+
+**Next:** run the S3 spot-check session · review 2.5 v1 · Albert's pilot and consent pack.
