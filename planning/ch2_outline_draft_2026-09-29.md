@@ -29,7 +29,9 @@ rule arrives ─► unclear case ─► FORK ─► ask ─► ruling / intermed
 | 2.6 | **Lens and gap** | Structural / procedural / relational practices as the analytical lens. The gap: §11 tally (22–24 / 35; 36 if B9 confirmed); practitioners studied as carriers (Rakova) not recipients; bypass surveyed (B9) not traced through incidents; BI never the unit of analysis | — | A12, A9*, D1, E2, D7, D4, B9, s3_postcheck | 700 |
 | | | | | **Total** | **6,250** |
 
-\* A9, C10 not yet PDF-verified — verify before relying on them.
+\* A9, C10 not yet PDF-verified — verify before relying on them. *(Both checked since: A9 Sep 30, partial; C10 Oct 1, system-level loop only.)*
+
+**Source correction (Oct 1, 2026, Albert approved; table not edited):** D6 Lu is **not** a source for champions, conduits or escalation (2.4 intermediaries, 2.5 champions); that content is not in the PDF (`planning/d6_pdf_check_2026-10-01.md`). In 2.4 D6 may support only "where rulings come from": an ethics committee that approves projects and sends feedback to the team (p. 173:10). 2.6's tally is now 23–25 of 36.
 
 ## Section-to-protocol check
 

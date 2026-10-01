@@ -9,17 +9,19 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 | 2.2 | — | When practice comes first, and when rules are unclear | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.3 | — | Asking or acting: explanations of bypass | Not started (after Shopee interviews) | — (1,100) | — |
 | 2.4 | — | Rulings and the people in between | Not started (after Shopee interviews) | — (1,000) | — |
-| 2.5 | — | Does anything go up? | **Brief ready** (`planning/ch2_2.5_writing_prompt.md`) — awaiting Albert's approval | — (1,250) | Oct 1, 2026 (brief) |
+| 2.5 | `2.5_does_anything_go_up.md` | Does anything go up? | **Draft v1** — awaiting Albert's review | 1,204 excl. citations / 1,256 incl. (1,250) | Oct 1, 2026 |
 | 2.6 | `2.6_lens_and_gap.md` | What lens does the literature offer, and what does it leave unstudied? | **Draft v1.1** (edit pass E1–E2) — awaiting Albert's review | 669 excl. citations / 687 incl. (700) | Sep 30, 2026 |
-| | | | **Total** | **1,754 / 6,250** (budget revised Sep 30: 25,000-word thesis) | |
+| | | | **Total** | **2,958 / 6,250** (budget revised Sep 30: 25,000-word thesis) | |
 
 ## Dependencies
 
 - **2.3 must raise, as an open question, whether a given use began before any rule existed or continued around one.** 2.6 ¶4 ends: "which is the distinction 2.3 left open". If 2.3 does not raise it, edit 2.6 ¶4.
 - ~~2.6 ¶2 placeholder `Section [3.X]`~~ **Resolved Oct 1, 2026 → Section 3.7** (`chapters/ch3/3.7_literature_review_method.md` ¶2 describes the screening question, verdict vocabulary and why the count is a range). If 3.7 is renumbered, update 2.6 ¶2.
-- **B9 confirmed positive by Albert (Sep 29–30)**, so 2.6's tally stands: 22–24 of 36 governance sources (61–67%). A9 recoded partial (Sep 30) does not change it.
+- **Tally (2.6 ¶2): 23–25 of 36 governance sources (64–69%)** since Oct 1, 2026 — D6 Lu recoded substantive-secondary → documented absence after a PDF check (`planning/d6_pdf_check_2026-10-01.md`; Albert approved). Was 22–24 (61–67%). B9 positive (Sep 29–30) and A9 partial (Sep 30) unchanged. The range = two conceptual audit papers, C7 and C8 (as 3.7 states). **If any further §11 verdict changes (S3 spot-check, `planning/s3_section11_spotcheck_prompt.md`), update 2.6 ¶2 again.**
 - **2.5 brief (Oct 1, 2026):** D6 `lu2024raipatterns` is **not** to be cited for champions or upward feedback (no "champion" in the PDF); 2.5 does not restate the §11 tally or the carrier/recipient sampling argument (both in 2.6).
 - Bib: `abraham2019datagovframework` renders the surname as "Brocke" (particle "vom" not protected). Check with `apa.csl` at build; fix in the bib if needed (e.g. `{vom Brocke}, Jan`).
+- **2.5 (Oct 1, 2026):** ¶3 describes the non-champion study (D4) without restating 2.6's carrier/recipient argument; ¶4 ends with one sentence noting that D7's evidence concerns initiatives participants had taken on. If 2.6 ¶3 changes, re-read 2.5 ¶4 for overlap.
+- **2.5 ¶6** asks whether issue selling (theorised for middle managers) applies to analysts without managerial standing. Chapter 5 should return to it if the data allow.
 
 ## Conventions
 
@@ -34,6 +36,7 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 
 ## Change log
 
+- **v1.2 (Oct 1, 2026)** — 2.6 ¶2 tally 22–24 (61–67%) → 23–25 (64–69%) after the D6 recode. No other text changed.
 - **v1.1 (Sep 30, 2026)** — edit pass from `planning/ch2_edit_prompt_2.1_2.6.md` (review `planning/ch2_review_2026-09-30.md`): E1 narrative citations (both); E2 Papagiannidis 2023/2025 disambiguated (2.6); E3 *rule* widened to written or unwritten (2.1 ¶1); E4 2.1 ¶2 regrouped; E5 Orr & Davis marked as secondary citation in APA form (2.1 ¶2); E6 this README. No quote, page, tally, source or heading changed.
 
 ## 2.1 — sources used
@@ -47,3 +50,9 @@ Not used: A9, C10 (not PDF-verified), B9 (belongs to 2.2/2.3/2.6).
 Carrying (peer-reviewed): `tallon2013informationartifact`, `abraham2019datagovframework`, `papagiannidis2023towardaigov` (PDF-verified Sep 30; §11 recoded partial), `responsibleaigovreview`, `birkstedt2023themesgaps`, `mantymaki2022definingaigov`, `rakova2021practitionerperspectives` (PDF only), `silic2025shadowai`.
 Supplementary (preprint): `stickystories2025` (flagged in text as a preprint accepted at CHI 2026).
 Cross-reference: `Section 3.7` for the §11 screening method (resolved Oct 1, 2026).
+
+## 2.5 — sources used
+
+Carrying (peer-reviewed): `janssen2025responsiblegenai` (p. 44, system-level feedback), `taeihagh2025govgenai` (p. 7, regulation-level), `abraham2019datagovframework` (p. 430, escalation), `responsibleaigovreview` (pp. 11, 14), `asatiani2020blackbox` (pp. 273–275, system-level loop), `silic2025shadowai` (p. 12, one sentence), `rakova2021practitionerperspectives` (pp. 7:11, 7:14; PDF only), `morrison2023voicesilence` (pp. 80, 85, 90, 94, 99), `dutton1993issueselling` (pp. 398, 404, 409, 410, 414, 421).
+Supplementary (preprint): `joshi2025resai` (secs. IV.C, IV.D), `weinberg2025faigmoe` (p. 9), `lee2024questionbank` (p. 14), `stickystories2025` (p. 3; flagged in text as a preprint accepted at CHI 2026), `agenticaiperceptions2025` (pp. 4, 14; flagged as a small preprint survey).
+Not cited: `lu2024raipatterns` (no "champion" in the PDF), B6 p. 33, D5's 9% (figure only), the G2 snowball (Detert & Edmondson; Dutton et al. 2001: not in the bib).
