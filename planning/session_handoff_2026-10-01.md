@@ -173,3 +173,46 @@ and the next-step options in section 6. Then wait for my choice.
   - D7 p. 7:11: "in a few cases", not "organisations";
   - D4 p. 3: "many data scientists".
 - Ch2 drafted: 2.1, 2.5, 2.6 (≈2,965 / 6,250). Next: 2.2–2.4 after the depth-case interviews.
+
+**Update (Oct 1, later): Chapter 1 brief written.**
+- `planning/ch1_writing_session_prompt.md` sets up a two-stage session:
+  - **Stage 1:** outline plus a two-page supervisor sheet (titles, chapter map, questions for the supervisor), then approval;
+  - **Stage 2:** paragraph plan, then draft, per section.
+- Budget 2,000 words. Suggested sections 1.1–1.6; the BI context (~550) sits in 1.1.
+- Source leads pre-checked: E5 and E6 pages; E5's "70% fail" is a secondary claim; B1 has no "lag" wording; the G1 PDF is image-only.
+
+---
+
+## Log — Chapter 1 writing session (Oct 1)
+
+**Done**
+- **Stage 1:** `planning/ch1_outline_draft_2026-10-01.md` — thesis at a glance (working title *Governance Seen from Below…* + 3 candidates), chapter map, Chapter 1 outline with sources, 8 questions for the supervisor. **Approved by Albert.**
+- **Stage 2:** `chapters/ch1/1.1`–`1.6` drafted v1, each from a paragraph plan approved by Albert; `chapters/ch1/README.md` created. **1,977 words excl. citations and markers (target 2,000).** Per section: 535 / 341 / 274 / 324 / 299 / 204.
+- 6 keys, all ✅ peer-reviewed and in the bib. 21 direct quotes matched on printed pages (G1 p. 469 and B9 p. 11 by OCR). No quote shared with Chapter 2. 1 marker: 1.5 `[PENDING: interviews Oct 5–19]`.
+- `chapters/ch2/README.md` dependency added (2.2 refers back to 1.2 for the shadow IT definition; 1.3 restates the tally as a count). `planning/Pipeline_State.md` Chapter drafting row updated (budget paragraph checked present).
+
+**Decisions (Albert, Oct 1)**
+1. Personal motivation stated in 1.1 ¶4 (4–5 years in BI-related roles; ad tech, manufacturing, e-commerce platforms, fintech, supply chain; start-ups to large companies).
+2. 1.5 and 1.6 kept separate.
+3. No market-context sentence on GenAI in BI tools (no verified source).
+4. Shadow IT definition verbatim in 1.2; 2.2 refers back.
+5. 1.3: tally as count only ("28 or 29 of 36"); percentage stays in 2.6. No direct quote in 1.3.
+6. BI practitioner definition verbatim in both 1.4 and 3.2 (repeat kept).
+7. 1.5 cites `ain2019bisuccess` without page as the example of adoption research.
+8. 1.6 point (iii) (lens from the receiving end) kept as an aim.
+
+**Corrections to the brief's source leads:** B9's unauthorised-use evidence is executive-reported (p. 11), not survey self-report; B1 "sensitive information" is p. 4, not p. 3; E5's reporting / analytics distinction is p. 10 and the paper has no "reporting users / analytical users"; A8 p. 607 and D1 p. 14 already quoted in 2.6, not reused.
+
+**Notes:** the Cowork shell *could* mount both folders in this session (device shell), so files were edited in place. Pandoc on Albert's machine is 2.9 without citeproc; the render was not tested. One `git status` was run without `GIT_OPTIONAL_LOCKS=0` (no lock file left).
+
+**Next:** Albert reviews Chapter 1 and takes the supervisor sheet to the meeting; after the pilot, re-check 1.5's incident wording against 3.3; after fieldwork, remove the 1.5 PENDING marker.
+
+**Update (Oct 1, later): Chapter 1 reviewed (orchestration).**
+- All 21 quotes verified; 6 keys in the bib; style clean; no organisation names.
+- Applied: 1.2 v1.1, 1.6 v1.1; outline chapter map updated.
+- **Open (Albert):**
+  - 1.1 ¶4 sector list (anonymity: could map cases to his former employers);
+  - 1.3 ¶1 add a citation for the governance definition (A8 p. 604).
+- Supervisor sheet `planning/ch1_outline_draft_2026-10-01.md`: Q6 (AI use) still reads "planning, drafting support and verification". The Ch3 review recommended stating that sections were drafted from approved plans and then reviewed and verified. Consider wording it that way before the meeting.
+
+**Decided (Albert, Oct 1):** 1.1 v1.1, sector list removed; 1.3 v1.1, Mäntymäki definition cited (pp. 604–605); supervisor-sheet Q6 AI-use wording kept as in the current Chapter 3 version (3.7 unchanged).
