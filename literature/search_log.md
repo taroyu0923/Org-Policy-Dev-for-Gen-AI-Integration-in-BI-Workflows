@@ -12,9 +12,9 @@ Required by amendment A1 (`claude/LitReview_Process_v2.md`). **No reference ente
 |---|---|
 | Date | July 1, 2026 |
 | Method | Web-search compilation (not a structured database query) |
-| Databases | ⚠ **TO RECONSTRUCT** — see Research Plan §2.4 |
-| Query strings | ⚠ **TO RECONSTRUCT** |
-| Hits | 29 sources compiled; 43 bib entries after cluster expansion |
+| Databases | **Not recorded for S1 itself.** Partial reconstruction (Oct 1, 2026): the plan written at the end of S1 (`Literature_Review_and_Research_Method_Plan.md` v1, July 2026, §2.4 "Search Strategy Going Forward") names Google Scholar, ScienceDirect, arXiv, AIS eLibrary and ResearchGate. These are the *intended* sources for further searching; whether S1 used all of them is ⚠ **Albert to confirm** |
+| Query strings | **Not recorded for S1 itself.** Plan §2.4 lists four core strings: `"generative AI" AND governance AND organization` · `"AI policy" AND "business intelligence"` · `algorithmic accountability AND corporate governance` · `responsible AI adoption AND qualitative`; plus backward snowballing from the five 5/5-rated sources and forward citation search on Przegalinska et al. (2025) and Marvi et al. (2025). ⚠ Same caveat: planned strings, not a record of S1 |
+| Hits | 29 sources compiled in six clusters (A 7, B 7, C 6, D 6, E 2, F 1; plan §2.3 "Source Inventory"); 43 bib entries after cluster expansion |
 | Kept | Clusters A–F as originally scoped |
 | Rejected | Not recorded at the time |
 
@@ -143,6 +143,32 @@ All 15 target-list items were resolved via NotebookLM notebook_query (Q1+Q2 prot
 | M11 Eisenhardt & Graebner 2007 | ✅ PDF+venue. **No DOI printed.** NotebookLM's pages were one page early throughout; the (f) sampling quote is reordered in NotebookLM's version (PDF: "so too are cases sampled…"). The "MUST DO / MUST AVOID" framing is NotebookLM's. |
 
 **Result:** 11 of 11 verified and compiled; `TODO-verify` removed from all eleven bib entries. `flanagan1954cit` and `yin2018casestudy` stay NOT OBTAINED. Eisenhardt & Graebner (M11) was added Sep 30 as the multiple-case source alongside M6 (it was "considered, not taken" above, before Yin was lost). No notebooks were created for Flanagan or Yin.
+
+## S5 — Targeted add-reference pass: Chapter 1 BI context and Chapter 2 theory anchors **[RUN Sep 29, 2026; COMPILED Sep 29, 2026]**
+
+*Entry added Oct 1, 2026 (retrospective, from `planning/ch2_targeted_search_2026-09-29.md`, `planning/s5_addref_prompt.md` and `planning/Pipeline_State.md`). The pass was run and compiled on Sep 29 but not logged here at the time.*
+
+| Field | Value |
+|---|---|
+| Date | Sep 29, 2026 |
+| Trigger | Chapter 1 needed BI-context sources; Chapter 2 (loop structure, adopted Sep 29) needed theory anchors for bypass (2.2) and upward voice (2.3); claim K5 needed a check for empirical Shadow AI studies outside the corpus |
+| Method | Targeted web search (not a database query); metadata checked against Crossref (`api.crossref.org/works/<DOI>`), except G3 (DOI from the publisher page; Crossref rate-limited). Exact query strings were not recorded |
+| Candidates listed | 6 targets + 3 candidates seen |
+| Kept | 6 (all PDF-verified and compiled, Sep 29) |
+| Rejected | *Digital shadow AI risk theory (DART)*, Technological Forecasting & Social Change (2026) — not screened (held in reserve if B9 proved thin); practitioner blogs and vendor reports on shadow AI — not academic; IAEME / low-tier "GenAI for BI" papers — venue |
+
+| ID | Bib key | Source | Role | Variant |
+|---|---|---|---|---|
+| B9 | `silic2025shadowai` | Silic, Silic & Kind-Trüller (2025), *Strategic Change*, 10.1002/jsc.2682 | Governance literature; K5 scoop-or-position check (verdict: **position**) | v2.4 full, **with §11** (denominator 35 → 36) |
+| E5 | `ain2019bisuccess` | Ain, Vaia, DeLone & Waheed (2019), *Decision Support Systems* 125, 113113 | Ch.1 BI context | v2.4-T (no §11) |
+| E6 | `gu2024analystsverify` | Gu, Shang, Althoff, Wang & Drucker (2024), CHI '24, 1–22 | Ch.1 BI context | v2.4-T |
+| G1 | `haag2017shadowit` | Haag & Eckhardt (2017), *BISE* 59(6), 469–473 | Ch.2 anchor (shadow IT) | v2.4-T |
+| G2 | `morrison2023voicesilence` | Morrison (2023), *Annual Review of Org. Psych. & Org. Behavior* 10, 79–107 | Ch.2 anchor (voice and silence) | v2.4-T |
+| G3 | `dutton1993issueselling` | Dutton & Ashford (1993), *Academy of Management Review* 18(3), 397–428 | Ch.2 anchor (issue selling) | v2.4-T; no DOI printed in the PDF |
+
+**PDF verification (Sep 29).** Every quote, typology and page checked against the PDF (B9 and G3 by OCR). NotebookLM errors found in all six: a fabricated attribution (B9), wrong proposition number and count (G3), a spliced quote (G2), policy framing not in the paper (E6), altered quotes (G1). B9 is internally inconsistent on its interview count (abstract/introduction ten, body and Table 1 eight; cite eight). `TODO-verify` removed from all six bib entries. New **Cluster G — organisation theory anchors (non-AI)**. Bib total 64.
+
+**§11 tally after S5:** documented absence in 22–24 of 36 governance notes (B9 counted positive; confirmed by Albert Sep 29–30). E5, E6 and G1–G3 are outside the denominator.
 
 ---
 

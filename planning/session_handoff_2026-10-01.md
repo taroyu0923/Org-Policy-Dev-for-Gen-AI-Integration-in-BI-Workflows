@@ -134,3 +134,22 @@ and the next-step options in section 6. Then wait for my choice.
 **Note for the 2.5 review:** 2.5 v1 does not cite D6 and does not state the tally, so it is unaffected.
 
 **Next:** run the S3 spot-check session · review 2.5 v1 · Albert's pilot and consent pack.
+
+---
+
+## Log — orchestration session, Oct 1 (reference clean-up: S3 spot-check, note fixes, S1)
+
+**Done**
+- **S3 §11 spot-check** (12 notes) → `planning/s3_section11_spotcheck_2026-10-01.md`. Report only.
+  - Proposed: C7 → absence, C8 → absence, C10 → partial; A12 contested.
+  - Recount **25–26 of 36**. The "two conceptual audit papers" range no longer holds.
+  - **Decision needed: coding rule R1 (data only; recommended, needs a phase-2 check of the 6 Sep 4 not-absences) or R2 ("names the gap" = partial).** 2.6/3.7 are not edited until then.
+- **Note fixes:** PDF page-check blocks in 14 notes; 8 bib-key headers corrected to match `references.bib`.
+- **S1:** `search_log.md` partially reconstructed from Research Plan §2.4 (planned databases and strings; Albert to confirm).
+- Also seen: the local `planning/s3_postcheck_2026-09-11.md`, `research-design/README.md` and `research-design/recruitment_email.md` differ from git **only in line endings**. Discard with `git checkout --` before committing. The S5 entry in `search_log.md` (Oct 1, Ch3 session) had never been committed; it goes in with this PR.
+
+**Not done (deliberately)**
+- **§12 protocol-craft pass:** NotebookLM-only extraction on I1–I14. Given the D6/D7 lesson, its output would need PDF checks before use. It is most useful when turning pilot findings into protocol v1.0, so run it after the pilot, scoped to the questions the pilot raises.
+- **Cluster memos:** wait until the tally rule and phase 2 are settled. They feed 2.2–2.4, which are written after the depth-case interviews.
+
+**Next:** Albert's rule decision → (R1) phase-2 brief and run → update 2.6 ¶2, 3.7 ¶2, README tally; claims map K6 fix.

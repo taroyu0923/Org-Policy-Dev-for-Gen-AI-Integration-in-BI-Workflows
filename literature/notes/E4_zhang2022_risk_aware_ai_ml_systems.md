@@ -1,6 +1,6 @@
 # [E4] Zhang, Chan, Yan & Bose (2022) — Towards Risk-Aware Artificial Intelligence and Machine Learning Systems: An Overview
 
-**Bib key:** `zhang2022riskawareaiml`
+**Bib key:** `zhang2022riskawareai` *(corrected Oct 1, 2026; was `zhang2022riskawareaiml`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1016/j.dss.2022.113800 as printed. Venue (*Decision Support Systems*) is a genuine BI-family venue per `s3_gapfill_prompt.md`.
 **Cluster:** E — BI / data governance (decision-support venue)
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill

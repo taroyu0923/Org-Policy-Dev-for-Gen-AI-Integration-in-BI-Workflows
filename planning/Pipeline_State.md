@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Oct 1, 2026 — **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
+**Last updated:** Oct 1, 2026 — **S3 §11 spot-check done (recount 25–26 of 36; rule decision R1/R2 pending)**; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -69,6 +69,25 @@ Orchestration session, pdftotext on the staged PDFs, while writing the §2.5 bri
 - **D6 Lu 2024 — RESOLVED Oct 1 (Albert approved).** Full PDF check (`planning/d6_pdf_check_2026-10-01.md`: text layer all 35 pp. + OCR of all figures): no champion, conduit, escalation, "Continuous AI Ethics/Governance Checks" pattern or "Product Management Patterns" section; the note's §3–5, §7–9, §11 came from a NotebookLM Query 2 that invented the paper's structure (Query 1 was accurate). **§11 recoded substantive-secondary → documented absence** (prescriptive only; the only feedback flows down, committee → project team, p. 173:10). **Tally 22–24 → 23–25 of 36 (64–69%)**; 2.6 ¶2 updated (v1.2). Range composition aligned to 2.6/3.7: the two conceptual audit papers **C7 and C8** (the older "A12, B8, C8" wording above is superseded). D6 removed from K8/K9 in the claims map; kept for 2.1 (verified) and, in 2.4, only as a case-by-case approval body (p. 173:10). Note rewritten from the PDF. **Pattern:** D7 and D6 (both S3, Sep 11) had invented Query-2 content → §11 spot-check of the other S3 notes briefed in `planning/s3_section11_spotcheck_prompt.md`.
 - **G2 Morrison:** "lateral voice" does not occur in the PDF; Morrison restricts voice to upward (p. 80). The protocol (§E3a) and codebook attribute "lateral voice" to G2; keep the code, but do not cite Morrison for the term.
 - **Note page errors:** B1 Taeihagh "iteratively responding" p. 7 and "red teaming…" p. 8 (note: p. 6); B5 Weinberg feedback loops pp. 9, 12 (note: p. 8); B8 Janssen "governance should also evolve" p. 44 (note: p. 43). D5 Ackerman's 9% is only in Fig. 7 (text: "least selected", p. 14). B4 "slow, rigid, or absent" not found in the PDF.
+
+---
+
+## S3 §11 spot-check (Oct 1, 2026) — results, ⏳ awaiting Albert's rule decision
+
+Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes were checked against their PDFs (C7 by OCR: its PDF is an image-only browser print-out).
+- **Proposed recodes:** C7 partial → **documented absence** (its one practitioner finding is cited from Vakkuri et al. 2019); C8 → **documented absence** (normative framework, hypothetical worked example); C10 substantive → **partial** (no tally effect). **A12 contested**: executive-reported user data, but on *information* governance (2013), not AI. The other 8 absences are confirmed.
+- **Consequence:** the 2.6/3.7 explanation of the range ("two conceptual audit papers", C7/C8) no longer holds. Recount: **25–26 of 36 (69–72%)** under the verdicts as they now stand.
+- **Rule decision needed:**
+  - **R1** — not-absence only with *data* on staff reception of AI governance (applied to A9, D6, C7, C8). Recommended. Needs a **phase 2** PDF check of the Sep 4 not-absences B4, B6, D4, D5, D1, D2; B4, D1 and D2 are likely absences under R1, giving ~28–29 of 36.
+  - **R2** — "names the gap" counts as partial (the Sep 4 practice). Under R2, A8 and A10 become partial, giving ~23–24 of 36.
+- **2.6 ¶2 and 3.7 ¶2 are not changed** until the rule is decided (and phase 2 is run under R1).
+- **Also found:** claims map K6 should drop C8 (an over-reading); E2 has two quotes not in the PDF (the "research agenda" gap statement does not exist); 8 S3 notes had header bib keys that are not in `references.bib` (fixed Oct 1).
+
+## Note fixes (Oct 1, 2026) — applied
+
+- **PDF page-check blocks** added to 14 notes: A8, A10, A12, B1, B4, B5, B8, C7, C8, C10, D1, D5, E2, G2. Each block gives the printed-page offset, the corrected pages, quotes not in the PDF, and the proposed §11 verdict where one changes.
+- **Bib-key headers corrected** in A8, A9, A10, A12, C9, D7, E3, E4, so that every note's key matches `references.bib`.
+- **`literature/search_log.md` S1:** databases and strings partially reconstructed from Research Plan §2.4. These are the planned sources, not a record of S1; ⚠ Albert to confirm before 3.7's `[FILL]` is replaced.
 
 ---
 

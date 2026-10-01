@@ -1,6 +1,6 @@
 # [A9] Papagiannidis, Enholm, Dremel, Mikalef & Krogstie (2023) — Toward AI Governance: Identifying Best Practices and Potential Barriers and Outcomes
 
-**Bib key:** `papagiannidis2023towardaig`
+**Bib key:** `papagiannidis2023towardaigov` *(corrected Oct 1, 2026; was `papagiannidis2023towardaig`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1007/s10796-022-10251-y as printed. Distinct from `responsibleaigovreview` (Papagiannidis, Mikalef & Conboy 2025, JSIS) already in the corpus — different paper, different co-authors, different venue; no key collision.
 **Cluster:** A — Systematic reviews / empirical AI governance studies
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill

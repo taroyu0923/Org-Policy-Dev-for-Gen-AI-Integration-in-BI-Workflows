@@ -5,6 +5,11 @@
 **Cluster:** C — Corporate governance / algorithmic accountability
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: FAT* '20 pp. 33–44; printed ≈ PDF page + 32 (check by eye; columns cross pages). The note's pages are article-relative. "box-ticking" p. 36. The worked example is **hypothetical** ("template model card", "hypothetical datasheet"); interviews/ethnography are prescribed audit steps. ⚠ §11(e) "practitioners default to optimizing isolated numerical metrics" over-reads a prescriptive remark — do not use (claims map K6 to be corrected). §11: proposed **documented absence**.
+
 ---
 
 ## 1. WHY

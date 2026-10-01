@@ -5,6 +5,11 @@
 **Cluster:** E — BI / data governance
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: printed = PDF page + 423. Training/communication **p. 430** (note: 431) · escalation process "enables stakeholders to give feedback" p. 430. ⚠ **Not in the PDF — do not cite:** "the actual behavior of individuals" (§7/§11) and "how individuals actually engage with data governance mechanisms in practice" (§11(e)). The paper makes no such research-agenda call. §11 documented absence confirmed.
+
 ---
 
 ## 1. WHY

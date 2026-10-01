@@ -1,9 +1,14 @@
 # [A8] Mäntymäki, Minkkinen, Birkstedt & Viljanen (2022) — Defining Organizational AI Governance
 
-**Bib key:** `mantymaki2022govdef`
+**Bib key:** `mantymaki2022definingaigov` *(corrected Oct 1, 2026; was `mantymaki2022govdef`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1007/s43681-022-00143-x cross-checked as printed on paper. §6 AUTHORS/YEAR/VENUE output is a claim per pipeline policy, not independently re-verified against publisher record this pass.
 **Cluster:** A — Systematic reviews / conceptual syntheses of AI governance
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
+
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: printed = PDF page + 602. Definition ("system of rules, practices, processes…") **p. 604** (note: 605) · "corporate governance sets the principles" **p. 605** (606) · "in-depth interviews and ethnographic studies" **p. 607** (608). §11 documented absence confirmed.
 
 ---
 

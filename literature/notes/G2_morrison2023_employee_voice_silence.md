@@ -6,6 +6,11 @@
 **Note version:** v2.4-T (compiled Sep 29, 2026). **Override recorded:** Query 2 ran §7–§10 then §13 THESIS ANCHOR. **§11 and §12 were NOT run**; outside the §11 denominator.
 **Provenance:** NotebookLM notebook `7ba0ad29-a2c3-4844-b4ce-95236df5df65` ("[G2] Morrison2023 — Employee Voice and Silence"). Source title as printed "Employee Voice and Silence: Taking Stock a Decade Later" (Elizabeth Wolfe Morrison; *Annu. Rev. Organ. Psychol. Organ. Behav.* 10:79–107). Harvested Sep 29, 2026; raw answers and verification log in `literature/_raw/G2.md`.
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> ⚠ The term **"lateral voice" does not occur** in the PDF; Morrison restricts voice to upward voice (p. 80). The protocol (E3a) and codebook use "lateral voice" as this study's own code; do not attribute the term to Morrison.
+
 ---
 
 ## 1. WHY

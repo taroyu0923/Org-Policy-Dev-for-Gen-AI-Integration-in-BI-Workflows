@@ -1,9 +1,14 @@
 # [A12] Tallon, Ramirez & Short (2013) — The Information Artifact in IT Governance: Toward a Theory of Information Governance
 
-**Bib key:** `tallon2013infoartifact`
+**Bib key:** `tallon2013informationartifact` *(corrected Oct 1, 2026; was `tallon2013infoartifact`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.2753/MIS0742-1222300306 as printed. Flagged in `s3_gapfill_prompt.md` as "theoretical lineage of the thesis spine" — pairs with the Papagiannidis/Mikalef/Conboy (2025) structural/procedural/relational spine already adopted (see Pipeline_State "Design decisions in force").
 **Cluster:** A — Theoretical lineage / IT-information governance (pre-AI)
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
+
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: printed = PDF page + 139. Verified: sample of IT executives (p. 142); "pack rat" (pp. 156, 160); Johns Hopkins (pp. 160, 162, 166); user education so users do not "trivialize, circumvent, or ignore the rules" (p. 165); over-governance "motivating users to work around policies" and Intel CISO quote (p. 167); "our interviews involved IT executives rather than users" (p. 168). ⚠ The paper does **not** say "shadow IT" (the note's gloss). §11: second-hand, executive-reported user data about **information** governance (pre-GenAI) — contested between absence and partial; Albert to decide.
 
 ---
 

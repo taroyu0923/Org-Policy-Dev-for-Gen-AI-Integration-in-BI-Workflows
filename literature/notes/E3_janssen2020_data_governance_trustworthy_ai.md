@@ -1,6 +1,6 @@
 # [E3] Janssen, Brous, Estevez, Barbosa & Janowski (2020) — Data Governance: Organizing Data for Trustworthy Artificial Intelligence
 
-**Bib key:** `janssen2020datagovtrustworthy`
+**Bib key:** `janssen2020trustworthyai` *(corrected Oct 1, 2026; was `janssen2020datagovtrustworthy`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1016/j.giq.2020.101493 as printed. Note: shares surname "Janssen" with B8 (Marijn Janssen 2025) but is a distinct 5-author paper — no bib-key collision (`janssen2020datagovtrustworthy` vs. `janssen2025responsiblegenai`).
 **Cluster:** E — BI / data governance
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill

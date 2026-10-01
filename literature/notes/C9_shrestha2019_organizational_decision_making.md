@@ -1,6 +1,6 @@
 # [C9] Shrestha, Ben-Menahem & von Krogh (2019) — Organizational Decision-Making Structures in the Age of Artificial Intelligence
 
-**Bib key:** `shrestha2019orgdecision`
+**Bib key:** `shrestha2019decisionmaking` *(corrected Oct 1, 2026; was `shrestha2019orgdecision`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1177/0008125619862257 as printed.
 **Cluster:** C — Corporate governance / algorithmic accountability
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill

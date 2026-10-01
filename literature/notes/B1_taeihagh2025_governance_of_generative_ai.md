@@ -2,6 +2,11 @@
 
 **Bib key:** `taeihagh2025govgenai` | **Verification:** verified-doi (10.1093/polsoc/puaf001) | **Cluster:** B | **Priority read** | **Note version:** v2
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Printed = PDF page. "iteratively responding to new risks" **p. 7** (note: p. 6) · "red teaming, impact assessment, and internal auditing need to become routine" **p. 8** (note: p. 6).
+
 ---
 
 ## 1. WHY

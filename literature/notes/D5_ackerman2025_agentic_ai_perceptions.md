@@ -5,6 +5,11 @@
 **Cluster:** D — Responsible AI Adoption & Implementation
 **Note version:** v2.2 (compiled Sep 2, 2026)
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Printed = PDF page. "Stakeholder Engagement Processes" was "the least selected option" and least discussed (p. 14). ⚠ The **9%** appears only in Fig. 7 — check the figure by eye or write "least selected".
+
 ---
 
 ## 1. WHY

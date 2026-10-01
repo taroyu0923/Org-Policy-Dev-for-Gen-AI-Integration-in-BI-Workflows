@@ -2,6 +2,11 @@
 
 **Bib key:** `joshi2025resai` | **Verification:** verified-arxiv (arXiv:2504.17044); IEEE ISTAS 2025 | **Cluster:** B | **Priority read** | **Note version:** v2
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> No printed page numbers — cite by section. Found: "Bottom-Up" (sec. IV.C), "Continuous Feedback" (IV.C), "report concerns or initiate changes themselves" (sec. **IV.D**, just before IV.E). ⚠ **"slow, rigid, or absent" is not in the PDF** (§11(c)) — do not quote. §11 "substantive" is not PDF-checked; the note itself says the attitudes are the paper's assertions, not data (phase-2 candidate).
+
 ---
 
 ## 1. WHY

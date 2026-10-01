@@ -1,9 +1,14 @@
 # [A10] Birkstedt, Minkkinen, Tandon & Mäntymäki (2023) — AI Governance: Themes, Knowledge Gaps and Future Agendas
 
-**Bib key:** `birkstedt2023aigovthemes`
+**Bib key:** `birkstedt2023themesgaps` *(corrected Oct 1, 2026; was `birkstedt2023aigovthemes`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1108/INTR-01-2022-0042 as printed. Query 2 was initially missed in the first S3 gap-fill pass and was re-run in the same conversation before compile (query_id `c62784ef1071`, conv `8500b81a-dfc9-4f9d-b668-6b7be49a79fb`) — same-chat continuity confirmed.
 **Cluster:** A — Systematic reviews of AI governance
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
+
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: printed = PDF page + 132. Orr & Davis / "legislation, organizational norms" **p. 147** (note: 144/145) · "effectiveness is uncertain" **p. 153** (152) · "there is little discussion of their roles in AIG" (analytics translators) **p. 156** (155) · "how individuals enact AIG practices" **p. 158** (157) · "checkbox ethics" **p. 160** (159) · principles-to-practices gap **pp. 135–136** (134). §11 documented absence confirmed under the data rule (it names the gap; under the Sep 4 "names the gap = partial" rule it would be partial).
 
 ---
 
