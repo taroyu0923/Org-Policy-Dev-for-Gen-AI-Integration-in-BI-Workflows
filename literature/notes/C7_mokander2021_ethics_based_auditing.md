@@ -55,6 +55,8 @@ Not separately itemized in the harvested excerpt; the constraint typology (conce
 Not explicitly addressed in the harvested content; no "business intelligence," "BI," or "data warehousing" terminology confirmed present.
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **documented absence** (was partial). The developer finding is cited from Vakkuri et al. (2019).
+
 Conceptual review with one directly relevant secondhand empirical data point. (a) Policy reaches developers as "ethics important in principle" but experienced as impractical/distant from daily work (Sec. Intro, p.3) — this is the closest thing to a direct practitioner-attitude quote in this source. (b) The principle-practice distance itself evidences the gap. (c) Attitude: practitioners endorse ethics abstractly but view application as impractical (Sec. Intro, p.3) — automation-bias/agile-friction constructs relevant but no further direct practitioner quotes. (d) EBA's "Driving re-design" criterion proposes a feedback channel (Sec. Connecting the Dots, p.12) but this is prescriptive, not observed. (e) Not addressed. On balance: no direct fieldwork of its own, but one genuine secondhand practitioner-attitude data point — treated as a documented-absence-leaning source for the working-tier tally given the lack of original empirical practitioner data.
 
 ## Albert's Questions

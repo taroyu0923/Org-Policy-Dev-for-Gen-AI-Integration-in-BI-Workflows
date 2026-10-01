@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Oct 1, 2026 — **S3 §11 spot-check done (recount 25–26 of 36; rule decision R1/R2 pending)**; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
+**Last updated:** Oct 1, 2026 — **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -72,7 +72,17 @@ Orchestration session, pdftotext on the staged PDFs, while writing the §2.5 bri
 
 ---
 
-## S3 §11 spot-check (Oct 1, 2026) — results, ⏳ awaiting Albert's rule decision
+## §11 tally — FINAL under rule R1 (Oct 1, 2026, Albert approved)
+
+**28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive AI governance.
+- Not-absence (7): A9, B6, B9, C10, D4, D5, D7.
+- Range: A12 (information governance, executive-reported).
+- Every verdict was PDF-checked: S3 notes line by line; Sep 4 batch by method-signal scan, with the six not-absences read in full.
+- Recodes: B4, D1, D2, C7, C8, D6 → absence; C10 → partial.
+- Applied to 2.6 ¶2 (v1.3), 3.7 ¶2, READMEs and notes.
+- **This supersedes every earlier figure in this file (14/20, 22–24, 23–25).**
+
+## S3 §11 spot-check (Oct 1, 2026) — results (decision taken: R1, see above)
 
 Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes were checked against their PDFs (C7 by OCR: its PDF is an image-only browser print-out).
 - **Proposed recodes:** C7 partial → **documented absence** (its one practitioner finding is cited from Vakkuri et al. 2019); C8 → **documented absence** (normative framework, hypothetical worked example); C10 substantive → **partial** (no tally effect). **A12 contested**: executive-reported user data, but on *information* governance (2013), not AI. The other 8 absences are confirmed.

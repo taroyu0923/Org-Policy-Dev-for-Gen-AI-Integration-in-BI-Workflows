@@ -70,6 +70,8 @@ Lee Ackerman. 17 April 2025. MA AI and Societies, Media University of Applied Sc
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **partial / not-absence** confirmed. Survey of 44 professionals (developers, consultants, leaders) on their organisations' RAI frameworks (pp. 6, 14). Small network sample.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `9b34f0ad-89f8-4950-8362-c1693b9db6c6` ("[D5] Ackerman2025 — Perceptions of Agentic AI"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Substantive.** Survey of 44 industry professionals (technical/analytical roles included) on agentic-AI governance perceptions.

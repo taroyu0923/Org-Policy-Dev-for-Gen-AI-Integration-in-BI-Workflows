@@ -153,3 +153,10 @@ and the next-step options in section 6. Then wait for my choice.
 - **Cluster memos:** wait until the tally rule and phase 2 are settled. They feed 2.2–2.4, which are written after the depth-case interviews.
 
 **Next:** Albert's rule decision → (R1) phase-2 brief and run → update 2.6 ¶2, 3.7 ¶2, README tally; claims map K6 fix.
+
+**Update (Oct 1, later): rule R1 chosen and applied.**
+- Phase 2: B4, D1, D2 → absence; B6, D4, D5 confirmed not-absence; the 14 Sep 4 absences confirmed by method-signal scan.
+- **Tally 28–29 of 36 (78–81%)**; the range is A12.
+- Edited: 2.6 ¶2 v1.3, 3.7 ¶2, READMEs, 10 notes (R1 verdict lines), claims map K6, Pipeline_State.
+- Log: `planning/s3_section11_spotcheck_2026-10-01.md` §6–7.
+- **Next:** review 2.5 v1 · pilot and consent pack (by Oct 5) · confirm the S1 reconstruction · §12 after the pilot · cluster memos.

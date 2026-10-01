@@ -56,6 +56,8 @@ Contains **actual reusable assessment questions** (not just constructs):
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **partial / not-absence** confirmed. Project teams' feedback on the question bank (pp. 14, 33): reception of a governance instrument, project level.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `8372f623-a93c-4a10-81ad-90dd28af73af` ("[B6] Lee2024 — Responsible AI Question Bank"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Substantive.** This source reports an actual empirical case study (8 scientific research projects, PR1–PR8; two rounds of 1.5-hour structured interviews, 2023) using the RAI Question Bank as both instrument and governance-translation tool — the richest working-tier material found in Clusters A/B.

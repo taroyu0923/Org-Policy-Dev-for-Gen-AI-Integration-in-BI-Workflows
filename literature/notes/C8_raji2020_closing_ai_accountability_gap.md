@@ -62,6 +62,8 @@ Normative design proposal, not empirical, but rich instruments/probes:
 "Business intelligence"/"BI"/"data warehousing"/"analytics" as an enterprise domain all absent. Decision-support present in general terms: "...in addition to providing decision support to design mitigations..." (Sec.1, p.1); one reference title mentions "decision making" (References p.11).
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **documented absence**. Normative framework with a hypothetical worked example.
+
 Normative framework, no empirical field data, but substantive conceptual coverage. (a) Policy reaches technical teams via structured engineering artifacts — PRDs, Model Cards, Datasheets, Design Checklists (Sec.4.2 p.7; Sec.4.4 pp.8-9); AI principles are criticized as "vague and providing little to no means of accountability" (Sec.2.2, pp.2-3). (b) Gaps: designer/user mental-model disconnects (Sec.4.6.1, p.10); bottom-up decentralized local decisions interacting to cause system-level failures (Sec.4.3.2, p.8). (c) Attitudes: explicit box-ticking risk named (Sec.3.1.1, p.4); audit skepticism/dismissal risk (Sec.2.3, p.3); no empirical data on workarounds/shadow use. (d) Engineering teams co-develop mitigation plans and participate in ethnographic interviews within the proposed framework (Sec.4.6, p.9; Sec.4.3.2, p.8) — but no empirical evidence these channels exist in current practice. (e) Practitioners default to optimizing isolated numerical metrics, obscuring fairness/social risk when guidance is silent (Sec.4.3.2, p.8); auditors retroactively co-construct missing documentation with engineers (Sec.3.4, p.6).
 
 ## Albert's Questions

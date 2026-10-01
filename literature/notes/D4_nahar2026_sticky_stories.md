@@ -62,6 +62,8 @@ Nadia Nahar, Chenyang Yang, Yanxin Chen, Wesley Hanwen Deng, Ken Holstein, Motah
 
 
 ## 11. WORKING-TIER RECEPTION
+> **§11 verdict under coding rule R1 (Oct 1, 2026, Albert approved; PDF-checked, `planning/s3_section11_spotcheck_2026-10-01.md`):** **substantive** confirmed. Field study of non-champions (Phase I) and user study.
+
 > *Harvested 2026-09-04 via MCP `notebook_query` to notebook `c1a59eb5-9232-49fe-82b8-d64267e38bf3` ("[D4] Nahar2025 — Sticky Stories for RAI Non-Champions"). Query: §11 as specified in `planning/section11_harvest_prompt.md`. ⚠ MCP queries do not persist to NotebookLM chat history — this note is the sole record of the exchange.*
 
 **Substantive — the richest working-tier evidence in the corpus.** Field study combining shadowing, baseline testing, and a two-month follow-up survey; directly designed around the reception question this pass targets.
