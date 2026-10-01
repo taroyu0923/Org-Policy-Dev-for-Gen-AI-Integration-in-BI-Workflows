@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Oct 1, 2026 — **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
+**Last updated:** Oct 1, 2026 — **Chapter 1 drafted (v1, 1,977 words) + supervisor sheet**; **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -18,7 +18,7 @@
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
 | Interview design | Protocol **v0.98** (+C1a, D2a, E3a); sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
 | Ethics | Supervisor confirmed no ethical review required (Sep 11 log D7); **`ethics_determination_note.md` §5 (date, evidence) deferred to the supervisor meeting**. Consent pack (privacy notice v0.9, info sheet + consent form v0.98) to be sent by Albert before Oct 5 |
-| Chapter drafting | **Ch2:** 2.1 v1.1 (1,085), 2.6 v1.1 (669) drafted; **2.5 draft v1 (1,204 excl. citations), awaiting Albert's review**; 2.2–2.4 after the Shopee interviews. **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 + Table 3.1); 3.3 after the pilot. See `chapters/ch2/README.md`, `chapters/ch3/README.md` |
+| Chapter drafting | **Ch1 (Oct 1):** all six sections drafted v1 (1,977 excl. citations / 2,000), outline + supervisor sheet `planning/ch1_outline_draft_2026-10-01.md` approved; 1 PENDING marker. **Ch2:** 2.1 v1.1 (1,085), 2.6 v1.3 (669) drafted; 2.5 v1.1 (1,211 excl. citations), reviewed by Albert; 2.2–2.4 after the Shopee interviews. **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 + Table 3.1); 3.3 after the pilot. See `chapters/ch1/README.md`, `chapters/ch2/README.md`, `chapters/ch3/README.md` |
 
 ---
 
