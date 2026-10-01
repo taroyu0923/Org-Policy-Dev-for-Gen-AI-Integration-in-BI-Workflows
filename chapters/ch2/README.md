@@ -15,6 +15,8 @@ Writing order: 2.1 → 2.6 → 2.5 → (after the Shopee interviews) 2.2 → 2.3
 
 ## Dependencies
 
+- **Chapter 1 (Oct 1, 2026):** 1.2 quotes the shadow IT definition verbatim (`haag2017shadowit`, p. 469). **2.2 refers back to Section 1.2 for it and does not quote it again** (Albert). 1.1 carries the BI-work context (E5, E6); 2.2–2.4 should not restate it. 1.3 ¶2 restates the 2.6 tally as a count ("28 or 29 of 36"); if the tally changes, update 1.3 too.
+
 - **2.3 must raise, as an open question, whether a given use began before any rule existed or continued around one.** 2.6 ¶4 ends: "which is the distinction 2.3 left open". If 2.3 does not raise it, edit 2.6 ¶4.
 - ~~2.6 ¶2 placeholder `Section [3.X]`~~ **Resolved Oct 1, 2026 → Section 3.7** (`chapters/ch3/3.7_literature_review_method.md` ¶2 describes the screening question, verdict vocabulary and why the count is a range). If 3.7 is renumbered, update 2.6 ¶2.
 - **Tally (2.6 ¶2): 28–29 of 36 governance sources (78–81%)** since Oct 1, 2026, under coding rule R1 after the S3 spot-check and phase 2 (`planning/s3_section11_spotcheck_2026-10-01.md`); range = A12. Before that: 23–25 of 36 — D6 Lu recoded substantive-secondary → documented absence after a PDF check (`planning/d6_pdf_check_2026-10-01.md`; Albert approved). Was 22–24 (61–67%). B9 positive (Sep 29–30) and A9 partial (Sep 30) unchanged. The range = two conceptual audit papers, C7 and C8 (as 3.7 states). **If any further §11 verdict changes (S3 spot-check, `planning/s3_section11_spotcheck_prompt.md`), update 2.6 ¶2 again.**

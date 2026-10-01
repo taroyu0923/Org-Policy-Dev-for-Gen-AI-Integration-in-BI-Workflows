@@ -1,5 +1,5 @@
 # Organizational Policy Development for Generative AI Integration in BI Workflows
-**A Qualitative Analysis of Governance Framework Evolution** *(working title; to be revised to match RQ v2.1)*
+**A Qualitative Analysis of Governance Framework Evolution** *(registered title; proposed replacement for discussion with the supervisor: **Governance Seen from Below: How BI Practitioners Encounter, Interpret and Act on Their Organisations' Rules for Generative AI**; see `planning/ch1_outline_draft_2026-10-01.md`)*
 
 MSc Business Analytics thesis — Liu Yu-Shu (Albert), Aalto University.
 
@@ -31,6 +31,7 @@ literature/
 research-design/     Protocol, wording card, consent pack, privacy notice, sampling frame,
                      ethics note, pilot debrief template
 chapters/            Thesis chapters in Markdown (pandoc [@key]); LaTeX in November
+  ch1/               Introduction — README tracks status, word counts, sources, dependencies
   ch2/               Literature review — README tracks status, word counts, sources
   ch3/               Method — README tracks status and open [FILL]/[PENDING] markers
 analysis/            Codebook v0 and templates only; filled templates live on Aalto OneDrive
@@ -87,26 +88,28 @@ Claude outputs/      PR descriptions and session outputs
 **Word budget:** 25,000 words. Intro 2,000 · literature review 6,250 · method 3,000 (allowed to run to ~3,350) · findings 8,000 · discussion 4,250 · conclusion 1,500.
 
 **Chapters**
+- [x] **Ch1 drafted and reviewed:** 1.1–1.6, ≈1,980 of 2,000 words (Oct 1); 21/21 quotes PDF-checked. Supervisor sheet: `planning/ch1_outline_draft_2026-10-01.md`
 - [x] **Ch2:** outline v2 adopted (a loop structure following how a rule is expected to travel). Claims map K1–K11.
-- [x] **Ch2 drafted:** 2.1 v1.1 (1,085 words) · 2.6 v1.2 (669) · **2.5 v1 (1,204), awaiting review**
+- [x] **Ch2 drafted:** 2.1 v1.1 (1,085 words) · 2.5 v1.1 (1,211, reviewed; 32/32 quotes PDF-checked) · 2.6 v1.3 (669) — ≈2,965 of 6,250
 - [ ] **Ch2 remaining:** 2.2–2.4, after the depth-case interviews
 - [x] **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 words + Table 3.1)
 - [ ] **Ch3 remaining:** 3.3, after the pilot. `[FILL]` / `[PENDING]` markers to be completed after fieldwork.
-- [ ] Ch1 outline (it now holds the BI-work context) · Ch4–Ch6 after analysis · title revision
+- [ ] Ch4–Ch6 after analysis · title revision (supervisor)
 
 **Literature**
 - [x] **Corpus:** 36 governance notes (Clusters A–E plus B9) · theory anchors G1–G3 · methods M1–M11 (PDF-checked) · interview design I1–I14 (verified)
-- [x] **Working-tier screening (§11):** **28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive governance.
+- [x] **Working-tier screening (§11):** **28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive AI governance.
   - Updated Oct 1: every verdict PDF-checked under coding rule R1 (data on staff reception of AI governance only); `planning/s3_section11_spotcheck_2026-10-01.md`.
 - [x] **§11 verdicts PDF-checked (S3 + phase 2), rule R1** — Oct 1
-- [ ] **Note page fixes:** B1, B5, B8 and others logged in the handoffs
-- [ ] §12 protocol-craft pass on I1–I14 · S1 search reconstruction · cluster memos
+- [x] **Note fixes (Oct 1):** PDF page-check blocks in 14 notes; 8 bib-key headers corrected; C7 publisher PDF in place
+- [x] **S1 search** partly reconstructed from the Research Plan §2.4 (planned sources; to confirm)
+- [ ] §12 protocol-craft pass on I1–I14 (after the pilot) · cluster memos
 
 **Design and fieldwork**
 - [x] RQ v2.1, BI practitioner definition, evolution threshold (Sep 29) · protocol v0.98 · codebook v0 · privacy notice v0.9
 - [ ] **Consent pack** sent to all participants, by Oct 5
 - [ ] **Pilot** (Mandarin, breadth participant) → protocol v1.0
-- [ ] Ethics note §5 and AI-use rule for 3.7: supervisor meeting
+- [ ] **Supervisor meeting:** ethics note §5, AI-use rule for 3.7, page count, title, Ch3 length, coding rule R1 (questions in `planning/ch1_outline_draft_2026-10-01.md` §4)
 - [ ] **Interviews Oct 5–19:** familiarisation memo within 48 hours of each interview
 - [ ] **Analysis** ~Nov 7 · **full draft** end of November · **hard deadline** Dec 15
 
