@@ -5,6 +5,11 @@
 **Cluster:** C — Corporate governance / algorithmic accountability
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> ⚠ The PDF on file is an **image-only browser print-out** ("PDF.js viewer", 31 pp.; article pages printed as "Page N of 30"); OCR-checked. Replace with the publisher PDF (open access, DOI 10.1007/s11948-021-00319-4) before quoting pages. The "impractical construct" developer finding (PDF p. 3) is **cited from Vakkuri et al. (2019)**, not C7's own data. "Driving re-design" is criterion (7) of seven (PDF p. 16). §11: proposed **documented absence** (no data of its own).
+
 ---
 
 ## 1. WHY

@@ -1,6 +1,6 @@
 # [D7] Rakova, Yang, Cramer & Chowdhury (2021) — Where Responsible AI Meets Reality: Practitioner Perspectives on Enablers for Shifting Organizational Practices
 
-**Bib key:** `rakova2021whereresponsibleai`
+**Bib key:** `rakova2021practitionerperspectives` *(corrected Oct 1, 2026; was `rakova2021whereresponsibleai`, not a key in references.bib)*
 **Verification status:** Title/authors confirmed from notebook title page (Sep 11, 2026); DOI 10.1145/3449081 as printed and independently confirmed at time of source selection (arXiv:2006.12358, per `s3_gapfill_prompt.md`).
 **Cluster:** D — Responsible AI adoption / practitioner-perspectives (empirical)
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill. **Processed and reported to Albert first**, per standing instruction, as the closest published study to the reframed working-tier design.

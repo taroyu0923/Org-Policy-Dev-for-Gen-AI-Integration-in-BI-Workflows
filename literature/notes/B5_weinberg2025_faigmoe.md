@@ -3,6 +3,11 @@
 **Bib key:** `weinberg2025faigmoe` | **Verification:** verified-arxiv (arXiv:2510.19997) | **Cluster:** B | **Priority read** | **Note version:** v2
 **Quality caution:** conceptual/perspective preprint; expert validation *proposed*, not executed — cite as conceptual only.
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Printed = PDF page. "feedback loops and iteration mechanisms" **pp. 9, 12** (note: p. 8) · "Governance First" / frameworks "established before widespread deployment" **p. 10** (note: p. 9).
+
 ---
 
 ## 1. WHY

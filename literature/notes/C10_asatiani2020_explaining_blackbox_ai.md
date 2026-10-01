@@ -5,6 +5,11 @@
 **Cluster:** C — Corporate governance / algorithmic accountability (public-sector case)
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: *MISQE* 19(4); printed = PDF page + 258. The note's pages are article-relative — use journal pages: caseworker "David", handover "package of management consultancy training…" **p. 266** · "control tower" / "mute a model or change the threshold" (team leader) **p. 273** · Recommendation 4, "the difficult part has been to get the dialogue with the case workers" **p. 274** · review intervals "collecting feedback from application users and from data scientists" **p. 275**. "No workarounds" is not a located statement. §11: proposed **partial** (first-hand but thin; about controls on an in-house AI application) — not-absence either way.
+
 ---
 
 ## 1. WHY

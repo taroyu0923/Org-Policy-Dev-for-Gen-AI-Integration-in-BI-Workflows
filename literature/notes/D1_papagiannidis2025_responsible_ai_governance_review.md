@@ -5,6 +5,11 @@
 **Cluster:** D — Responsible AI Adoption & Implementation
 **Note version:** v2.2 (compiled Sep 2, 2026)
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Printed = PDF page. "the role of the individual … largely overlooked" **p. 14** (note: p. 13) · "lack of research … vertical decision-making" p. 11 · "raise questions or concerns" p. 14 · "continuous state of flux" p. 7.
+
 ---
 
 ## 1. WHY

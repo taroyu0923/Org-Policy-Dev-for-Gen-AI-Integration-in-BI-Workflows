@@ -5,6 +5,11 @@
 **Cluster:** B — GenAI-specific governance
 **Note version:** v2.4 (compiled Sep 11, 2026) — S3 gap-fill
 
+
+> **PDF page check (Oct 1, 2026).** Checked against the PDF in `D:\Master\Thesis\Thesis Content`; printed pages. These override page numbers and quotes below. Log: `planning/s3_section11_spotcheck_2026-10-01.md` (or the session log named). §11 verdict changes, if any, wait for Albert's decision on the coding rule.
+>
+> Offset: printed = PDF page + 37 (the note is one page low throughout). "Bottom-up processes can result in unintended…" **p. 39** (note: 38) · "influencing the behavior of individual agents" **p. 40** (39) · "feedback loops" pp. 42, 44 · "governance should also evolve" **p. 44** (43). §11 documented absence confirmed.
+
 ---
 
 ## 1. WHY
