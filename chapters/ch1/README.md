@@ -82,3 +82,17 @@ As `chapters/ch2/README.md`: pandoc keys from `literature/references.bib`; narra
 - **1.2 v1 (Oct 1, 2026)** — drafted from the approved plan; shadow IT definition verbatim (2.2 refers back).
 
 - **1.1 v1 (Oct 1, 2026)** — drafted from the approved plan; two sentences added after the first count (460 → 535) to reach the budget, both from the same sources (E5 p. 10; E6 p. 1).
+
+## Style pass (Oct 1, 2026)
+
+All six sections restyled to Albert's voice (`planning/writing_style_albert.md`, approved Oct 1): 1.1 v1.2 (sample, approved), 1.2–1.5 v1.2, 1.6 v1.2. First-person stance ("I argue", "In my view", "I suggest") once per section; explicit connectors; semicolon chains split; aphoristic closers replaced by plain summaries.
+- **Checks per file against the pre-pass version:** direct quotes identical (21/21), citation keys and key–page pairs identical, markers identical, 0 em dashes. RQ v2.1 and the BI practitioner definition unchanged (definition still identical in 1.4 ¶4 and 3.2 ¶1).
+- **Words excl. citations and markers (before → after):** 1.1 528 → 547 · 1.2 338 → 356 · 1.3 275 → 301 · 1.4 324 → ~330 · 1.5 299 → 319 · 1.6 206 → ~219. **Chapter ≈ 2,072 (budget 2,000; ceiling 2,200).** These counts supersede the Status table.
+
+## Sensemaking lens (Oct 2, 2026)
+
+E6 of `planning/sensemaking_edit_prompt.md`; plan approved by Albert Oct 2.
+- **1.5 v1.3:** ¶1 one sentence after the typology: sensemaking as a second, sensitising lens, paraphrase of the definition `[@weick2005organizing, p. 409]` (no direct quote). 319 → ≈ 346 words.
+- **1.6 v1.3:** ¶1 point 3 now reads "to read governance from the receiving end through two lenses, the structural, procedural and relational typology and sensemaking". Still an aim; no citation. 219 → ≈ 225 words.
+- **Chapter ≈ 2,105** (ceiling 2,200). Keys cited: 8 (adds `weick2005organizing`, ✅). Direct quotes unchanged (21). 0 em dashes.
+- Dependency: 1.5 ¶1 and 1.6 point 3 now name sensemaking; if 2.6 ¶1 drops the second lens, revert both.

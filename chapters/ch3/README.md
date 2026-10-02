@@ -83,3 +83,17 @@ Running total drafted: 2,607 prose words + Table 3.1 (88) of 3,000 (3.1, 3.2, 3.
 3. 3.6 ¶3: `[PENDING: deletion]` added next to the `[FILL]` — applied.
 4. Length: Chapter 3 may run to ~3,350 (over the 3,300 ceiling); **Albert accepts, to be offset by trimming the findings and discussion chapters**. 3.3 keeps its 650 target.
 5. 3.5 ¶4: marker now reminds to write the number in words at sentence start — applied.
+
+## Style pass (Oct 1, 2026)
+
+3.1, 3.2, 3.4–3.6 v1.1 and 3.7 v1.2 restyled to Albert's voice (`planning/writing_style_albert.md`): connectors, signposting (First / Second / Finally), semicolon chains split. "I" kept for researcher decisions only; no "I argue" in Chapter 3. Table 3.1 unchanged.
+- **Checks:** direct quotes identical (20 in total), key–page pairs identical, all PENDING / FILL / CHECK markers identical, BI practitioner definition identical to 1.4 ¶4. 3.5 keeps its one em dash inside the `[FILL]` marker.
+- **Prose words (before → after):** 3.1 440 → 466 · 3.2 448 → 459 · 3.4 708 → 737 · 3.5 437 → 441 · 3.6 311 → 317 · 3.7 298 → 319. **Running total ≈ 2,739 + Table 3.1**, inside the accepted ~3,350 ceiling with 3.3 (650) still to come.
+
+## Sensemaking lens (Oct 2, 2026)
+
+E7 of `planning/sensemaking_edit_prompt.md`; plan approved by Albert Oct 2. **Albert: no offsetting trim; Chapter 3 may exceed its ceiling, to be offset in Chapters 4–6.**
+- **3.4 v1.2:** ¶2, after the seed-codes sentence: sensemaking (Section 2.6) as a sensitising concept, the term from `[@balasooriya2026sensemaking, p. 7923]`, "Unlike in their study, however, it added no codes or themes" (they used it "to interpret the nine axial codes and to develop its strategic themes"). It guides the memos: cues that prompted interpretation, the reading judged plausible `[@weick2005organizing, p. 415]`, and with whom it was talked over. No direct quotes. **New marker:** `[PENDING: memos written during fieldwork]`.
+- The rule "no a priori code could be the answer to the research question" is unchanged and not contradicted.
+- Words: 737 → ≈ 790. **Running total ≈ 2,792 + Table 3.1**, plus 3.3 (650) to come ≈ 3,440, above the accepted ~3,350.
+- **Follow-up (not done; outside this session's scope):** the familiarisation memo template (`analysis/templates/familiarisation_memo_template.md`) does not yet prompt for cues, plausibility and who it was talked over with. Add these with protocol v1.0 after the pilot. The codebook file was not touched.

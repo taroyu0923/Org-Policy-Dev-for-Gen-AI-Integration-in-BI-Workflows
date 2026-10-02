@@ -60,3 +60,41 @@ Cross-reference: `Section 3.7` for the §11 screening method (resolved Oct 1, 20
 Carrying (peer-reviewed): `janssen2025responsiblegenai` (p. 44, system-level feedback), `taeihagh2025govgenai` (p. 7, regulation-level), `abraham2019datagovframework` (p. 430, escalation), `responsibleaigovreview` (pp. 11, 14), `asatiani2020blackbox` (pp. 273–275, system-level loop), `silic2025shadowai` (p. 12, one sentence), `rakova2021practitionerperspectives` (pp. 7:11, 7:14; PDF only), `morrison2023voicesilence` (pp. 80, 85, 90, 94, 99), `dutton1993issueselling` (pp. 398, 404, 409, 410, 414, 421).
 Supplementary (preprint): `joshi2025resai` (secs. IV.C, IV.D), `weinberg2025faigmoe` (p. 9), `lee2024questionbank` (p. 14), `stickystories2025` (p. 3; flagged in text as a preprint accepted at CHI 2026), `agenticaiperceptions2025` (pp. 4, 14; flagged as a small preprint survey).
 Not cited: `lu2024raipatterns` (no "champion" in the PDF), B6 p. 33, D5's 9% (figure only), the G2 snowball (Detert & Edmondson; Dutton et al. 2001: not in the bib).
+
+## Style pass (Oct 1, 2026)
+
+2.1 v1.2, 2.5 v1.2 and 2.6 v1.4 restyled to Albert's voice (`planning/writing_style_albert.md`). First-person stance 2–3 times per section at the author's own readings (not at reports of sources); connectors; semicolon chains split; closing summaries. No quote, page, key, tally or claim strength changed.
+- **Checks:** direct quotes identical (2.1: 23; 2.5: 32; 2.6: 19), key–page pairs identical, markers identical, 0 em dashes. Two citations repeated where a sentence was split so that each quote keeps its page (2.5 ¶4 `rakova2021practitionerperspectives` p. 7:11; no new pages).
+- **Words excl. citations (before → after):** 2.1 1,081 → 1,128 · 2.5 1,219 → 1,290 · 2.6 675 → 706. **Drafted total ≈ 3,124 / 6,250.** These counts supersede the table above.
+
+## Sensemaking lens (Oct 2, 2026)
+
+Brief: `planning/sensemaking_edit_prompt.md` (E1–E5 for this chapter). Paragraph plan approved by Albert Oct 2. **Albert's decisions:** edits made in place now (not held back until after the 6 October supervisor meeting); **no trims**: Chapters 2 and 3 may exceed their targets, to be offset in Chapters 4–6; Balasooriya & Sedera cited for the term "sensitizing concept" with the contrast that they used it to build themes; Rouleau's sensegiving described as aimed at clients.
+
+The typology stays the spine. Sensemaking is a second, sensitising lens, not a set of codes. G4–G10 are outside the §11 denominator; the tally (28–29 of 36) is unchanged.
+
+| § | Version | Edit | Words excl. citations (before → after) | Quotes added (all re-checked on the printed PDF page) | Citations added |
+|---|---|---|---|---|---|
+| 2.6 | v1.4 → v1.5 | E1 ¶1 second lens; E3 ¶2 Balasooriya & Sedera (outside the 36); E2 ¶3 change-recipient research | 706 → ≈ 973 (target 700) | 7: G4 p. 409; G5 p. 70; G6 p. 442; G8 p. 7926; G5 p. 78; G9 p. 546 (×2) | `weick2005organizing`, `maitlis2014sensemaking`, `gioia1991sensemaking` (pp. 442, 443), `balasooriya2026sensemaking` (pp. 7920, 7926), `balogun2004restructuring` (p. 546) |
+| 2.5 | v1.2 → v1.3 | E4 ¶5 sensegiving as the third explanation; "neither body of work" → "none of the three bodies of work" | 1,290 → ≈ 1,426 (target 1,250) | 2: G6 p. 443; G6 p. 433 | `gioia1991sensemaking` (pp. 433, 442, 443), `rouleau2005micropractices` (pp. 1428–1429, 1435) |
+| 2.1 | v1.2 → v1.3 | E5 last ¶ one sentence on lateral, informal interpretation | 1,128 → ≈ 1,175 (target 1,100) | 1: G7 p. 1574 (checked against the printed page image, not only OCR) | `balogun2005changerecipient` (p. 1574), `balogun2004restructuring` (pp. 524, 526) |
+
+- **Drafted total ≈ 3,574 / 6,250** (2.1 + 2.5 + 2.6); remaining for 2.2–2.4: ≈ 2,676 against a planned 3,200. Supersedes the earlier totals.
+- **G7 and G9 are one case** (a recently privatised UK utility, G9 p. 526). 2.1 introduces it as "one case … reported in two papers"; 2.6 ¶3 refers back to "the restructuring case introduced in Section 2.1". If E5 in 2.1 is ever removed, re-word 2.6 ¶3.
+- **No quote shared between sections:** G6 p. 442 is quoted in 2.6 and paraphrased in 2.5; G6 p. 443 is quoted in 2.5 and paraphrased in 2.6.
+- **Forward reference:** 2.5 ¶5 points to Section 2.6 for the second lens. Not attributed to the authors: "working rule", "carriers / recipients", "receiving end"; the sources' own words ("change recipients", "sensegiving") are used inside quotes.
+- Checks: 0 em dashes; first-person count in 2.6 unchanged (two); bib keys all present and ✅ in `reference_list.md`.
+- **Figure 2.1:** the "2.6 Lens" strip still names only the typology. Redraw in the orchestration session.
+
+### 2.6 / 2.5 / 2.1 — sources added (S6, cluster G, peer-reviewed)
+
+`weick2005organizing` (G4), `maitlis2014sensemaking` (G5), `gioia1991sensemaking` (G6), `balogun2005changerecipient` (G7, OCR PDF; printed page checked), `balasooriya2026sensemaking` (G8), `balogun2004restructuring` (G9), `rouleau2005micropractices` (G10).
+
+## Dependency: notes for 2.2–2.4 (sensemaking; record only, not drafted)
+
+Written after the depth-case interviews. From `planning/sensemaking_edit_prompt.md`:
+
+- **2.2 (practice first, unclear rules):** an unclear rule is a sensemaking trigger, a cue with ambiguous meaning (G5 p. 70; already quoted in 2.6 ¶1, so paraphrase in 2.2). Rules "can never cover every circumstance" (G4 p. 418) is Weick et al. **quoting Hughes et al.**: cite it as a secondary quotation or not at all.
+- **2.3 (ask or act):** acting can come before the interpretation is settled (G4 on action, p. 412). Plausibility over accuracy (G4 p. 415; 3.4 already cites p. 415 for the memos).
+- **2.4 (rulings, intermediaries):** a ruling as sensegiving from above; peers as the lateral sensemaking route (G7, G9: one case, cite together; G7 p. 1574 is already quoted in 2.1). A working rule as an enacted, plausible reading (the term "working rule" is this thesis's, not the sources').
+- Rouleau's micro-practices are aimed at clients (pp. 1428–1429): do not use them as evidence of upward sensegiving in 2.4.

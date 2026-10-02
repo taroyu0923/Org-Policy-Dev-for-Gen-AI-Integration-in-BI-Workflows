@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Oct 1, 2026 — **Chapter 1 drafted (v1, 1,977 words) + supervisor sheet**; **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
+**Last updated:** Oct 2, 2026 — **S6 sensemaking add-reference pass compiled (G4–G10; Cluster G 3 → 10)**; earlier: Oct 1, 2026 — **Chapter 1 drafted (v1, 1,977 words) + supervisor sheet**; **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -11,9 +11,9 @@
 
 | Stream | State |
 |---|---|
-| Literature — governance corpus | **36 compiled governance notes, 35 usable** (Mitchell excluded; +B9 from S5). Plus **5 non-governance context/anchor notes** outside the §11 denominator: E5, E6 (Ch.1 BI context) and Cluster G, G1–G3 (Ch.2 theory anchors). Before S5: Clusters A 11, B 8 → **9 with B9**, C 7, D 7, E 4 → **6 with E5/E6**, **new G 3** — up from A6/B6/C3/D5/E1 after the Sep 11 S3 gap-fill (15 new sources, 14 kept, 1 excluded). Filenames retrofitted from `<letter>_<author><year>_<slug>.md` to cluster-numbered `<ID>_<author><year>_<slug>.md` (e.g. `A1_batool2024...`) — old-named files still present in `literature/notes/`, pending Albert's manual `git rm` |
+| Literature — governance corpus | **36 compiled governance notes, 35 usable** (Mitchell excluded; +B9 from S5). Plus **12 non-governance context/anchor notes** outside the §11 denominator (S6 added seven): E5, E6 (Ch.1 BI context) and Cluster G, G1–G10 (Ch.2 theory anchors; G4–G10 are the sensemaking lens, §2.6). Before S5: Clusters A 11, B 8 → **9 with B9**, C 7, D 7, E 4 → **6 with E5/E6**, **new G 3** — up from A6/B6/C3/D5/E1 after the Sep 11 S3 gap-fill (15 new sources, 14 kept, 1 excluded). Filenames retrofitted from `<letter>_<author><year>_<slug>.md` to cluster-numbered `<ID>_<author><year>_<slug>.md` (e.g. `A1_batool2024...`) — old-named files still present in `literature/notes/`, pending Albert's manual `git rm` |
 | Literature — methodology corpus | **14 compiled notes**, renamed from `Interview_I<n>_<slug>.md` to `I<n>_<slug>.md` (Sep 11), ten-section format, §12 not yet run |
-| `references.bib` | **64 entries** (58 + 6 from S5); the six S5 entries are now PDF-verified and no longer `TODO-verify` (G3's DOI is from the publisher page, tagged `doi-not-in-pdf`). **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
+| `references.bib` | **84 entries** after S6 (`grep -c '^@'` gave 77 before S6, so the 64 in the S5 text below predates the S4 and interview-design additions; S6 added 7); the six S5 entries are now PDF-verified and no longer `TODO-verify` (G3's DOI is from the publisher page, tagged `doi-not-in-pdf`). **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
 | Interview design | Protocol **v0.98** (+C1a, D2a, E3a); sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
@@ -41,6 +41,21 @@ This resolves the framing question that was open for three sessions. The engagem
 ⚠ The classification above was read off verdict lines by the Opus session, not taken from the harvest agent's own summary table. Cross-check if that table is still available.
 
 ---
+
+## Word budget decision (Oct 2, 2026, Albert)
+
+Chapters 2 and 3 may run over their budgets (after the sensemaking edits: 2.1 1,176 · 2.5 1,430 · 2.6 1,005 · 3.4 792). No trimming now; the 25,000 total is rebalanced when Chapters 4–6 are planned.
+
+## S6 add-reference pass (Oct 2, 2026) — sensemaking sources
+
+- **Why:** Albert adopted sensemaking as a **second lens** (Ch.2 §2.6) on the supervisor's suggestion, Oct 2, 2026. Sources: the supervisor's suggestion plus Balasooriya & Sedera (2026)'s reference list.
+- **Done:** seven PDFs → NotebookLM (one notebook each), Step 0 ID table approved by Albert, v2.4-T for all (Query 2 = §7–§10 + §13 THESIS ANCHOR; **no §11, no §12**). Notes `G4`–`G10` compiled; raw answers plus a "Verification against the PDF" section in `literature/_raw/G4.md … G10.md`; seven bib entries; `search_log.md` §S6; `reference_list.md` regenerated (Cluster G 10 entries).
+- **Counts:** Cluster G **3 → 10**. Governance corpus **unchanged at 36**. **§11 tally unchanged at 28–29 of 36 (78–81%)**; G4–G10 are outside the denominator.
+- **Sources:** G4 Weick, Sutcliffe & Obstfeld 2005; G5 Maitlis & Christianson 2014; G6 Gioia & Chittipeddi 1991; G7 Balogun & Johnson 2005 (**OCR only, no text layer**); G8 Balasooriya & Sedera 2026; G9 Balogun & Johnson 2004; G10 Rouleau 2005. G7 and G9 are the same case (not independent). G6 and G9 print no DOI; G10's DOI is a watermark only; Crossref was not reachable.
+- **NotebookLM errors found (never quote its answers unchecked):** wrong page numbers throughout; "eight properties" for Weick et al. (paper has seven headed properties); G7's span (12 months, actually about 16); the G5 typology is Maitlis 2005's; a "hold-out informant" in G6 not in the PDF. G8's "Weick and Weick (1995)" is a paper error and is not reproduced; Weick (1995) the book was not added.
+- **Do not attribute this thesis's own terms** (working rule, carriers/recipients, receiving end) to these authors. They write "change recipients", "sensegiving", "schemata".
+- **Albert's own notebook questions:** none were recorded in any of the seven notebooks at compile time (chat histories empty). Add them to §"Albert's Questions" in each note if you have them.
+- **Open:** G7, G8 and G10 first-page titles were read; Orchestration review Oct 2: all quotes re-checked against the PDFs; G8 issue 6 confirmed in the PDF download stamp; G6 and G9 DOIs added from Crossref. Chapters not edited. Nothing committed or pushed.
 
 ## S5 add-reference pass (Sep 29, 2026) — results
 

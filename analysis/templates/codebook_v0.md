@@ -63,6 +63,8 @@ Used to order analysis and memo-writing, not to label segments. Report where the
 unclear case → FORK (ask / act now / lateral) → ruling or own judgement → working rule → up or not
 ```
 
+**Sensemaking (second lens, added Oct 2, 2026; Chapter 2.6, Chapter 3.4):** a sensitising concept, as in Balasooriya & Sedera (2026, p. 7923). It guides the memos (cue, plausible reading, who it was talked over with, sensegiving; familiarisation memo §3a and §4) and **adds no codes or themes**. Sources: G4–G10.
+
 Claims to hold the data against (from the claims map): K1 tier cascade · K2 formal channels · K5 bypass from over-control · K7 feedback loops · K9 intermediaries · K11 governance first · P2 bypass as continued habit.
 
 ## F. Inductive codes — add as they emerge
@@ -82,3 +84,4 @@ Claims to hold the data against (from the claims map): K1 tier cascade · K2 for
 | Date | Change | Reason |
 |---|---|---|
 | 2026-09-29 | v0 created | Before pilot |
+| 2026-10-02 | §E: sensemaking named as a sensitising lens; no codes added | S6 sources; supervisor's suggestion (Oct 2); matches Chapter 3.4 |
