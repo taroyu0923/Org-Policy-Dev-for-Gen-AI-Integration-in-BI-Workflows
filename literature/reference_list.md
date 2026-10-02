@@ -1,7 +1,7 @@
 # Reference List with Verification Status
 
 **Thesis:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows — A Qualitative Analysis of Governance Framework Evolution
-**Compiled:** Sep 2, 2026 | **Updated:** Sep 30, 2026 (S4 methods foundation compiled: Cluster M 11 of 11; interview-design group verified: 14 of 14) | Generated from `references.bib` (64 entries)
+**Compiled:** Sep 2, 2026 | **Updated:** Oct 2, 2026 (S6 sensemaking sources compiled: Cluster G 3 → 10; earlier: S4 methods foundation Cluster M 11 of 11; interview-design group 14 of 14) | Generated from `references.bib` (84 entries)
 
 > **This document is a working audit, not the thesis bibliography.** `references.bib` remains the single source of truth for per-reference status (amendment A4). Regenerate this file whenever the bib changes.
 
@@ -22,21 +22,23 @@
 
 | Status | Count |
 |---|---|
-| ✅ Verified (DOI) | 44 |
+| ✅ Verified (DOI) | 48 |
 | ✅ Verified (arXiv preprint) | 11 |
-| ✅ Verified (PDF + venue, no DOI printed) | 5 |
+| ✅ Verified (PDF + venue, no DOI printed in the article text) | 8 |
 | ⚠ Grey tier | 3 |
 | ⛔ Excluded | 4 |
 | ❓ TODO-verify | 4 (all governance-side) · 2 not obtained (Flanagan, Yin) |
-| **Total bib entries** | **77** |
+| **Total bib entries** | **84** |
 
-**Compiled notes: 52** (21 original + 14 from the S3 gap-fill + 6 from the S5 pass: B9, E5, E6, G1, G2, G3 + 11 from the S4 pass: M1–M11; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **51** (34 before S5, plus the six S5 notes and the eleven S4 notes; 2 are grey-tier, restricted use). The six S5 sources are governance-corpus members only for B9; E5, E6 and G1–G3 are context and theory anchors.
+**Compiled notes: 59** (21 original + 14 from the S3 gap-fill + 6 from the S5 pass: B9, E5, E6, G1, G2, G3 + 11 from the S4 pass: M1–M11 + 7 from the S6 pass: G4–G10; `algobiasbianalytics2025` was never a compiled note and is now formally excluded). Usable after exclusions: **58** (34 before S5, plus the six S5 notes, the eleven S4 notes and the seven S6 notes; 2 are grey-tier, restricted use). The six S5 sources are governance-corpus members only for B9; E5, E6 and G1–G3 are context and theory anchors.
 
 > ⚠ Arithmetic note: the status counts above sum to 60 against 64 entries; the Sep 11 table already summed to 54 against 58, so a four-entry gap predates S5 and was not reconciled in this pass.
 
 > ✅ **Interview-design group verified (Sep 30, 2026): 14 of 14.** 8 peer-reviewed with DOI, 5 arXiv preprints, 1 grey instrument. Two metadata corrections (I9 was a published 2023 article, not a 2024 preprint; I14 changed title in arXiv v2) and two published versions found for sources held only as arXiv PDFs (I7, I10 — page numbers differ). **4 entries remain TODO-verify**, all governance-side (`algoopacity`, `algoacccrosscultural2026`, `algoaccliability2025`, `responsibleaistartups`); none is used in Chapters 2–3.
 >
 > **S3 gap-fill (Sep 11, 2026).** 15 frequency-ranked snowball targets from `literature/search_log.md` were resolved: 14 kept (all DOI- or PDF+venue-verified, no grey-tier flags), 1 excluded. See the per-cluster sections below for the new A8–A12, B8, C7–C10, D6–D7, E2–E4 entries, and the note under Cluster E on the E-slot renumbering.
+
+> **S6 add-reference pass (Oct 2, 2026) — 7 sensemaking sources PDF-verified and compiled (G4–G10).** Supervisor-suggested sensemaking sources plus Balasooriya & Sedera's reference list, all v2.4-T (no §11); governance corpus unchanged at 36. Quotes, limitations and pages were checked against the PDFs (G7 by OCR). Crossref was not reachable, so no DOI was taken from outside the PDF: G6 and G9 print none and carry none; G10's DOI is a watermark only. NotebookLM errors found in all seven (see `search_log.md` §S6). Bib total **84**.
 
 > **S5 add-reference pass (Sep 29, 2026) — 6 sources PDF-verified and compiled.** B9, E5, E6, G1, G2 and G3 were harvested through NotebookLM (v2.4 for B9; v2.4-T for the other five, no §11), every quote, limitation, typology and page was checked against the PDF, and the six `TODO-verify` flags were removed. One caveat: G3's DOI is not printed in the PDF (from the publisher page). New **Cluster G — Organisation theory anchors (non-AI)**. Bib total **64**; TODO-verify now **17** (all pre-existing). See `search_log.md` §S5.
 
@@ -205,8 +207,8 @@
 **F1.** National Institute of Standards and Technology. (2023). *Artificial intelligence risk management framework (AI RMF 1.0)* (NIST AI 100-1). https://doi.org/10.6028/NIST.AI.100-1
 `nist2023airmf` — ✅ **DOI** · Institutional primary source. GOVERN / MAP / MEASURE / MANAGE.
 
-## Cluster G — Organisation theory anchors (non-AI) *(new, S5)*
-*3 entries · 3 verified (G3 without a PDF-printed DOI) · 3 notes compiled · created Sep 29, 2026 for Chapter 2 theory anchors; outside the §11 denominator*
+## Cluster G — Organisation theory anchors (non-AI) *(new, S5; extended S6)*
+*10 entries · 10 verified · 10 notes compiled · created Sep 29, 2026 (G1–G3, Chapter 2 theory anchors), G4–G10 added Oct 2, 2026 (sensemaking lens, §2.6); outside the §11 denominator*
 
 **G1 (S5).** Haag, S., & Eckhardt, A. (2017). *Shadow IT.* Business & Information Systems Engineering, 59(6), 469–473. https://doi.org/10.1007/s12599-017-0497-x
 `haag2017shadowit` — ✅ **DOI** · Verified against the PDF Sep 29, 2026 (OCR); note `G1_haag2017_shadow_it.md` (v2.4-T). Catchword overview, no stated limitations.
@@ -216,6 +218,29 @@
 
 **G3 (S5).** Dutton, J. E., & Ashford, S. J. (1993). *Selling issues to top management.* Academy of Management Review, 18(3), 397–428. https://doi.org/10.5465/amr.1993.9309035145
 `dutton1993issueselling` — ✅ **PDF+venue** · Verified against the PDF Sep 29, 2026 (OCR: title, authors, venue, volume, issue, pages); **no DOI printed in the PDF**, DOI 10.5465/amr.1993.9309035145 is from the publisher page. Note `G3_dutton1993_selling_issues_top_management.md` (v2.4-T). Seminal; conceptual.
+
+**G4 (S6).** Weick, K. E., Sutcliffe, K. M., & Obstfeld, D. (2005). *Organizing and the process of sensemaking.* Organization Science, 16(4), 409–421. https://doi.org/10.1287/orsc.1050.0133
+`weick2005organizing` — ✅ **DOI** · Verified against the PDF Oct 2, 2026; note `G4_weick2005_organizing_process_sensemaking.md` (v2.4-T). Conceptual; no limitations section.
+
+**G5 (S6).** Maitlis, S., & Christianson, M. (2014). *Sensemaking in organizations: Taking stock and moving forward.* The Academy of Management Annals, 8(1), 57–125. https://doi.org/10.1080/19416520.2014.873177
+`maitlis2014sensemaking` — ✅ **DOI** · Verified against the PDF Oct 2, 2026 (DOI printed p.57); note `G5_maitlis2014_sensemaking_taking_stock.md` (v2.4-T). Review; scope bounds pp.59–60.
+
+**G6 (S6).** Gioia, D. A., & Chittipeddi, K. (1991). *Sensemaking and sensegiving in strategic change initiation.* Strategic Management Journal, 12(6), 433–448. https://doi.org/10.1002/smj.4250120604
+`gioia1991sensemaking` — ✅ **PDF+venue** · Verified against the PDF Oct 2, 2026; **no DOI printed**; note `G6_gioia1991_sensemaking_sensegiving_strategic_change.md` (v2.4-T). Ethnography; three self-stated caveats.
+
+**G7 (S6).** Balogun, J., & Johnson, G. (2005). *From intended strategies to unintended outcomes: The impact of change recipient sensemaking.* Organization Studies, 26(11), 1573–1601. https://doi.org/10.1177/0170840605054624
+`balogun2005changerecipient` — ✅ **DOI** · Verified against the PDF Oct 2, 2026 (DOI printed p.1573); **no text layer, quotes checked in OCR**; note `G7_balogun2005_change_recipient_sensemaking.md` (v2.4-T). Single case; one scope caveat.
+
+**G8 (S6).** Balasooriya, A., & Sedera, D. (2026). *Organizational sensemaking theory perspective of developing AI-driven strategies for sustainability initiatives.* Business Strategy and the Environment, 35(6), 7916–7931. https://doi.org/10.1002/bse.70571
+`balasooriya2026sensemaking` — ✅ **DOI** · Verified against the PDF Oct 2, 2026 (issue number from the notebook, not the PDF text); note `G8_balasooriya2026_sensemaking_ai_sustainability.md` (v2.4-T). Two cases, 10 executive/manager interviews; two stated limitations.
+
+**G9 (S6).** Balogun, J., & Johnson, G. (2004). *Organizational restructuring and middle manager sensemaking.* Academy of Management Journal, 47(4), 523–549. https://doi.org/10.2307/20159600
+`balogun2004restructuring` — ✅ **PDF+venue** · Verified against the PDF Oct 2, 2026; **no DOI printed**; note `G9_balogun2004_middle_manager_sensemaking.md` (v2.4-T). Same case as G7; four stated limitations.
+
+**G10 (S6).** Rouleau, L. (2005). *Micro-practices of strategic sensemaking and sensegiving: How middle managers interpret and sell change every day.* Journal of Management Studies, 42(7), 1413–1441. https://doi.org/10.1111/j.1467-6486.2005.00549.x
+`rouleau2005micropractices` — ✅ **PDF+venue** · Verified against the PDF Oct 2, 2026; DOI appears only as a watermark; note `G10_rouleau2005_micropractices_sensemaking_sensegiving.md` (v2.4-T). One firm, two middle managers; three stated limitations.
+
+---
 
 ## Interview-design references (Cluster I)
 *14 entries · 14 verified Sep 30, 2026 against the PDFs in `Thesis Content/Group Interview` and the publisher or arXiv record · 8 DOI · 5 arXiv · 1 grey*

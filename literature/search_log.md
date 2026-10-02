@@ -172,6 +172,35 @@ All 15 target-list items were resolved via NotebookLM notebook_query (Q1+Q2 prot
 
 ---
 
+## S6 — Supervisor-suggested sensemaking sources **[RUN Oct 2, 2026; COMPILED Oct 2, 2026]**
+
+| Field | Value |
+|---|---|
+| Date | Oct 2, 2026 |
+| Source of leads | Supervisor's suggestion of sensemaking as a second lens, plus the reference list of Balasooriya & Sedera (2026). The sensemaking lens was adopted on the supervisor's suggestion on Oct 2, 2026. Not a database query; no query strings |
+| Method | Seven PDFs supplied by Albert (`Thesis Content/Group G`); one NotebookLM notebook per PDF; printed title and authors matched to the plan's IDs in a Step 0 table that Albert approved before anything was written. The plan's IDs and metadata were treated as claims, not records |
+| Variant | v2.4-T for all seven: Query 1 = §1–§6 plus zh-TW summary; Query 2 = §7–§10 then §13 THESIS ANCHOR. **§11 and §12 not run** |
+| Kept | 7 of 7 (PDF-verified and compiled) |
+| Rejected | None. Weick (1995), the book, was deliberately not added (not in hand; the plan lists the 2005 article). |
+
+| ID | Bib key | Source | Role | Verification |
+|---|---|---|---|---|
+| G4 | `weick2005organizing` | Weick, Sutcliffe & Obstfeld (2005), *Organization Science* 16(4), 409–421 | Sensemaking, the construct | Text layer; DOI printed. No limitations section; three passing caveats |
+| G5 | `maitlis2014sensemaking` | Maitlis & Christianson (2014), *Academy of Management Annals* 8(1), 57–125 | Review of the field | Text layer; DOI printed (10.1080/…, not the plan's 10.5465/…). Scope bounds pp.59–60 |
+| G6 | `gioia1991sensemaking` | Gioia & Chittipeddi (1991), *SMJ* 12(6), 433–448 | Sensegiving; stakeholder feedback | JSTOR two-column scan read with `pdftotext -raw`; no DOI printed. Three self-stated caveats (pp.435–436, 444, 445) |
+| G7 | `balogun2005changerecipient` | Balogun & Johnson (2005), *Organization Studies* 26(11), 1573–1601 | Change recipients' lateral sensemaking | **No text layer; OCR (tesseract 4.1.1), quotes checked in OCR text only.** DOI printed. One scope caveat p.1597 |
+| G8 | `balasooriya2026sensemaking` | Balasooriya & Sedera (2026), *Business Strategy and the Environment* 35(6), 7916–7931 | Sensemaking applied to AI integration | Text layer; DOI printed; issue number from the notebook. Two stated limitations p.7926. The paper's "Weick and Weick (1995)" is an error and was not reproduced |
+| G9 | `balogun2004restructuring` | Balogun & Johnson (2004), *AMJ* 47(4), 523–549 | Middle managers' schema change | Text layer; no DOI printed. Four stated limitations p.546 |
+| G10 | `rouleau2005micropractices` | Rouleau (2005), *JMS* 42(7), 1413–1441 | Micro-practices of sensemaking and sensegiving | Text layer; DOI is a watermark only. Three stated limitations pp.1436, 1438 |
+
+**PDF verification (Oct 2).** Every quote, limitation and typology was matched to the PDF text; printed page = PDF page + 408 (G4), 56 (G5), 431 (G6), 1572 (G7), 7915 (G8), 522 (G9), 1412 (G10). NotebookLM errors found: wrong page numbers in several of the seven answers; an "eight properties" claim for Weick et al. (the paper has seven headed properties); a 12-month span for G7 (the paper tracks about 16 months, March 1993 to July 1994); the guided/fragmented/restricted/minimal typology attributed to G5 (it is Maitlis 2005, reported by G5); a "hold-out informant" in G6 that is not in the PDF; unchecked data-corpus page counts for G9 (not used). Two of my own first-pass verification entries were corrected after a re-check (G6 and G7 do state caveats). G7 and G9 draw on the same case and are not independent. Crossref was not reachable from the session, so no DOI was taken from outside a PDF.
+
+**Orchestration review (Oct 2, 2026):** quotes in all seven notes re-checked against the PDFs (G7 by fresh OCR of pp.1574, 1595–1597); all found. Corrections: G6 DOI 10.1002/smj.4250120604 and G9 DOI 10.2307/20159600 added from Crossref (not printed in the PDFs); G8 issue 6 confirmed in the PDF download stamp; G4 "naïve" as printed.
+
+**§11 tally after S6:** unchanged at 28–29 of 36 (78–81%) under R1. G4–G10 are outside the denominator. Governance corpus unchanged at 36. Cluster G: 3 → 10. Bib total 84.
+
+---
+
 ## Log conventions
 
 Each subsequent search adds a numbered section recording: date, database, exact query string, filters, hits, screened, kept, and rejected-with-reason. Snowball entries record the citing note as the source of the lead.
