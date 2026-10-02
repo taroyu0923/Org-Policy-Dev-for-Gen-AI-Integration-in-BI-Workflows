@@ -26,11 +26,20 @@ unclear case → FORK (ask / act now / lateral) → ruling or own judgement → 
 - Before the rules (C1a):
 - Deadline pressure at the fork:
 
+### 3a. Reading the rule (sensemaking: sensitising only, not codes)
+
+Added Oct 2, 2026 (Chapter 2.6 second lens; Chapter 3.4). Note what the account shows; do not code from these prompts.
+
+- **Cue:** what made them stop and interpret (an unclear case, a refusal, an output that looked wrong, a colleague's remark)?
+- **Plausible reading:** which readings of the rule did they consider, which one did they act on, and why did it seem plausible to them?
+- **Talked over with:** who, if anyone, did they talk the rule over with before acting (peer, manager, local BI, nobody)? Did this come up unprompted?
+
 ## 4. SQ2 — upward: what travelled, how far, what came back?
 
 - Route known? Corroborated by others in the same organisation?
 - Distance travelled / what came back:
 - If nothing went up — their reason, in their words (E3a):
+- **Sensegiving:** did they try to change how anyone else read the rule, upward or sideways? With what result?
 
 ## 5. Against my hypotheses
 

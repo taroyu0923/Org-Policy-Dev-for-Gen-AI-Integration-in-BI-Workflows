@@ -47,4 +47,5 @@
 
 - Timing overrun (which section)?
 - Any fixed-wording item rephrased on the spot?
+- Talked the rule over with (peer / manager / local BI / nobody / not discussed)? Came up unprompted or probed?
 - **Shopee only:** asked not to discuss until all four are done? Any sign they compared notes?

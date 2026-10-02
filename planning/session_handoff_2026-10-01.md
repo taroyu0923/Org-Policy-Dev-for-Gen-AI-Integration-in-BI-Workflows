@@ -216,3 +216,58 @@ and the next-step options in section 6. Then wait for my choice.
 - Supervisor sheet `planning/ch1_outline_draft_2026-10-01.md`: Q6 (AI use) still reads "planning, drafting support and verification". The Ch3 review recommended stating that sections were drafted from approved plans and then reviewed and verified. Consider wording it that way before the meeting.
 
 **Decided (Albert, Oct 1):** 1.1 v1.1, sector list removed; 1.3 v1.1, Mäntymäki definition cited (pp. 604–605); supervisor-sheet Q6 AI-use wording kept as in the current Chapter 3 version (3.7 unchanged).
+
+**Update (Oct 1, later): style pass to Albert's voice.**
+- Albert supplied three of his own papers (water-management essay, AI customer service essay, HP group case) and approved: (1) plan B, first person at key claims in Ch1–2, 1–3 times per section; (2) scope = all drafted sections; (3) update the same Google Doc; (4) save the rules → `planning/writing_style_albert.md`.
+- 1.1 v1.2 done first as a sample; **approved by Albert**. Then 1.2–1.6, 2.1, 2.5, 2.6, 3.1, 3.2, 3.4–3.7.
+- Checks per file vs the pre-pass version: quotes identical, key–page pairs identical, markers identical, RQ and definition verbatim, 0 em dashes (3.5: one inside a FILL marker, as before). Word counts in the three chapter READMEs. Pre-pass copies kept outside the repo on the device (`~/style_backup/`, `~/1.1_v1.1_backup.md`).
+- Line endings of the CRLF files restored, so `git diff --ignore-cr-at-eol` shows only the real changes. Do not stage files that differ only in line endings.
+- Google Doc for the supervisor updated in place (same link) with the restyled text: 260 text replacements, all 60 changed paragraphs verified against the repo render; the `[CHECK: Aalto / programme guidance on AI use in theses]` marker at the end of 3.7, missing from the Doc, was restored; italics on *BI work* (1.1) re-applied.
+
+**Update (Oct 1, later): visuals and supervisor pack.**
+- Thesis Google Doc (same link): added Table 1.1 (RQ map, end of 1.4), Figure 2.1 caption + lead sentence (Chapter 2 opening), Table 2.1 (three meanings of "feedback", after 2.5 ¶1), Figure 2.2 caption (after 2.6 ¶2), Table 2.2 (four gaps, end of 2.6), Table 3.2 (codebook spine, after 3.4 ¶2), Table 3.3 (Depth A threshold, end of 3.4). Figures are PNGs in `chapters/figures/` (fig2_1_rule_path.png, fig2_2_screening.png); the Doc has yellow "[Insert image here: …]" placeholders because the connector cannot upload images. **The tables exist only in the Google Doc; port them to the chapter markdown files when the text is next revised.**
+- Figure 2.2 counts (R1): documented absence 28; contested 1 (A12); partial 2 (A9, C10); substantive or positive 5 (B6, B9, D4, D5, D7).
+- New Google Docs: "Interview materials for supervisor discussion (Oct 2026)" (protocol v0.98, wording card, PIS, consent form, privacy notice, codebook v0, templates, pilot debrief; organisation names replaced by case labels; Depth A policy dates generalised) and "Thesis overview for supervisor (Oct 2026)" (2 pages).
+- Noticed in Albert's edit of 3.4 ¶5: the paragraph now begins "For Depth A, it was met if…"; the sentence introducing the threshold (fixed 29 September 2026, before any Depth A interview) appears to have been removed, so "it" has no antecedent.
+
+---
+
+## Log — sensemaking edit session (Oct 2)
+
+Brief: `planning/sensemaking_edit_prompt.md` (now marked run). Paragraph plans for E1–E7 sent first and approved by Albert.
+
+**Decisions (Albert, Oct 2)**
+1. Edit the chapter files in place now, not after the 6 October meeting. **The supervisor may therefore read the new text**; the Google Doc was not updated (Albert updates it).
+2. **No trims.** Chapters 2 and 3 may exceed their targets; the overrun is to be offset in Chapters 4–6.
+3. Balasooriya & Sedera (G8) cited for the term "sensitizing concept" only, with the contrast that they used it to develop themes (p. 7923).
+4. Rouleau (G10): her issue-selling link (p. 1435) concerns micro-practices aimed at clients (pp. 1428–1429), so 2.5 says so; not evidence of upward sensegiving.
+
+**Done**
+
+| File | Version | Words (before → after) | Quotes added | Citations added |
+|---|---|---|---|---|
+| 2.6 | v1.5 | 706 → ≈ 973 | 7 | G4, G5 (pp. 70, 78), G6 (pp. 442, 443), G8 (pp. 7920, 7926), G9 (p. 546) |
+| 2.5 | v1.3 | 1,290 → ≈ 1,426 | 2 | G6 (pp. 433, 442, 443), G10 (pp. 1428–1429, 1435) |
+| 2.1 | v1.3 | 1,128 → ≈ 1,175 | 1 | G7 (p. 1574), G9 (pp. 524, 526) |
+| 1.5 | v1.3 | 319 → ≈ 346 | 0 | G4 (p. 409, paraphrase) |
+| 1.6 | v1.3 | 219 → ≈ 225 | 0 | none |
+| 3.4 | v1.2 | 737 → ≈ 790 | 0 | G8 (p. 7923), G4 (p. 415); new `[PENDING: memos written during fieldwork]` |
+
+- All 10 new direct quotes string-matched on the cited printed page (pdftotext; G6 with `-raw`). **G7 p. 1574 checked against the rendered printed page image**, not only the OCR. Paraphrase pages also checked (G6 p. 443; G8 p. 7920; G9 pp. 524, 526; G10 pp. 1428–1429, 1435; G4 pp. 409, 415).
+- 7 keys, all in `references.bib` and ✅ in `reference_list.md`. 0 em dashes. First person in 2.6 unchanged (2). G7 and G9 presented as one case. Thesis terms not attributed.
+- Not changed: §11 tally (28–29 of 36), RQ v2.1, BI practitioner definition, protocol, codebook, wording card, Figure 2.1, Google Doc.
+- READMEs: ch1, ch2 (incl. the 2.2–2.4 notes, recorded only), ch3 updated. Drafted totals: Ch1 ≈ 2,105; Ch2 ≈ 3,574 / 6,250; Ch3 ≈ 2,792 + Table 3.1.
+- Pre-edit copies on the device outside the repo: `~/sm/backup/`. CRLF line endings preserved.
+
+**Open / next**
+- Figure 2.1: redraw the "2.6 Lens" strip to name both lenses (orchestration).
+- Familiarisation memo template: add prompts for cues, plausibility and who it was talked over with, with protocol v1.0 after the pilot.
+- Pandoc render not tested (pandoc 2.9 without citeproc on this machine).
+- Git: nothing committed. Albert commits and pushes.
+
+**Update (Oct 2): sensemaking edits checked; templates updated; word limits.**
+- Sensemaking edits E1–E7 checked: all new quotes matched to PDF pages (incl. Gioia p. 433, Rouleau pp. 1428–1429, Balogun & Johnson 2004 p. 526 setting); G7/G9 cited as one case; no thesis terms attributed. Words: 2.1 1,176 · 2.5 1,430 · 2.6 1,005 · 3.4 792.
+- **Decision (Albert, Oct 2): Chapters 2 and 3 may exceed their word budgets without trimming; the difference is absorbed when Chapters 4–6 are planned.**
+- Figure 2.1 redrawn: lens strip now "2.6 Two lenses and the gap" (typology / sensemaking + sensegiving / gap). `chapters/figures/fig2_1_rule_path.png` replaced; re-insert in the Google Doc.
+- Templates (approved, Oct 2): familiarisation memo §3a (cue, plausible reading, talked over with) and a sensegiving line in §4; codebook v0 §E names sensemaking as a sensitising lens, adds no codes (+ change log row); contact summary process line; pilot debrief sensemaking check (live follow-up after B2 in v1.0 only if needed). Protocol, wording card and consent pack unchanged.
+- Suggested but not done: split 2.6 ¶1 into a typology paragraph and a sensemaking paragraph (no word change).

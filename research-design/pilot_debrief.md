@@ -25,6 +25,8 @@ Mark each: **kept** · **rephrased on the spot** (write what you actually said) 
 | **D2a** (data before it goes in) | §6c | | new in v1.2 — did the answer come back rule-shaped or case-shaped? Did it feel like normal work or like being checked? |
 | Confidence probes | §7 | | |
 
+**Sensemaking check (added Oct 2, 2026):** did *who they talked the rule over with* come up without a probe? [ yes / no ]. If **no**, add a live (not fixed-wording) follow-up after B2 in v1.0: "Did you talk it over with anyone before deciding what to do?" Because it is a live probe, the wording card does not change.
+
 ## 2. Section timing
 
 | Section | Planned | Actual | Cut / keep |
