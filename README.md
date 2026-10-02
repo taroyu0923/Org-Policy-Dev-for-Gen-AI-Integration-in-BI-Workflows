@@ -17,24 +17,27 @@ Organisations adopting generative AI in business intelligence (BI) work govern i
 
 ```
 planning/            Pipeline_State.md (canonical state), session handoffs, outlines,
-                     claims map, writing briefs, review logs, PDF-check logs
+                     claims map, writing briefs, review logs, PDF-check logs,
+                     writing_style_albert.md (voice rules for all chapter prose)
 literature/
   notes/             One Markdown note per source, cluster-numbered ID:
                      <ID>_<author><year>_<slug>.md  (e.g. A1_batool2024_...)
                      Governance A–E: v2.4, §1–§11 (§11 = working-tier reception)
-                     Theory anchors G1–G3 · Methods M1–M11 · Interview design I1–I14
+                     Theory anchors G1–G10 (G4–G10: sensemaking) · Methods M1–M11 ·
+                     Interview design I1–I14
   _raw/              Verbatim NotebookLM outputs + PDF verification logs
   cluster-memos/     Synthesis memos (empty)
   references.bib     BibTeX — single source of truth for per-reference status
   reference_list.md  Generated audit view of references.bib
-  search_log.md      Search passes S1–S5: queries, dates, hits, kept/rejected
+  search_log.md      Search passes S1–S6: queries, dates, hits, kept/rejected
 research-design/     Protocol, wording card, consent pack, privacy notice, sampling frame,
                      ethics note, pilot debrief template
 chapters/            Thesis chapters in Markdown (pandoc [@key]); LaTeX in November
   ch1/               Introduction — README tracks status, word counts, sources, dependencies
   ch2/               Literature review — README tracks status, word counts, sources
   ch3/               Method — README tracks status and open [FILL]/[PENDING] markers
-analysis/            Codebook v0 and templates only; filled templates live on Aalto OneDrive
+  figures/           Figure 2.1 (path a rule is assumed to take, two lenses), Figure 2.2 (§11 screening)
+analysis/            Codebook v0 and memo templates only; filled templates live on Aalto OneDrive
 interviews/          Fieldwork outputs (gitignored)
 latex/               Aalto template + converted output
 Claude outputs/      PR descriptions and session outputs
@@ -62,6 +65,7 @@ Claude outputs/      PR descriptions and session outputs
 - **Critical-incident anchor:** a bounded three-type menu, each incident process-traced with the same four questions.
 - **Analysis:** codebook thematic analysis.
   - A priori spine: the structural / procedural / relational practice typology (Papagiannidis et al., 2025; after Tallon et al., 2013).
+  - Second lens (Oct 2, supervisor's suggestion): **sensemaking**, a sensitising concept that guides the memos (cue, plausible reading, who the rule was talked over with, sensegiving) and adds no codes (Weick et al., 2005; Maitlis & Christianson, 2014; Gioia & Chittipeddi, 1991).
   - Inductive codes for everything BI-specific.
   - The ask / act-now loop is a sensitising lens, not a set of codes.
   - Re-coding and supervisor review are consistency checks, not reliability measures.
@@ -83,21 +87,24 @@ Claude outputs/      PR descriptions and session outputs
 
 ## Status
 
-*Updated Oct 1, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-01.md`.*
+*Updated Oct 2, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-01.md`.*
 
-**Word budget:** 25,000 words. Intro 2,000 · literature review 6,250 · method 3,000 (allowed to run to ~3,350) · findings 8,000 · discussion 4,250 · conclusion 1,500.
+**Word budget:** 25,000 words. Intro 2,000 · literature review 6,250 · method 3,000 · findings 8,000 · discussion 4,250 · conclusion 1,500. **Decision (Oct 2):** Chapters 2 and 3 may run over without trimming; the total is rebalanced when Chapters 4–6 are planned.
 
 **Chapters**
-- [x] **Ch1 drafted and reviewed:** 1.1–1.6, ≈1,980 of 2,000 words (Oct 1); 21/21 quotes PDF-checked. Supervisor sheet: `planning/ch1_outline_draft_2026-10-01.md`
+- [x] **Ch1 drafted and reviewed:** 1.1–1.6, ≈2,100 words (Oct 2, after the style pass and the sensemaking touch in 1.5/1.6); quotes PDF-checked. Supervisor sheet: `planning/ch1_outline_draft_2026-10-01.md`
+- [x] **Style pass (Oct 1):** all drafted sections rewritten in Albert's voice (`planning/writing_style_albert.md`); quotes, pages, keys and markers checked identical
 - [x] **Ch2:** outline v2 adopted (a loop structure following how a rule is expected to travel). Claims map K1–K11.
-- [x] **Ch2 drafted:** 2.1 v1.1 (1,085 words) · 2.5 v1.1 (1,211, reviewed; 32/32 quotes PDF-checked) · 2.6 v1.3 (669) — ≈2,965 of 6,250
+- [x] **Ch2 drafted:** 2.1 v1.3 (1,176 words) · 2.5 v1.3 (1,430) · 2.6 v1.5 (1,005) — ≈3,610 of 6,250. Sensemaking added as the second lens (Oct 2; all new quotes PDF-checked)
+- [x] **Figures:** 2.1 (rule path, two lenses) and 2.2 (screening) in `chapters/figures/`
 - [ ] **Ch2 remaining:** 2.2–2.4, after the depth-case interviews
-- [x] **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 words + Table 3.1)
+- [x] **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (≈2,790 words + Table 3.1; 3.4 v1.2 names sensemaking as a sensitising lens)
 - [ ] **Ch3 remaining:** 3.3, after the pilot. `[FILL]` / `[PENDING]` markers to be completed after fieldwork.
 - [ ] Ch4–Ch6 after analysis · title revision (supervisor)
 
 **Literature**
-- [x] **Corpus:** 36 governance notes (Clusters A–E plus B9) · theory anchors G1–G3 · methods M1–M11 (PDF-checked) · interview design I1–I14 (verified)
+- [x] **Corpus:** 36 governance notes (Clusters A–E plus B9) · theory anchors G1–G10 · methods M1–M11 (PDF-checked) · interview design I1–I14 (verified)
+- [x] **S6 sensemaking sources (Oct 2):** G4–G10 PDF-verified (G7 by OCR), outside the §11 denominator; Cluster G 3 → 10; `planning/s6_addref_prompt.md`
 - [x] **Working-tier screening (§11):** **28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive AI governance.
   - Updated Oct 1: every verdict PDF-checked under coding rule R1 (data on staff reception of AI governance only); `planning/s3_section11_spotcheck_2026-10-01.md`.
 - [x] **§11 verdicts PDF-checked (S3 + phase 2), rule R1** — Oct 1
@@ -107,9 +114,12 @@ Claude outputs/      PR descriptions and session outputs
 
 **Design and fieldwork**
 - [x] RQ v2.1, BI practitioner definition, evolution threshold (Sep 29) · protocol v0.98 · codebook v0 · privacy notice v0.9
+- [x] **Templates for the pilot (Oct 2):** familiarisation memo §3a (sensemaking prompts), codebook §E, contact summary, pilot-debrief check. Protocol, wording card and consent pack unchanged until v1.0
+- [x] **Supervisor contact resumed (Oct 2):** overview, thesis draft and interview materials shared as Google Docs
 - [ ] **Consent pack** sent to all participants, by Oct 5
 - [ ] **Pilot** (Mandarin, breadth participant) → protocol v1.0
-- [ ] **Supervisor meeting:** ethics note §5, AI-use rule for 3.7, page count, title, Ch3 length, coding rule R1 (questions in `planning/ch1_outline_draft_2026-10-01.md` §4)
+- [ ] **Supervisor meeting, Tue Oct 6, 10:00 (Teams):** title, structure, coding rule R1 and the gap figure, governance vs adoption framing, sensemaking lens, interviews before the seminar, ethics note §5, AI-use rule for 3.7
+- [ ] **Master's thesis seminar:** present the research plan (date to confirm)
 - [ ] **Interviews Oct 5–19:** familiarisation memo within 48 hours of each interview
 - [ ] **Analysis** ~Nov 7 · **full draft** end of November · **hard deadline** Dec 15
 
