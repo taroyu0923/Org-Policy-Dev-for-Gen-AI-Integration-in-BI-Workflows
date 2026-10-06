@@ -50,7 +50,7 @@ Words after the edits: 2.1 1,176 · 2.5 1,430 · 2.6 1,005 · 3.4 792. **Albert'
 - **Unchanged before the pilot:** protocol v0.98, the wording card and the consent pack.
 
 ### Planning and records
-`Pipeline_State.md` (S6 counts, word-budget decision), the session handoff, the chapter READMEs (word counts, sources, dependencies), and the briefs `s6_addref_prompt.md` and `sensemaking_edit_prompt.md`.
+Project `README.md` (status as of Oct 2: style pass, S6, sensemaking lens, figures, templates, supervisor meeting); `Pipeline_State.md` (S6 counts, word-budget decision), the session handoff, the chapter READMEs (word counts, sources, dependencies), and the briefs `s6_addref_prompt.md` and `sensemaking_edit_prompt.md`.
 
 ## Not in this PR
 - Splitting 2.6 ¶1 into two paragraphs (suggested, no word change).

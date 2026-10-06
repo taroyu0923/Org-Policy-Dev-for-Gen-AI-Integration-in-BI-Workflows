@@ -1,5 +1,7 @@
 # Privacy Notice — Research Participants
 
+> **SUPERSEDED Oct 6, 2026** by `Consent_form_interview_v1.1.docx` (supervisor's template, one merged form). Kept for the record only — do not send.
+
 **Study:** How BI practitioners encounter and act on their organisation's rules for generative AI *(participant-facing working title — thesis title pending)*
 **Version:** 0.9 (draft, Sep 29, 2026) | **Language:** EN (zh-TW summary optional — see note at end)
 

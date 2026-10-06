@@ -201,6 +201,17 @@ All 15 target-list items were resolved via NotebookLM notebook_query (Q1+Q2 prot
 
 ---
 
+## §S7 — Research integrity standard (Oct 6, 2026)
+
+| Field | Value |
+|---|---|
+| Trigger | Supervisor's "Instructions and useful information" (Oct 6): thesis must include a short research ethics and integrity section; Aalto page https://www.aalto.fi/en/research-art/research-ethics-and-research-integrity points to TENK's 2023 guidelines |
+| Search | Web search "TENK 2023 Finnish code of conduct for research integrity"; publisher page tenk.fi/en/news/ri-2023-guideline-published-three-languages |
+| Kept | 1: M12 `tenk2023ri` (Publications of TENK 4/2023; ISBN 978-952-5995-88-6) |
+| Verification | Metadata and p. 9 scope statement read from the TENK-hosted PDF online. **Local PDF not saved** (download blocked from the session); Albert to save it to `Group M` and check p. 9. Paraphrase only |
+
+---
+
 ## Log conventions
 
 Each subsequent search adds a numbered section recording: date, database, exact query string, filters, hits, screened, kept, and rejected-with-reason. Snowball entries record the citing note as the source of the lead.

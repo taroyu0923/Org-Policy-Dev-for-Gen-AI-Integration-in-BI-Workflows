@@ -1,7 +1,7 @@
 # Codebook v0 — "decode sheet"
 
 **Version:** 0 (Sep 29, 2026, before the pilot) | **Status:** starting frame; expected to change after the pilot and the Shopee interviews
-**Lives in:** repo (`analysis/templates/codebook_v0.md`) — definitions only. **Examples are anonymised paraphrases only** (no names, organisations, teams, products, dates or verbatim quotes), so this file may be worked on with AI tools.
+**Lives in:** repo (`analysis/templates/codebook_v0.md`) — definitions only. **Examples are anonymised paraphrases only** (no names, organisations, teams, products, dates or verbatim quotes), so this file may be worked on with AI tools. (Oct 6, 2026: AI tools may now also process de-identified interview material — see `analysis/README.md`.)
 **Sources:** protocol v0.98 §10; `planning/ch2_claims_map_2026-09-29.md`.
 
 > ⚠ **Rule (protocol §10): no a priori code may be the answer to the RQ.** The spine and seed codes organise the data; the findings come from the inductive codes and from where the data departs from the spine and the loop.

@@ -21,8 +21,8 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 | 3.3 | — | 650 | — | After the pilot | — |
 | 3.4 | `3.4_analysis.md` | 650 | 708 | Draft v1 (Oct 1) | 11 PENDING, 1 FILL |
 | 3.5 | `3.5_trustworthiness_reflexivity.md` | 400 | 437 | Draft v1 (Oct 1) | 6 PENDING, 7 FILL |
-| 3.6 | `3.6_ethics_data_protection.md` | 300 | 311 | Draft v1 (Oct 1) | 3 PENDING, 2 FILL, 1 CHECK |
-| 3.7 | `3.7_literature_review_method.md` | 250 | 298 | Draft v1.1 (Oct 1: R1 coding rule + range reason added, +31 words); resolves 2.6 `Section [3.X]` | 1 FILL, 1 CHECK |
+| 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING, 1 CHECK |
+| 3.7 | `3.7_literature_review_method.md` | 250 | 298 | Draft v1.1 (Oct 1: R1 coding rule + range reason added, +31 words; Oct 6: AI sentence now points to 3.6); resolves 2.6 `Section [3.X]` | 1 FILL |
 
 \*Prose words, excluding headings, HTML comments, citation brackets and `[PENDING]`/`[FILL]` markers.
 
@@ -48,17 +48,14 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 - `[PENDING: change log, summaries and memos kept during fieldwork]` · `[PENDING: pre-interview memos]`
 
 **3.6**
-- `[FILL: date of supervisor's written confirmation]` (ethics note §5)
-- `[FILL: deletion and retention dates]` (keep identical to privacy notice §9, information sheet, consent form)
-- `[CHECK: privacy notice transferred to the Aalto template]`
-- `[PENDING: documents sent before each interview]` · `[PENDING: consent obtained]` · `[PENDING: fieldwork]`
+- `[CHECK: tenk2023ri p. 9 against the PDF]` (save the TENK PDF to Group M first)
+- `[PENDING: form sent before each interview]` · `[PENDING: consent obtained]` · `[PENDING: fieldwork]` · `[PENDING: deletion]` · `[PENDING: AI use log kept during analysis]`
 
 **3.7**
 - `[FILL: S1 databases and query strings, if reconstructed]` (search_log S1 "TO RECONSTRUCT")
-- `[CHECK: Aalto / programme guidance on AI use in theses]`
 
 **3.2**
-- `[FILL: final n if anyone withdraws]` · `[FILL: tier]` (Breadth 6, Table 3.1; eligibility confirmed by Albert Oct 1)
+- `[FILL: final n if anyone declines or withdraws]` · `[FILL: tier]` (Breadth 6, Table 3.1; eligibility confirmed by Albert Oct 1)
 - `[PENDING: adequacy appraised during fieldwork]`
 
 Running total drafted: 2,607 prose words + Table 3.1 (88) of 3,000 (3.1, 3.2, 3.4–3.7). Remaining: 3.3 (650, after the pilot).

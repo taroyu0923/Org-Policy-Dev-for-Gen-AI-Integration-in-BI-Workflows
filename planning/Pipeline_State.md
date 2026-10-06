@@ -153,7 +153,7 @@ Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes 
 
 ## Outstanding, in order
 
-1. **⏳ Ethics determination** — in progress, blocks recruitment. Draft supervisor email: `research-design/ethics_determination_note.md` §4. Privacy notice (Aalto template) still outstanding.
+1. ~~**Ethics determination**~~ **DONE Oct 6, 2026** — supervisor: no review or approval needed; consent form v1.1 on his template replaces the information sheet, consent form and privacy notice. See "Supervisor meeting, Oct 6" below and `research-design/ethics_determination_note.md` §5.
 2. **§12 protocol-craft pass + bib backfill + doc migration** — one Sonnet session, `planning/section12_protocol_craft_prompt.md` Parts A, B and C.
 3. **Structure and interview-framework discussion** (Opus) — now unblocked by the §11 finding.
 4. **~~S3 gap-fill~~ DONE (Sep 11)** — 15 frequency-ranked targets in `literature/search_log.md`; 14 kept (Rakova et al. 2021 included — closest published study to the reframed design), `algobiasbianalytics2025` excluded. Cluster loading landed as planned: +4 into C, +3 into E.
@@ -163,6 +163,16 @@ Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes 
 8. Synthesis memos A–E → `literature/cluster-memos/` (still empty).
 9. Protocol pilot in Mandarin → v1.0. Cluster F when PDFs arrive.
 10. **Rolling-coding discipline** — familiarization memo within 48h of each interview, one log line per interview in `analysis/`. Named the #1 schedule risk in the Sep 1 verification and still unimplemented.
+
+## Supervisor meeting, Oct 6, 2026 — decisions
+
+- **Ethics:** no ethical review or prior approval needed; interviews may start once each participant consents. Record: `research-design/ethics_determination_note.md` §5.
+- **Consent:** supervisor's template, one merged form → `research-design/Consent_form_interview_v1.1.docx` (v1.0 superseded same day) (signature or email reply; six optional permissions). `participant_information_sheet.md`, `consent_form.md`, `privacy_notice.md` marked SUPERSEDED.
+- **AI rule changed (Albert):** third-party AI tools may process recordings and transcripts (transcription, draft translation, analysis support), identifying details removed where possible, every output checked, uses logged. Replaces "no AI on interview content". **Resolved:** Yong approved AI on **de-identified data only**; recordings stay in Teams (form v1.1).
+- **Thesis must include a short research ethics and integrity section** → 3.6 retitled and rewritten (v1.3), citing TENK (2023) as `tenk2023ri` (M12). 3.5 gains one sentence on AI draft translation.
+- **Sample:** fewer than 14 is acceptable (3.2 v1.2). **Depth A** may be partial; threshold extended to three or fewer participants before any Depth A interview (3.4 v1.3).
+- **"Logic gaps":** Yong judged the current reference structure sufficient for a master's thesis. Strengthening it is optional and weighed against time; no gap to fix now.
+- Also from Yong's instructions: default grade target is 3, so tell him at the start if aiming for 5; re-email if no reply within two working days; cite page numbers for original text.
 
 ## Open questions for Albert
 

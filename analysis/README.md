@@ -14,7 +14,7 @@ Created Sep 29, 2026.
 
 **Never commit a filled template.** `analysis/working/` is gitignored as a safety net, but the working copies belong in OneDrive, not in the repo folder.
 
-**AI rule (privacy notice §7):** no AI tool sees interview content. The codebook may be worked on with AI only while every example in it is an anonymised paraphrase (no names, organisations, teams, products, dates, or verbatim quotes).
+**AI rule (changed Oct 6, 2026; consent form v1.0):** AI tools may process **de-identified** transcripts and memos only (names, colleagues, organisation, teams, products and dates removed first) for transcription checks, draft translation and analysis support. Recordings never leave Teams. Supervisor-approved Oct 6. Every AI output is checked against the recording or transcript, and coding decisions stay with the researcher. Log each use (date, tool, material, purpose) in the AI use log. The codebook's examples stay anonymised paraphrases, as before.
 
 ## Suggested OneDrive layout
 

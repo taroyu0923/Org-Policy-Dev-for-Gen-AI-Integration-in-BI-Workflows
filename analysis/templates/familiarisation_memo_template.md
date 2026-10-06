@@ -1,6 +1,6 @@
 # Familiarisation memo — P__
 
-> §0 **before** the interview. §1–§7 within **48 hours**, after re-listening or re-reading the transcript. Store in OneDrive `04_memos/`, never in the repo. No AI tool on this file.
+> §0 **before** the interview. §1–§7 within **48 hours**, after re-listening or re-reading the transcript. Store in OneDrive `04_memos/`, never in the repo. AI tools allowed only on a de-identified copy (names and identifying details removed) (rule changed Oct 6, 2026; see `analysis/README.md`); log the use.
 
 ## 0. Before the interview — what I already knew (reflexivity)
 
