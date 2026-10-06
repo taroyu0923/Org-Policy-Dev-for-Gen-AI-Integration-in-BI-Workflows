@@ -77,7 +77,9 @@ Procedurally: "If ethical review is necessary, the student shall apply for it to
 >
 > If the meeting falls after the first interview: the documents can still go out; send the dated ethics sentence as a one-line update before that participant's interview.
 
-- Date requested:
-- Determined by:
-- Outcome:
-- Evidence retained at:
+- Date requested: supervisor meeting, Oct 6, 2026
+- Determined by: Associate Professor Yong Liu (supervisor)
+- Outcome: no ethical review or prior approval is required for this master's thesis. Interviews may start once each participant has given consent on the supervisor's consent template (signature, or an email reply confirming consent and the optional permissions). The thesis must include a short section on research ethics and research integrity (supervisor's "Instructions and useful information"; see https://www.aalto.fi/en/research-art/research-ethics-and-research-integrity).
+- AI use (changed Oct 6, Albert's decision following the supervisor template): recordings and transcripts may be processed with third-party software, including AI tools, for transcription, Mandarin→English translation and analysis support, with identifying details removed where possible. This replaces the earlier rule "no AI on interview content" and is disclosed to participants in the consent form. **Resolved Oct 6:** asked about the Aalto thesis-advisor line "Use of AI-based services in the processing of personal data is prohibited", the supervisor approved AI tools on **de-identified data only**. Recordings stay in Teams (Aalto account); only de-identified transcripts go to third-party AI tools. Consent form updated to v1.1.
+- Consent document: `Consent_form_interview_v1.1.docx` (v1.0 superseded the same day) (merged form; replaces `participant_information_sheet.md`, `consent_form.md` and `privacy_notice.md`).
+- Evidence retained at: supervisor's templates (Consent to participate in interview study.docx; Instructions and useful information.docx) — [FILL: location]; meeting note in this file.

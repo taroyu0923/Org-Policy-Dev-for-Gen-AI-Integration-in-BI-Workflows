@@ -1,5 +1,7 @@
 # Participant Information Sheet
 
+> **SUPERSEDED Oct 6, 2026** by `Consent_form_interview_v1.1.docx` (supervisor's template, one merged form). Kept for the record only — do not send.
+
 **Study title (participant-facing working title):** How BI practitioners encounter and act on their organisation's rules for generative AI
 **Researcher:** Liu Yu-Shu (Albert), Master's student, Aalto University
 **Supervisor:** [NAME, TITLE, EMAIL]
