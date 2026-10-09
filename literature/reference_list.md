@@ -283,7 +283,7 @@
 | M10 | `dwyer2009insider` | Dwyer & Buckle (2009), *IJQM* 8(1), 54–63 | Insider-outsider reflexivity | ✅ **PDF+venue** | Cite as Corbin Dwyer & Buckle; no DOI printed |
 | M11 | `eisenhardt2007theorybuilding` | Eisenhardt & Graebner (2007), *Academy of Management Journal* 50(1), 25–32 | Multiple-case logic (supports M6) | ✅ **PDF+venue** | No DOI printed; replaces Yin in Ch.3 |
 
-| M12 | `tenk2023ri` | Finnish National Board on Research Integrity TENK (2023), *The Finnish Code of Conduct for Research Integrity…* (Publications of TENK 4/2023) | Research integrity standard for 3.6 (added Oct 6, S7) | ⏳ **PDF pending** | Metadata from TENK PDF online; save PDF to Group M, check p. 9 |
+| M12 | `tenk2023ri` | Finnish National Board on Research Integrity TENK (2023), *The Finnish Code of Conduct for Research Integrity…* (Publications of TENK 4/2023) | Research integrity standard for 3.6 (added Oct 6, S7) | ✅ **PDF** | PDF in Group M (`RI_Guidelines_2023.pdf`, saved by Albert). Checked Oct 9, 2026: p. 9 (PDF p. 10) states the good research practices "also need to be applied in basic degree (bachelor- and master-level) … studies", footnote 10 "Bachelor's and master's theses"; p. 3 (PDF p. 4): "drafted by TENK in cooperation with the Finnish research community". ISBN, ISSN, series 4/2023 match the colophon (PDF p. 2) |
 
 **Not obtained (Sep 30, 2026) — do not cite directly:** `flanagan1954cit` — cite only as "Flanagan (1954, as cited in Gremler, 2004)" and leave out of the reference list; `yin2018casestudy` — not cited unless the book is later read.
 

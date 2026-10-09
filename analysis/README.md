@@ -7,14 +7,14 @@ Created Sep 29, 2026.
 
 | Material | Where | Why |
 |---|---|---|
-| Recordings, transcripts, consent forms | **Aalto OneDrive** only | Privacy notice §7: data stored only in Aalto's Microsoft 365 environment |
+| Recordings, transcripts, consent forms | **Aalto OneDrive** only | Consent form v1.1 (Confidentiality): data stored on Aalto OneDrive; the privacy notice it replaced said the same |
 | **Filled** contact summaries, familiarisation memos, interview log, coded transcripts | **Aalto OneDrive** only — suggested folder `Thesis-Interviews/` (below) | They contain interview content. Pseudonymised is still personal data |
 | **Templates** and the **codebook** (definitions, no interview content) | This repo, `analysis/templates/` | No participant data |
 | Anonymised findings drafts | `chapters/`, later | Only after the anonymisation rules in `sampling_frame.md` §6 are applied |
 
 **Never commit a filled template.** `analysis/working/` is gitignored as a safety net, but the working copies belong in OneDrive, not in the repo folder.
 
-**AI rule (changed Oct 6, 2026; consent form v1.0):** AI tools may process **de-identified** transcripts and memos only (names, colleagues, organisation, teams, products and dates removed first) for transcription checks, draft translation and analysis support. Recordings never leave Teams. Supervisor-approved Oct 6. Every AI output is checked against the recording or transcript, and coding decisions stay with the researcher. Log each use (date, tool, material, purpose) in the AI use log. The codebook's examples stay anonymised paraphrases, as before.
+**AI rule (changed Oct 6, 2026; consent form v1.1):** AI tools may process **de-identified** transcripts and memos only (names, colleagues, organisation, teams, products and dates removed first) for transcription checks, draft translation and analysis support. Recordings never leave Teams. Supervisor-approved Oct 6. Every AI output is checked against the recording or transcript, and coding decisions stay with the researcher. Log each use (date, tool, material, purpose) in the AI use log (`templates/ai_use_log_template.md`; filled copy in OneDrive). The codebook's examples stay anonymised paraphrases, as before.
 
 ## Suggested OneDrive layout
 
@@ -45,3 +45,4 @@ Thesis-Interviews/
 - `templates/familiarisation_memo_template.md`
 - `templates/interview_log_template.md`
 - `templates/codebook_v0.md`
+- `templates/ai_use_log_template.md` (Oct 9, 2026)

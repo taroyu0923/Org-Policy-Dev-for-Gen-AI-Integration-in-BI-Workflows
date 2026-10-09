@@ -48,7 +48,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 - `[PENDING: change log, summaries and memos kept during fieldwork]` · `[PENDING: pre-interview memos]`
 
 **3.6**
-- `[CHECK: tenk2023ri p. 9 against the PDF]` (save the TENK PDF to Group M first)
+- `[CHECK: tenk2023ri p. 9 against the PDF]` — **checked Oct 9, 2026: holds** (printed p. 9 = PDF p. 10; paraphrase accurate; uncited first sentence also supported, p. 3). Marker to be removed from 3.6 once Albert approves
 - `[PENDING: form sent before each interview]` · `[PENDING: consent obtained]` · `[PENDING: fieldwork]` · `[PENDING: deletion]` · `[PENDING: AI use log kept during analysis]`
 
 **3.7**

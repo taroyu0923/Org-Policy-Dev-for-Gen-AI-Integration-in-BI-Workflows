@@ -107,7 +107,7 @@ Claude outputs/      PR descriptions and session outputs
 
 **Literature**
 - [x] **Corpus:** 36 governance notes (Clusters A–E plus B9) · theory anchors G1–G10 · methods M1–M11 (PDF-checked) · interview design I1–I14 (verified)
-- [x] **S7 (Oct 6):** M12 `tenk2023ri` (TENK 2023 research integrity code) for 3.6. Local PDF still to be saved to Group M and p. 9 checked
+- [x] **S7 (Oct 6):** M12 `tenk2023ri` (TENK 2023 research integrity code) for 3.6. Local PDF saved to Group M; p. 9 checked Oct 9
 - [x] **S6 sensemaking sources (Oct 2):** G4–G10 PDF-verified (G7 by OCR), outside the §11 denominator; Cluster G 3 → 10; `planning/s6_addref_prompt.md`
 - [x] **Working-tier screening (§11):** **28–29 of 36 governance sources (78–81%)** contain no account of how staff below the rule-setting level receive AI governance.
   - Updated Oct 1: every verdict PDF-checked under coding rule R1 (data on staff reception of AI governance only); `planning/s3_section11_spotcheck_2026-10-01.md`.
