@@ -21,7 +21,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 | 3.3 | — | 650 | — | After the pilot | — |
 | 3.4 | `3.4_analysis.md` | 650 | 708 | Draft v1 (Oct 1) | 11 PENDING, 1 FILL |
 | 3.5 | `3.5_trustworthiness_reflexivity.md` | 400 | 437 | Draft v1 (Oct 1) | 6 PENDING, 7 FILL |
-| 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING, 1 CHECK |
+| 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING |
 | 3.7 | `3.7_literature_review_method.md` | 250 | 298 | Draft v1.1 (Oct 1: R1 coding rule + range reason added, +31 words; Oct 6: AI sentence now points to 3.6); resolves 2.6 `Section [3.X]` | 1 FILL |
 
 \*Prose words, excluding headings, HTML comments, citation brackets and `[PENDING]`/`[FILL]` markers.
@@ -48,7 +48,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 - `[PENDING: change log, summaries and memos kept during fieldwork]` · `[PENDING: pre-interview memos]`
 
 **3.6**
-- `[CHECK: tenk2023ri p. 9 against the PDF]` — **checked Oct 9, 2026: holds** (printed p. 9 = PDF p. 10; paraphrase accurate; uncited first sentence also supported, p. 3). Marker to be removed from 3.6 once Albert approves
+- `[CHECK: tenk2023ri p. 9 against the PDF]` — **checked Oct 9, 2026: holds** (printed p. 9 = PDF p. 10; paraphrase accurate; uncited first sentence also supported, p. 3). Marker removed from 3.6 (Albert approved Oct 9)
 - `[PENDING: form sent before each interview]` · `[PENDING: consent obtained]` · `[PENDING: fieldwork]` · `[PENDING: deletion]` · `[PENDING: AI use log kept during analysis]`
 
 **3.7**
