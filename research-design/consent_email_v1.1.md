@@ -35,7 +35,7 @@ You can take part while answering No to any of the six items.
 
 One reminder: you take part in a personal capacity, not for your employer. Please skip anything confidential or covered by an agreement with your employer, and I won't ask why.
 
-Our interview is on [DATE] at [TIME] [TIME ZONE] on Microsoft Teams: [LINK]. It takes about 60–75 minutes. If you have any questions about the form, just reply to this email.
+Our interview is on [DATE] at [TIME] [TIME ZONE] on Microsoft Teams: [LINK]. It takes about 45–60 minutes. If you have any questions about the form, just reply to this email.
 
 Best regards,
 Liu Yu-Shu (Albert)
@@ -70,7 +70,7 @@ Supervisor: Associate Professor Yong Liu, yong.liu@aalto.fi
 
 另外提醒：這次訪談你是以個人身分分享，不代表公司立場。如果有任何涉及機密或保密協議的內容，請直接跳過就好，我不會追問。
 
-訪談時間是 [日期] [時間]（台灣時間），使用 Microsoft Teams：[連結]，大約 60–75 分鐘，可以用中文或英文進行。同意書內容如果有任何不清楚的地方，直接回信問我就可以。
+訪談時間是 [日期] [時間]（台灣時間），使用 Microsoft Teams：[連結]，大約 45–60 分鐘，可以用中文或英文進行。同意書內容如果有任何不清楚的地方，直接回信問我就可以。
 
 謝謝！
 [中文姓名]（Liu Yu-Shu, Albert）

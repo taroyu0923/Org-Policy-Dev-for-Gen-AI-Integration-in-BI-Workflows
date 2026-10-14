@@ -1,5 +1,7 @@
 # Interview Protocol v0.98
 
+> **SUPERSEDED Oct 14, 2026** by `interview_protocol_v1.0.md` (after the pilot). Kept for the record; the pilot used this version.
+
 **Study:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows: A Qualitative Analysis of Governance Framework Evolution
 **Researcher:** Liu Yu-Shu (Albert) | **Draft:** Sep 29, 2026 (v0.98 — aligned to RQ v2.1; supersedes v0.97 of Sep 2) | **Status:** not yet piloted — pilot with #5 or #6 by Oct 3 → v1.0
 

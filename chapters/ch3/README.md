@@ -60,6 +60,12 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 
 Running total drafted: 2,607 prose words + Table 3.1 (88) of 3,000 (3.1, 3.2, 3.4–3.7). Remaining: 3.3 (650, after the pilot).
 
+## Pilot and protocol v1.0 (Oct 14, 2026)
+
+- Pilot done with a Mandarin-speaking breadth participant; **pilot only, not data** (Albert). Questions clear; over 60 min, mostly Section B.
+- Supervisor (Yong, reply to the interview design): many questions, likely overtime; announce the document option in advance; asked what the Depth A change threshold means (explained in the design doc §1).
+- `research-design/interview_protocol_v1.0.md`: 45–60 min; A4, C3, D1, D4, E4, E5 cut; F as a separate optional call; E3a fixed (card v1.3 §6d). **3.3 is planned from v1.0**; it must say the pilot used v0.98 and was not retained as data.
+
 ## Albert to-do
 
 - Rename protocol v0.98 §10 heading "Reliability procedure" to consistency checks, to match 3.4/3.5 wording.
