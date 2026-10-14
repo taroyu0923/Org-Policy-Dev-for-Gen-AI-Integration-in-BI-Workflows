@@ -1,7 +1,7 @@
 # Thesis Pipeline — Session Handoff State
 
 **Canonical location:** `planning/Pipeline_State.md` in the repo. The Claude-project copy is a mirror.
-**Last updated:** Oct 2, 2026 — **S6 sensemaking add-reference pass compiled (G4–G10; Cluster G 3 → 10)**; earlier: Oct 1, 2026 — **Chapter 1 drafted (v1, 1,977 words) + supervisor sheet**; **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
+**Last updated:** Oct 14, 2026 — **pilot done (testing only, not data); interview protocol v1.0 (45–60 min)** after the supervisor's comments of Oct 12; Oct 9: TENK p. 9 checked against the PDF (M12 ✅), fieldwork kit (consent email, preparation note, pilot runbook, AI use log template). Earlier: Oct 6 supervisor meeting (see below); Oct 2, 2026 — **S6 sensemaking add-reference pass compiled (G4–G10; Cluster G 3 → 10)**; earlier: Oct 1, 2026 — **Chapter 1 drafted (v1, 1,977 words) + supervisor sheet**; **§11 tally final under R1: 28–29 of 36 (78–81%)**; S3 spot-check + phase 2 done; page fixes in 14 notes; 8 bib-key headers fixed; S1 partly reconstructed. Earlier Oct 1: **D6 recoded to documented absence; §11 tally now 23–25 of 36 (64–69%)**; S3 §11 spot-check briefed. Earlier Oct 1: 2.5 drafted (v1); §2.5 writing brief (`planning/ch2_2.5_writing_prompt.md`) with a PDF pre-check of its sources: **C10 checked**, **D6 champion content not in the PDF**, several note pages corrected; 25,000-word budget restored again. Earlier: Oct 1 — Chapter 3 drafted except 3.3 and reviewed (`planning/ch3_review_2026-10-01.md`). Sep 30 — S4 methods foundation (Cluster M). Sep 29 — S5 add-reference pass (B9, E5, E6, G1, G2, G3; all PDF-verified). Sep 11 — S3 gap-fill; cluster-numbered filenames; §11 harvest; template v2.4.
 
 **Read before continuing:** this file → `planning/query_template_v2.4.md` → `planning/LitReview_Process_v2.md` → `research-design/` → `literature/search_log.md`.
 
@@ -16,8 +16,8 @@
 | `references.bib` | **84 entries** after S6 (`grep -c '^@'` gave 77 before S6, so the 64 in the S5 text below predates the S4 and interview-design additions; S6 added 7); the six S5 entries are now PDF-verified and no longer `TODO-verify` (G3's DOI is from the publisher page, tagged `doi-not-in-pdf`). **17 still `TODO-verify` and formally uncitable**, 13 of them the interview-design cluster |
 | §11 working-tier harvest | **DONE (Sep 4)** — see the finding below |
 | §12 protocol-craft harvest | **Specified, not run** — `planning/section12_protocol_craft_prompt.md` |
-| Interview design | Protocol **v0.98** (+C1a, D2a, E3a); sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
-| Ethics | Supervisor confirmed no ethical review required (Sep 11 log D7); **`ethics_determination_note.md` §5 (date, evidence) deferred to the supervisor meeting**. Consent pack (privacy notice v0.9, info sheet + consent form v0.98) to be sent by Albert before Oct 5 |
+| Interview design | Protocol **v1.0** (Oct 14, after the pilot; 45–60 min; A4, C3, D1, D4, E4, E5 cut; documents in an optional separate call; wording card v1.3 adds E3a); v0.98 superseded; sample 14 participants / 9 orgs / **5 countries** (corrected Oct 1; was "6 jurisdictions") |
+| Ethics | **Done Oct 6:** no ethical review or prior approval needed (`ethics_determination_note.md` §5, template location filled Oct 9). Consent form v1.1 on the supervisor's template, sent with `consent_email_v1.1.md`; old consent pack superseded |
 | Chapter drafting | **Ch1 (Oct 1):** all six sections drafted v1 (1,977 excl. citations / 2,000), outline + supervisor sheet `planning/ch1_outline_draft_2026-10-01.md` approved; 1 PENDING marker. **Ch2:** 2.1 v1.1 (1,085), 2.6 v1.3 (669) drafted; 2.5 v1.1 (1,211 excl. citations), reviewed by Albert; 2.2–2.4 after the Shopee interviews. **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (~2,607 + Table 3.1); 3.3 after the pilot. See `chapters/ch1/README.md`, `chapters/ch2/README.md`, `chapters/ch3/README.md` |
 
 ---
@@ -161,7 +161,7 @@ Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes 
 6. **Title-line spot-check** across all 35 notes against PDFs — triggered by the Mitchell metadata failure (amendment A2).
 7. **S1 reconstruction** — databases and query strings from the research plan §2.4.
 8. Synthesis memos A–E → `literature/cluster-memos/` (still empty).
-9. Protocol pilot in Mandarin → v1.0. Cluster F when PDFs arrive.
+9. ~~Protocol pilot in Mandarin → v1.0~~ **DONE Oct 14** (pilot only, not data; see "Pilot and protocol v1.0" below). Cluster F when PDFs arrive.
 10. **Rolling-coding discipline** — familiarization memo within 48h of each interview, one log line per interview in `analysis/`. Named the #1 schedule risk in the Sep 1 verification and still unimplemented.
 
 ## Supervisor meeting, Oct 6, 2026 — decisions
@@ -173,6 +173,17 @@ Log: `planning/s3_section11_spotcheck_2026-10-01.md`. The 12 remaining S3 notes 
 - **Sample:** fewer than 14 is acceptable (3.2 v1.2). **Depth A** may be partial; threshold extended to three or fewer participants before any Depth A interview (3.4 v1.3).
 - **"Logic gaps":** Yong judged the current reference structure sufficient for a master's thesis. Strengthening it is optional and weighed against time; no gap to fix now.
 - Also from Yong's instructions: default grade target is 3, so tell him at the start if aiming for 5; re-email if no reply within two working days; cite page numbers for original text.
+
+## Pilot and protocol v1.0 (Oct 9–14, 2026)
+
+- **TENK (M12) verified Oct 9:** PDF in Group M; printed p. 9 (PDF p. 10) supports the 3.6 paraphrase; colophon matches the bib. M12 ✅; `[CHECK]` removed from 3.6 (prose unchanged).
+- **Fieldwork kit (Oct 9):** `research-design/consent_email_v1.1.md` (EN / 繁中; consent by reply with the six Yes/No answers), `participant_preparation_note.md` (one concrete situation; does not ask for dates), `pilot_runbook.md`, `analysis/templates/ai_use_log_template.md`. `recruitment_email.md` has a banner: its attachment lines and "I'd check anything I quote with you first" do not match form v1.1.
+- **Google Docs (not in the repo):** pilot recording sheet with a bilingual interview script tab (`1_E0uYYHJFvls7iMPQ48Wa6ExH3U0rzUldkxUUGTDGcA`; blank template, filled copies on OneDrive only); interview design document for the supervisor (`10Td0AGzztzLABq5Xd6tJF_H93Vxfv3pQ097byz5Gxr0`; questions mapped to theory and references, Section 7 = v1.0 changes). Three mappings still `[CHECK: page]`: Lee et al. (C2), Ismail & Ahmad (D2), Taeihagh (E2).
+- **Citation fix:** the Ackerman quote ("responses reflecting organizational policies rather than individual views") is on printed p. 5, not p. 4; Nahar et al. §6.1.5 confirmed on p. 18.
+- **Supervisor reply (Oct 12):** design looks good; many questions, likely overtime; announce the document option in advance; asked what the Depth A change threshold means (explained in the design doc §1: a rule within Depth A, not a comparison between organisations); seminar presentation may be booked.
+- **Pilot (Albert):** questions clear; over 60 min, mostly Section B. **Pilot only, not data.**
+- **Protocol v1.0 (Oct 14):** Opening 3 · A 3 · B 18 · C 7 · D 7 · E 7 · G 3 (≈48 min + buffer). Cut A4, C3, D1, D4, E4, E5; one incident by default; tier branches only if time allows; E1–E2 only for participants who were there before the rules; G2 depth cases only; Section F a separate optional call (~10 min, consent item 3). Section B and the fixed items unchanged. 3.3 is planned from v1.0 and must say the pilot used v0.98.
+- **Git:** PRs #16 (`interview-v1.0-pilot`) and #17 (`readme-update-oct14`) merged into `main` (e986e1a).
 
 ## Open questions for Albert
 
