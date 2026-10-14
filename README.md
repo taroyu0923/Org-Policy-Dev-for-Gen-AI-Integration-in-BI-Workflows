@@ -93,7 +93,7 @@ Claude outputs/      PR descriptions and session outputs
 
 ## Status
 
-*Updated Oct 14, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-06.md`.*
+*Updated Oct 14, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-14.md`.*
 
 **Word budget:** 25,000 words. Intro 2,000 · literature review 6,250 · method 3,000 · findings 8,000 · discussion 4,250 · conclusion 1,500. **Decision (Oct 2):** Chapters 2 and 3 may run over without trimming; the total is rebalanced when Chapters 4–6 are planned.
 
