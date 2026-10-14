@@ -1,0 +1,235 @@
+# Interview Protocol v1.0
+
+**Study:** Organizational Policy Development for Generative AI Integration in Business Intelligence Workflows: A Qualitative Analysis of Governance Framework Evolution
+**Researcher:** Liu Yu-Shu (Albert) | **Version:** v1.0, Oct 14, 2026 (after the pilot and the supervisor's comments; supersedes v0.98 of Sep 29) | **Status:** in use for all interviews after the pilot
+
+**Companion files (read together):** `sampling_frame.md` (cases, tiers, sequencing, confidentiality rules) and `wording_card_bilingual.md` (fixed EN/zh-TW wording for the core items).
+
+> **Research question (v2.1, adopted Sep 29 — `../planning/structure_discussion_log_2026-09-11.md`).**
+> - **Main:** How do BI practitioners encounter, interpret and act on their organisation's rules for generative AI use?
+> - **SQ1 (downward):** What happens when they use, or try to use, GenAI in their analytical work, and how do the rules shape what they do next?
+> - **SQ2 (upward):** Do their requests or concerns travel upward to whoever decides the rules, and what comes back?
+>
+> **BI practitioners** are people who produce, maintain or directly supervise analytical outputs that others use to make decisions, and who neither set their organisation's rules for generative AI use nor hold a formal responsible-AI or AI-governance role. All 14 participants meet this; tier (operational / tactical) remains a case attribute.
+
+> **What changed in v1.0 (Oct 14, 2026; Albert approved).** Pilot done with a Mandarin-speaking breadth participant: questions clear, but over 60 minutes, mostly in Section B. Supervisor (Yong Liu): many questions, likely overtime; make the document option clear in advance. Albert's decisions: **pilot only, not data**; target **45–60 min**. Changes: (1) timings Opening 3 · A 3 · B 18 · C 7 · D 7 · E 7 · G 3 (≈48 min + buffer); (2) **cut A4, C3, D1, D4, E4, E5**; (3) one incident by default; (4) tier branches only if time allows; (5) E1–E2 only for participants who were there before the rules; (6) Section F moved to an optional follow-up call of ~10 min (consent item 3), announced in `participant_preparation_note.md`; (7) G2 in depth cases only; (8) Opening item 3 = consent form v1.1 received; (9) E3a fixed wording added to the wording card (§6d, v1.3); (10) Ackerman quote page corrected to p. 5. Section B and the fixed items (B1–B4, escalation probe, C1a, D2a, E3, E3a) unchanged. Cut items are kept below, struck through, for the record.
+
+> **What changed in v0.98.** (1) Purpose statement rewritten to match RQ v2.1 — the study no longer promises to explain how policy was developed. (2) New probe B3a: does a one-off decision become a standing rule? (3) New escalation probe in B4 and E3: what went up, what came back. (4) #13 added to the tenure floor. (5) RQ-to-section map added to §0. (6) Shopee independence safeguards added to §9. (7) *Added Sep 29, before the pilot:* probe **C1a** (practice before the rules, and what stopped, changed or carried on when they arrived) — fixed wording, card §6b. (8) *Added Sep 29, before the pilot:* probe **D2a** (what happens to data before it goes into an AI tool, and how that was learned) — fixed wording, card §6c. (9) *Added Sep 29, before the pilot:* probe **E3a** (why nothing went up, when it didn't) — fixed wording, card §6d; SQ2 coding extended (§10). Fixed EN/zh-TW wording for (1)–(3) is in `wording_card_bilingual.md` v1.1.
+
+> **Reframing note (Sep 2, retained for history).** The confirmed sample contains no strategic-tier informant — no participant authored a GenAI policy. The study is therefore positioned as an account of how organizational GenAI policy is **encountered, interpreted and adapted at the analytical working tier**, and whether that adaptation feeds back upward. Sections C–E are unchanged in content, but their weight shifts: Phase 1 (C) now reconstructs how policy *arrived* rather than how it was authored, and Phase 3's upward-feedback items (E2, E3) become the central test. See `sampling_frame.md` §3.
+
+> **Language (Sep 2).** Delivered in English and interpreted live for participants #1–6, EXCEPT the items fixed in `wording_card_bilingual.md` — the purpose statement, incident menu, four process-trace questions and confidence probes — which are read as written in both languages. Improvising those destroys comparability in the core section and cannot be repaired afterwards.
+
+**Target duration:** 45–60 min (v1.0; was 60–75). **Format:** remote, semi-structured, recorded with consent.
+
+---
+
+## 0. Design logic (for the methods chapter, not for participants)
+
+**RQ-to-section map (v0.98).**
+
+| Research question | Answered mainly by | Supporting |
+|---|---|---|
+| Main — encounter and interpret | C (Policy Encounter & Interpretation), A4; C1a (pre-rule practice) | B2 |
+| SQ1 — what happens downward, how rules shape action | B (incident, B1–B3a), D incl. D2a | F where documents exist |
+| SQ2 — what travels upward, what comes back | E3 + escalation probe + E3a, B4 + escalation probe | G2 (who sees it differently); other informants in the same organisation (route existence) |
+
+Evolution is **not** promised by the RQ. It is reported as a findings strand only if the pre-set Shopee threshold is met (≥3 of 4 independently describe the same change between the 2023 policy and the Q4 2024 rollout, with rough date and named trigger); otherwise as what practitioners could and could not see of change. Threshold fixed Sep 29, before any Shopee interview.
+
+
+**Phase 1 renamed (Sep 2).** "Policy Framework Development" → **"Policy Encounter & Interpretation"**, to match the working-tier reframing: how policy arrived, through what channel, how it was learned, what it was understood to require, and what it left undefined — not how it was authored. Phases 2 and 3 keep their labels; they already work from the receiving end. The 21 existing literature notes tag their §7 material with the old Phase 1 name — read those entries as *encounter* material and re-file anything genuinely authoring-side into chapter background. See `../planning/query_template_v2.4.md`.
+
+**Three phases** (the protocol's spine) are a compression of the lifecycle convergence in the corpus: Batool's "When" dimension (`batool2024aigov` §4.1 p.8-9; `batool2024rai` §3.1 p.3), Joshi's six-stage GenAI lifecycle (`joshi2025resai` p.6-8), Weinberg's four-phase FAIGMOE model (`weinberg2025faigmoe` §3.3 p.7-8), and Xue & Pang's four-stage anticipatory continuum (via `ismail2025frameworks` §4.2 p.128).
+
+**Three tiers** (strategic / tactical / operational) are a case attribute, not a code. Four independent sources converge on this vertical: Joshi p.2; Lee L1/L2/L3 (`lee2024questionbank` §4.1 p.7-8); Batool's 5-level typology (`batool2024aigov` §4.2 p.14); NTT DATA's strategy/organization/lifecycle tiers (`ismail2025frameworks` §4.3 p.129). No paper in Clusters A+B observes this vertical empirically inside a firm — that gap is what the depth stratum is for.
+
+**One instrument, tier-branched probes.** Everyone gets the same phases and the same incident anchor so cross-tier answers are comparable; probes differ in altitude. Modelled on Lee's own tier-descending pairs, e.g. L2 "Do you design the AI system with interpretability in mind from the start?" -> L3 "Do you research and try to use the simplest and most interpretable model possible?" (`lee2024questionbank` §4.1 p.7-8).
+
+**Critical-incident anchor.** Opening with an abstract policy question yields the corporate line in generic AI-ethics vocabulary. Anchoring on a concrete BI artifact or event keeps the conversation inside the workflow. A bounded menu of three incident *types* preserves comparability when the specific incidents differ.
+
+This now has a citable warrant rather than only a design rationale. Nahar et al. (CHI'26) state their own method as: *"we ask questions about behaviors rather than ask about preferences, focusing on revealed preferences"* (`stickystories2025` §6.1.5, p.18). Ackerman independently names the risk this avoids — that *"[p]articipants may have given responses reflecting organizational policies rather than individual views"* (`agenticaiperceptions2025` §2.3, p. 5; page corrected Oct 10, 2026 against the PDF) — which is precisely what an abstract policy question elicits and a concrete incident does not.
+
+**Timeline uncertainty is data.** Where a participant cannot date a change or name who made it, record the uncertainty rather than pressing. The corpus assumes governance is documented, staged and layered (`agarwal2025fivelayer` §3 p.3-5; `luna2024paradigms` p.4-5). If practitioners experience it as undated and unattributed, that mismatch is a finding.
+
+---
+
+## 1. Opening (3 min)
+
+*Not recorded until consent is confirmed on tape.*
+
+1. Thank you. Introduce self, programme, supervisor.
+2. Purpose in one sentence (fixed wording, `wording_card_bilingual.md` §1): "I'm studying how people who work with data and reporting come across their organisation's rules for generative AI, how they make sense of them, and what they actually do when those rules touch their work."
+3. Confirm: consent form v1.1 received (signed or by email reply); questions about it.
+4. Confirm on record: recording OK; can stop or skip anything; can withdraw; anonymised at organization level as well as personal level.
+5. "There are no right answers, and I'm not evaluating your organization's compliance. I'm interested in how things actually work."
+
+**Start recording. Restate consent question on tape.**
+
+---
+
+## 2. Section A — Role and context (3 min)
+
+- A1. Can you describe your role and what a typical week looks like?
+- A2. Where does generative AI touch your work, if at all? *(Probe for concrete: which tools, which tasks — drafting summaries, writing queries, explaining a dashboard, generating commentary on a report.)*
+- A3. Roughly when did GenAI tools first appear in your team's work? Was that formal or informal at first?
+- ~~A4. Who in the organization would you say "owns" the rules about using these tools?~~ **Cut in v1.0** (overlaps with B4 and C2).
+
+> Tier note — A4 is the first triangulation point. Strategic informants tend to name a committee; operational informants often name a person, a wiki page, or nobody. Divergence here is a finding, not an inconsistency to resolve.
+> Source: `batool2024aigov` §4.1 p.8-9 (the "who is governing" question); `batool2024rai` §3.1.1 p.4 ("If an organisation is not sure exactly what they need to govern...").
+
+---
+
+## 3. Section B — Incident anchor (18 min) **[core section]**
+
+**Read the menu aloud — fixed wording, both languages: `wording_card_bilingual.md` §4–5.** "I'd like to spend most of our time on one concrete situation rather than on the policy in the abstract. Three kinds of situations tend to come up — could you pick whichever you have a real example of?"
+
+- **(i) A refused or restricted use.** Someone wanted to use a GenAI tool for something in a report or analysis, and it wasn't allowed, or had to be done differently.
+- **(ii) An output that couldn't be used as it was.** A figure, a summary, a query, or a piece of commentary that turned out to be wrong, unverifiable, or needed rework before it could go into a deliverable.
+- **(iii) A use that got approved.** A tool or a way of working that went from "someone was trying it" to "this is how we do it."
+
+> Wording discipline: never say "hallucination," "violation," "breach," or "mistake." (ii) asks the participant to describe normal work, not to confess. Type (iii) is the easiest to answer and is a good fallback if the participant hesitates at (i) and (ii).
+
+**Then process-trace it with the same four questions, whichever type they chose — fixed wording, `wording_card_bilingual.md` §6:**
+
+- B1. **What happened?** Walk me through it from the beginning. *(Probe: which report/dashboard/dataset; who was involved; what was the deadline pressure.)*
+- B2. **What rule existed at the time?** Was there anything written down? Did people know about it? How did you find out what was allowed?
+- B3. **What changed afterwards?** Did anything about how you work change? Was anything written, announced, or added to a tool? Or did it just... settle?
+- B3a. **Did a one-off decision become a standing rule?** *(new v0.98, fixed wording §6)* "If something like this came up again, would you have to ask again, or would you already know what to do?"
+  > Purpose: detects a ruling that has hardened into a working rule without any document changing — the form of change practitioners are most likely to see (Sep 11 log, Q2d).
+- B4. **Who decided?** Who made the call, and who else had to agree? Did it go anywhere above/below your level?
+  - **Escalation probe** *(new v0.98, fixed wording §6a)*: "When you passed something like this up, what came back — a yes or no, an explanation, a new rule, or nothing?" Record the answer as `yes/no · explanation · rule · nothing`.
+
+**Confidence probes (ask after B3/B4, lightly):**
+- "Roughly when was that — month, quarter, or is it hard to pin down?"
+- "Is that written somewhere, or is it more that people know it?"
+
+> Record the participant's *confidence* in dating and attribution as a coded attribute (`high / approximate / cannot say`). See design logic above.
+
+**v1.0: one incident by default.** Take a second incident of a different type only if you are ahead of time.
+
+Sources: incident types derived from the risk typologies in `taeihagh2025govgenai` Table 1 p.2-4 (hallucination/inaccuracy; sensitive-information risk) and `joshi2025resai` §I-B p.1-2 (Shadow AI, unauthorized use); the "output that could not be used" type targets the decision-support language present across the corpus (`joshi2025resai` §I-B p.1; `weinberg2025faigmoe` §3.4 p.9; `lee2024questionbank` §4.3 p.9) where literal BI terms are absent in all 12 notes.
+
+---
+
+## 4. Section C — Phase 1: Policy Encounter & Interpretation (7 min)
+
+- C1. When did rules about GenAI first reach you, and how did you find out? Where did you understand them to have come from — your team, somewhere higher up, a parent company?
+- C1a. **Before the rules, and when they arrived** *(added Sep 29, pre-pilot; fixed wording, `wording_card_bilingual.md` §6b)*: "Before there were any rules, how were you using it? When the rules arrived, what did you stop, change, or keep doing?"
+  > Ask only if A3 places GenAI use before C1's rule date. Skip for participants who arrived after the rules existed (tenure floor, §11 item 2b) — ask them instead what they found already in place. "Kept doing" is deliberately neutral: never ask whether they broke or got around a rule, and do not name bypass unless the participant does.
+  > Purpose: reconstructs the before → arrival → after sequence within one account. Distinguishes use *before* any rule (claim K11, governance-first) from use *around* an existing rule (claim K5), and tests whether any use around a rule is a continued pre-rule habit rather than a reaction to over-control (`../planning/ch2_claims_map_2026-09-29.md`, P2). Record the A3 date, the C1 date and the participant's dating confidence for both.
+- C2. As far as you know, who wrote them? Was anyone who actually builds or uses reports involved — and were you or your team asked anything?
+- ~~C3. What did you understand the rules to be trying to prevent? What did people around you worry about most?~~ **Cut in v1.0.**
+- C4. Is there anything in it that's specific to analytics or reporting work, as opposed to general company-wide AI rules?
+
+**Tier branches**
+
+| Tier | Additional probe |
+|---|---|
+| Strategic | How did you reconcile the pressure to adopt with the risk position? Did any external requirement (customer, auditor, regulator, parent company) set the floor? |
+| Tactical | When the policy arrived at your team, what did you have to interpret or fill in yourself? |
+| Operational | How did you first learn what you were and weren't allowed to do? Training, a document, a colleague, or trial and error? |
+
+Sources: C1-C2 from the participatory co-design and strategy-tier constructs in `ismail2025frameworks` §3.4 p.127, §4.2 p.128, §4.3 p.129; C2 also from `lee2024questionbank` Table 2 p.14 ("Does the company have designated responsibility for AI and RAI within the organisation?" and the accountability-framework item), adapted from closed to open form; C4 is the study's own BI-specific extension — no corpus source, inductive by design.
+
+---
+
+## 5. Section D — Phase 2: Implementation & Change Management (7 min)
+
+- ~~D1. How did the rules actually reach people? What made them stick, or not?~~ **Cut in v1.0** (overlaps with C1).
+- D2. Are there technical controls, or is it mostly guidance people are trusted to follow? *(Probe: approved tool list, blocked services, data restrictions on what can go into a prompt, review before publishing.)*
+- D2a. **Data before it goes in** *(added Sep 29, pre-pilot; fixed wording, `wording_card_bilingual.md` §6c)*: "Walk me through what you do with data before it goes into an AI tool. How do you decide what's okay to put in? How did you learn that?"
+  > Never ask whether they put restricted or all data in — that is a confession question. Let the participant describe normal work.
+  > **Listen for the shape of the answer**, not only its content: *rule-shaped* (categories, definitions — "personal data means…") suggests the working rule came from the document; *case-shaped* (examples, history — "last time the payment table got refused…") suggests it came from rulings. Code as the case attribute **source of working rule** (document / ruling / colleague / tool block / own judgement). This is how the study distinguishes *delivered → read → used* without asking whether the policy was read (`../planning/ch2_claims_map_2026-09-29.md`, contribution 2).
+- D3. What's the gap between what the policy says and what people actually do under deadline?
+- ~~D4. Has anyone been in a position where following the rule would have made the work impossible? What happened?~~ **Cut in v1.0.**
+
+**Tier branches**
+
+| Tier | Additional probe |
+|---|---|
+| Strategic | How do you know whether it's being followed? What would tell you it wasn't? |
+| Tactical | What have you had to decide yourself because the policy didn't cover it? |
+| Operational | When you're unsure whether something's allowed, what do you actually do? |
+
+Sources: D2 from the technical-safeguard constructs in `ismail2025frameworks` §6.4 p.133-134 (prompt checks, data controls) and `joshi2025resai` p.5-6 (sandboxing, Shadow AI); D3-D4 target the implementation gap that is the shared WHY across `batool2024rai` §1 p.1-2, `ferjani2025cogov` §1 p.4727, `agarwal2025fivelayer` §1 p.2, `ozman2025platforms` §1.1 p.78; D1 informed by `lee2024questionbank` §5.1 p.14 on role-specific knowledge silos.
+
+---
+
+## 6. Section E — Phase 3: Organizational Adaptation Dynamics (7 min)
+
+> v1.0: ask E1–E2 only of participants who were there before the rules; tier branches (here and in C, D) only if time allows.
+
+- E1. How have the rules changed since the first version? Can you walk me through the changes?
+- E2. What triggers a change — an incident, a new tool, a new regulation, someone new arriving?
+- E3. Is there a route for someone doing the work to say "this rule doesn't make sense"? Has it ever been used?
+  - **Escalation probe** (same fixed wording as B4, if not already covered in Section B). "No route" and "never used" are valid answers — do not lead.
+  - **E3a. Why nothing went up** *(added Sep 29, pre-pilot; fixed wording, `wording_card_bilingual.md` §6d)*, asked only when the participant describes a case that did not go above them: "If it didn't go to anyone above you, what made that the better choice at the time?"
+    > Purpose: separates *no route* from *route not used* — the two explanations of an SQ2 null. Do not suggest reasons; record the participant's own. Code the reason as: no route known / thought it wouldn't change anything (efficacy) / felt risky (safety) / no time / not needed (G2 Morrison 2023). Peer-only discussion is **lateral voice**, not "nothing" — code it separately.
+- ~~E4. Has the work itself changed — what analysts do day to day, what skills matter now?~~ **Cut in v1.0** (not in the RQs).
+- ~~E5. Where do you expect the rules to go next? What's still unresolved?~~ **Cut in v1.0** (not in the RQs).
+
+**Tier branches**
+
+| Tier | Additional probe |
+|---|---|
+| Strategic | Do you review this on a schedule, or only when something forces it? |
+| Tactical | Does what your team learns ever make it back up into the policy? Through what channel? |
+| Operational | Has anything you or a colleague raised ever changed a rule? |
+
+Sources: E2-E3 target adaptive/bidirectional governance — `joshi2025resai` p.6-7 (bottom-up sandbox feedback into strategic roadmaps), `taeihagh2025govgenai` p.6 (adaptive governance; "red teaming, impact assessment, and internal auditing need to become routine"), `weinberg2025faigmoe` §3.3 p.8 (non-linear feedback loops); E3 also adapts `lee2024questionbank` Fig.10 p.33 ("Is there a mechanism to capture feedback by users of the system and enable user contestability?"); E4 from `ismail2025frameworks` §5.5 p.132 (labour shifts, analysts to prompt validators) and `taeihagh2025govgenai` p.16.
+
+---
+
+## 7. Section F — Document walkthrough **[v1.0: separate optional follow-up call, ~10 min, only with consent item 3]**
+
+*Only where prior permission for document access has been granted. Documents are consulted, never reproduced or quoted in the thesis.*
+
+- F1. Can we look at the current version together? *(Ask the participant to screen-share or describe; do not request a copy unless publication permission was granted.)*
+- F2. What's the revision history — how many versions, and when? *(Record dates and version numbers only.)*
+- F3. For each change we can see: what prompted it?
+- F4. Is there anything in here that's never actually been applied?
+
+> Metadata extraction target: version number, date, and a one-line description of what changed. This is the temporal spine that the interview-only cases lack, and it is what allows recall in the unanchored cases to be assessed.
+
+---
+
+## 8. Section G — Closing (3 min)
+
+- G1. Is there anything I should have asked and didn't?
+- G2. *(v1.0: depth cases only)* Is there anyone else here whose view on this would be different from yours? *(Depth-stratum recruitment route. Ask especially of participants #3 and #4 — the Shopee Assistant Manager and OPS BI Lead are the only realistic route to a policy owner, which would complete Depth A's vertical. See `sampling_frame.md` §3.)*
+- G3. Would you be willing to look at a short summary of what I understood, to check I've got it right? *(Member checking.)*
+- Thank you; restate anonymisation; confirm withdrawal window and contact.
+
+**Stop recording.**
+
+---
+
+## 9. Immediately after each interview (researcher only)
+
+**Shopee independence safeguards (v0.98).** Schedule #1–4 close together. At the end of each Shopee interview, ask the participant not to discuss it with colleagues until all four are done. Never mention what another participant said. Record any sign that participants compared notes.
+
+
+Write a one-page contact summary within 24h: setting, incident type(s) chosen, tier, dating confidence, anything the recording won't capture, and any new code candidate that didn't fit the a priori frame.
+
+Templates (Sep 29): `../analysis/templates/contact_summary_template.md` (≤24h), `familiarisation_memo_template.md` (≤48h; fill §0 *before* the interview), `interview_log_template.md`, `codebook_v0.md`. **Filled copies go to Aalto OneDrive, never into the repo** (`../analysis/README.md`).
+
+## 10. Analysis notes
+
+- **Analytic spine (a priori, adopted Sep 2):** Papagiannidis, Mikalef & Conboy's **structural / procedural / relational** practice typology and its Antecedents–Practices–Effects framework (`responsibleaigovreview` pp.10–14), descending from Tallon, Ramirez & Short (2013, *JMIS*). Chosen over Luna's H-GenAIGF for three reasons: it is processual, so it fits *evolution*; it sits in an IS-discipline lineage rather than a CS/ethics one; and **relational practices are the ones the working tier can actually observe** — participants cannot see board structures, but they can see coordination, escalation, informal norms and who they ask when unsure.
+- **Seed codes (a priori, secondary):** three phases; Luna's four constituents — Data, Model, Content Generation, Ethics (`luna2024paradigms` p.4-5) — retained as an instrument/coding dimension and for the jurisdictional comparison, not as the spine; accountability vs. responsibility split (`priyanshu2024claude` §6.1 p.5 — illustrative only, low-tier source).
+- **Fourth convergence to test — the engagement gap.** Four independent sources in four venues report that governance exists and does not engage those it governs: policy is *"generally deprioritized or considered an ancillary task"* (`responsibleaigovreview` p.1); RAI processes become *"bureaucratic 'check-the-box' exercises"* (`stickystories2025` §2.1, p.4); 86% of practitioners say frameworks need enhancement (`agenticaiperceptions2025` §3.8, p.13); and the translational gap between principle and practice (`ethicaltheoriesgovmodels2025` §1, p.2). This is a claim *about the working tier* and is directly testable by this design.
+- **Candidate outcome typology — use with care.** Nahar's engagement profiles (Resistors / Indifferents / Followers / Learners / Champions, `stickystories2025` §6.4.5, pp.25–28) could classify participants. ⚠ Adopting another study's typology wholesale risks reducing the contribution to "it also applies in Taiwan and Finland." Use it as a sensitising comparison at the discussion stage, not as the finding.
+- **Inductive space:** everything BI-workflow-specific. No a priori code may be the answer to the RQ; if the findings are simply "we found Data, Model, Content and Ethics governance," the study has confirmed Luna rather than extended him.
+- **Case attributes (not codes):** tier; sector; size; document-anchored y/n; dating confidence; **source of working rule** per incident (document / ruling / colleague / tool block / own judgement — from B2, D2a; answer shape rule-shaped vs case-shaped).
+- **SQ2 codes (added Sep 29):** route known (yes / no / unsure; corroborated by other informants in the same organisation?) · branch taken (ask / act now / lateral) · distance travelled (peer → manager → local BI → Regional BI → rule owner) · what came back (yes/no · explanation · rule · nothing) · reason for not going up (from E3a). Reading the rule document is consulting, not going up. See `../planning/ch2_claims_map_2026-09-29.md`.
+- **Reusable follow-up items:** Nahar's two-month follow-up questions transfer directly to Phase 3 — *"Have you reacted to or done anything based on the findings from our session…?"* and *"Have you had any discussions — positive or negative — about responsible AI with your peers since…?"* (`stickystories2025` §6.1.5, p.18). Papagiannidis's Table 5 research questions convert to Phase 1 and 2 prompts (`responsibleaigovreview` pp.11–12).
+- **Consistency procedure** *(renamed Oct 1 from "Reliability procedure" — codebook TA: these are consistency checks, not reliability measures; Ch.3 §3.4–3.5)*: Luna's three-cycle consideration — first pass extracts, second reviews, third resolves disagreement (`luna2024paradigms` p.4). Adapt to a solo-researcher version (coding, re-coding after an interval, and supervisor spot-check of a sample) and state the adaptation honestly in Chapter 3.
+- **Cross-case display:** a coverage matrix in the spirit of Luna's rubric — Covered / Partially covered / Not covered (`luna2024paradigms` p.6) — applied to organizations x phases rather than regions x processes.
+
+## 11. Known weaknesses of this draft
+
+1. ~~Methods foundation missing~~ **Resolved Sep 30 (S4, Cluster M):** codebook thematic analysis (M1–M3), critical incident technique (M4 Gremler, M5), case design (M6 Baxter & Jack, M11), trustworthiness (M7), information power (M8), translation (M9), insider-outsider (M10).
+2. Language resolved (Sep 2): English master + interpreted delivery, with core items fixed bilingually. Back-translation of the fixed items still outstanding.
+2b. Tenure floor: participants #7, #12, #13 (at Amazon since 2025) and #14 (1–2 yr at current organisation) joined after GenAI adoption and may have no evolution memory. Do not press Section E with them — use them for the sedimented state (what they found on arrival, how they learned it).
+3. Not piloted. Section B is the section most likely to over-run. C1a adds ~3 min to Section C — if time is short, keep C1a and cut C3 or C4. D2a adds ~3 min to Section D — if short, keep D2a and cut D4. E3a adds ~1–2 min to Section E.
+4. Sections C-E may be too many questions for 30 minutes combined; expect to cut on the basis of the pilot, preserving B.

@@ -1,6 +1,6 @@
 # Fixed-Wording Card — EN / 繁體中文（台灣）
 
-**Version:** 1.2 | Sep 29, 2026 (v1.1 same day; v1.0 Sep 2) — aligned to protocol v0.98 / RQ v2.1; v1.2 adds §6b C1a and §6c D2a
+**Version:** 1.3 | Oct 14, 2026 — adds §6d E3a, used in the pilot and judged clear (Albert); aligned to protocol v1.0. **v1.2** Sep 29, 2026 (v1.1 same day; v1.0 Sep 2) — aligned to protocol v0.98 / RQ v2.1; v1.2 adds §6b C1a and §6c D2a
 **Purpose:** the protocol is delivered in English and interpreted live for the six Chinese-speaking participants (#1–6). These sentences are the exception: they are **read as written**, in the language of the interview, and must not be improvised. They carry the core section's comparability.
 
 **Scope:** study purpose statement, the incident menu, the four process-trace questions plus B3a and the escalation probe, the confidence probes.
@@ -136,6 +136,16 @@ Asked in Section D after D2. Never ask whether the participant put restricted or
 **EN** — "Walk me through what you do with data before it goes into an AI tool. How do you decide what's okay to put in? How did you learn that?"
 
 **ZH** — 「可以跟我說一下，資料在放進 AI 工具之前，你通常會怎麼處理嗎？你怎麼判斷哪些可以放、哪些不行？這是怎麼學到的？」
+
+---
+
+## 6d. Why nothing went up — E3a *(new v1.3)*
+
+Asked in Section E only when the participant describes a case that did not go above them. Do not suggest reasons; record their own (no route known / wouldn't change anything / felt risky / no time / not needed; peer-only talk = lateral).
+
+**EN** — "If it didn't go to anyone above you, what made that the better choice at the time?"
+
+**ZH** — 「如果這件事沒有往上反映給任何人，當時是什麼原因讓你覺得這樣比較好？」
 
 ---
 

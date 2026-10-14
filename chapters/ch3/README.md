@@ -21,7 +21,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 | 3.3 | — | 650 | — | After the pilot | — |
 | 3.4 | `3.4_analysis.md` | 650 | 708 | Draft v1 (Oct 1) | 11 PENDING, 1 FILL |
 | 3.5 | `3.5_trustworthiness_reflexivity.md` | 400 | 437 | Draft v1 (Oct 1) | 6 PENDING, 7 FILL |
-| 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING, 1 CHECK |
+| 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING |
 | 3.7 | `3.7_literature_review_method.md` | 250 | 298 | Draft v1.1 (Oct 1: R1 coding rule + range reason added, +31 words; Oct 6: AI sentence now points to 3.6); resolves 2.6 `Section [3.X]` | 1 FILL |
 
 \*Prose words, excluding headings, HTML comments, citation brackets and `[PENDING]`/`[FILL]` markers.
@@ -48,7 +48,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 - `[PENDING: change log, summaries and memos kept during fieldwork]` · `[PENDING: pre-interview memos]`
 
 **3.6**
-- `[CHECK: tenk2023ri p. 9 against the PDF]` (save the TENK PDF to Group M first)
+- `[CHECK: tenk2023ri p. 9 against the PDF]` — **checked Oct 9, 2026: holds** (printed p. 9 = PDF p. 10; paraphrase accurate; uncited first sentence also supported, p. 3). Marker removed from 3.6 (Albert approved Oct 9)
 - `[PENDING: form sent before each interview]` · `[PENDING: consent obtained]` · `[PENDING: fieldwork]` · `[PENDING: deletion]` · `[PENDING: AI use log kept during analysis]`
 
 **3.7**
@@ -59,6 +59,12 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 - `[PENDING: adequacy appraised during fieldwork]`
 
 Running total drafted: 2,607 prose words + Table 3.1 (88) of 3,000 (3.1, 3.2, 3.4–3.7). Remaining: 3.3 (650, after the pilot).
+
+## Pilot and protocol v1.0 (Oct 14, 2026)
+
+- Pilot done with a Mandarin-speaking breadth participant; **pilot only, not data** (Albert). Questions clear; over 60 min, mostly Section B.
+- Supervisor (Yong, reply to the interview design): many questions, likely overtime; announce the document option in advance; asked what the Depth A change threshold means (explained in the design doc §1).
+- `research-design/interview_protocol_v1.0.md`: 45–60 min; A4, C3, D1, D4, E4, E5 cut; F as a separate optional call; E3a fixed (card v1.3 §6d). **3.3 is planned from v1.0**; it must say the pilot used v0.98 and was not retained as data.
 
 ## Albert to-do
 

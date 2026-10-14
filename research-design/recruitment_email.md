@@ -2,6 +2,8 @@
 
 **Version:** 0.95 (draft), Sep 2, 2026. Complete all [BRACKETED] fields before sending.
 
+> ⚠ **Oct 9, 2026 — out of date on consent.** The attachment is now only `Consent_form_interview_v1.1.docx`; the information sheet and old consent form are superseded. Send the form with `consent_email_v1.1.md`, not with the attachment lines in A, B and D. Template A's "I'd check anything I quote with you first" is **not** in form v1.1 (it offers an optional summary to check, and anonymised quotes): do not reuse that sentence.
+
 > ⚠ **Route selection (Sep 2, after the participant list was confirmed).** This sample is a professional network of individuals, several of whom are likely bound by employer NDAs (JPMorgan, Nordea, Amazon among the likeliest). **Template A is the default route for all 14 participants.** Do NOT send template B unless a participant themselves says organizational sign-off is needed — approaching an employer unprompted risks both the interview and the participant's position. Template C (referral) matters most for Shopee participants #3 and #4, who are the only realistic route to a policy owner. See `sampling_frame.md` §7.
 Do not send before the ethical-review determination is in hand (see `ethics_determination_note.md`) — several organizations will ask for it.
 
