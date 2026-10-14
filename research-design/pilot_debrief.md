@@ -2,6 +2,7 @@
 
 **Pilot participant:** #[5 / 6] (breadth, zh-TW) | **Date:** [ ] | **Duration:** [ ] min | **Recorded:** [y/n]
 **Status:** template — fill within 24h of the pilot, then hand to the next session to produce v1.0.
+**Procedure:** `pilot_runbook.md` (Oct 9, 2026). The Google Doc recording sheet linked there covers the same items for live note-taking; fill its OneDrive copy, not the Google Doc.
 
 > Is the pilot data usable as a breadth case? Decide now and record it here: **[yes — counts as case #5/6 / no — pilot only]**. If yes, Chapter 3 must say the instrument changed after this interview and list what changed (the table below is that list).
 
