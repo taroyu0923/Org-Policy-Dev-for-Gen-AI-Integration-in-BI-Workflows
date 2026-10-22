@@ -93,7 +93,7 @@ Claude outputs/      PR descriptions and session outputs
 
 ## Status
 
-*Updated Oct 14, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-14.md`.*
+*Updated Oct 22, 2026. Detail: `planning/Pipeline_State.md` and `planning/session_handoff_2026-10-14.md`.*
 
 **Word budget:** 25,000 words. Intro 2,000 · literature review 6,250 · method 3,000 · findings 8,000 · discussion 4,250 · conclusion 1,500. **Decision (Oct 2):** Chapters 2 and 3 may run over without trimming; the total is rebalanced when Chapters 4–6 are planned.
 
@@ -104,10 +104,11 @@ Claude outputs/      PR descriptions and session outputs
 - [x] **Ch2 drafted:** 2.1 v1.3 (1,176 words) · 2.5 v1.3 (1,430) · 2.6 v1.5 (1,005) — ≈3,610 of 6,250. Sensemaking added as the second lens (Oct 2; all new quotes PDF-checked)
 - [x] **Figures:** 2.1 (rule path, two lenses) and 2.2 (screening) in `chapters/figures/`
 - [ ] **Ch2 remaining:** 2.2–2.4, after the depth-case interviews
-- [x] **Ch3:** 3.1, 3.2, 3.4–3.7 drafted and reviewed (3.4 v1.2 names sensemaking as a sensitising lens)
+- [x] **Ch3 fully drafted (Oct 22):** 3.1–3.7 drafted and reviewed, ≈4,150 words (budget 3,000; overrun accepted, to be offset in Chapters 4–6). 3.4 v1.2 names sensemaking as a sensitising lens
 - [x] **Ch3 after the supervisor meeting (Oct 6):** 3.6 v1.3 retitled *Research ethics and research integrity* (supervisor's requirement; TENK cited) · 3.2 v1.2 smaller sample acceptable · 3.4 v1.3 Depth A threshold for three or fewer participants · 3.5 AI draft translation sentence · 3.7 AI sentence points to 3.6
 - [x] **3.6 TENK check (Oct 9):** `[CHECK: tenk2023ri p. 9]` resolved against the PDF; marker removed, prose unchanged
-- [ ] **Ch3 remaining:** 3.3, planned from protocol v1.0 (it must say the pilot used v0.98 and was not kept as data). `[FILL]` / `[PENDING]` markers to be completed after fieldwork.
+- [x] **3.3 Data collection v1.1 (Oct 22):** protocol development in the four IPR phases, the October pilot (v0.98, not kept as data) and v1.0, the critical-incident anchor, bilingual fixed wording, document call and Depth A safeguards; quotes PDF-checked. 3.6 permission wording and 3.1 marker aligned (PR #19)
+- [ ] **Ch3 remaining:** `[FILL]` / `[PENDING]` markers, completed after fieldwork
 - [ ] Ch4–Ch6 after analysis · title revision (supervisor)
 
 **Literature**
