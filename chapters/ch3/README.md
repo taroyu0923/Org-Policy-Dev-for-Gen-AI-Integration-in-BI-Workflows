@@ -18,7 +18,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 |---|---|---|---|---|---|
 | 3.1 | `3.1_research_approach_design.md` | 400 | 440 | Draft v1 (Oct 1) | 2 PENDING, 1 FILL |
 | 3.2 | `3.2_participants_sampling.md` | 500 | 444 + Table 3.1 (88) | Draft v1 (Oct 1) | 1 PENDING, 2 FILL |
-| 3.3 | — | 650 | — | After the pilot | — |
+| 3.3 | `3.3_data_collection.md` | 650 | 749 | Draft v1.1 (Oct 22; reviewed, six wording fixes; from the approved plan in `planning/ch3_3.3_writing_prompt.md`, protocol v1.0) | 2 PENDING, 1 FILL |
 | 3.4 | `3.4_analysis.md` | 650 | 708 | Draft v1 (Oct 1) | 11 PENDING, 1 FILL |
 | 3.5 | `3.5_trustworthiness_reflexivity.md` | 400 | 437 | Draft v1 (Oct 1) | 6 PENDING, 7 FILL |
 | 3.6 | `3.6_ethics_data_protection.md` | 300 | ≈640 | Draft v1.3 (Oct 6: retitled *Research ethics and research integrity*; supervisor template, AI on de-identified data only, TENK cited, integrity paragraph) | 6 PENDING |
@@ -29,7 +29,7 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 ## Open markers
 
 **3.1**
-- `[PENDING: interviews Oct 5–19; menu confirmed after the pilot]`
+- `[PENDING: interviews]` (shortened Oct 22)
 - `[FILL: final n per case after fieldwork]`
 - `[PENDING: analysis after fieldwork]`
 
@@ -54,11 +54,16 @@ Budget: 3,000 words (±10%: 2,700–3,300). Writing order: 3.1 → 3.4 → 3.5 �
 **3.7**
 - `[FILL: S1 databases and query strings, if reconstructed]` (search_log S1 "TO RECONSTRUCT")
 
+**3.3**
+- `[PENDING: interviews]` · `[FILL: interview period]`
+- `[PENDING: Depth A interviews]` (independence safeguards)
+- **Applied Oct 22 (Albert approved):** 3.1 ¶1 marker shortened to `[PENDING: interviews]`; 3.6 ¶3 permission now "viewing internal documents in a separate, optional call" (matches 3.3); 3.3 v1.1 after orchestration review (six wording fixes, quotes re-checked).
+
 **3.2**
 - `[FILL: final n if anyone declines or withdraws]` · `[FILL: tier]` (Breadth 6, Table 3.1; eligibility confirmed by Albert Oct 1)
 - `[PENDING: adequacy appraised during fieldwork]`
 
-Running total drafted: 2,607 prose words + Table 3.1 (88) of 3,000 (3.1, 3.2, 3.4–3.7). Remaining: 3.3 (650, after the pilot).
+Running total drafted (recounted Oct 22, all sections, same method): 3.1 466 · 3.2 517 · 3.3 749 · 3.4 871 · 3.5 473 · 3.6 744 · 3.7 326 = **4,146 prose words + Table 3.1** of a 3,000 budget (accepted ceiling ~3,350; Albert: overrun offset in Chapters 4–6). All sections drafted.
 
 ## Pilot and protocol v1.0 (Oct 14, 2026)
 
