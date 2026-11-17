@@ -11,3 +11,5 @@ literature/pdfs/
 # Analysis working copies — filled templates belong in Aalto OneDrive, never in the repo
 analysis/working/
 analysis/**/P[0-9][0-9]_*
+
+interviews/transcripts/
