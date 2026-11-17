@@ -1,5 +1,7 @@
 # Session handoff — orchestration session (Oct 9–14, 2026)
 
+> **Superseded as entry point (Nov 18, 2026)** by `planning/session_handoff_2026-11-18.md`. Kept for its setup notes and logs.
+
 **Replaces as entry point:** `planning/session_handoff_2026-10-06.md` (keep it; its §1 setup notes and logs are still the record).
 **Role of the next session:** orchestration. Plans, reviews, verifies, writes prompts, keeps the pipeline files current. Chapter prose is drafted only from paragraph plans Albert has approved.
 
